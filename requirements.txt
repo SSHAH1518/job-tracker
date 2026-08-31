@@ -1,0 +1,14 @@
+# No Anthropic SDK / API key needed - Claude Code (your Pro plan) does the
+# reasoning. Python only does deterministic work.
+
+# Job discovery
+requests>=2.31
+feedparser>=6.0
+beautifulsoup4>=4.12
+lxml>=5.0
+
+# Browser automation
+playwright>=1.44
+
+# Scheduling
+apscheduler>=3.10

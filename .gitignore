@@ -1,0 +1,36 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Playwright browser profile (contains logged-in sessions)
+data/browser_profile/
+
+# Local logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp / atomic-write leftovers
+data/*.tmp
+
+# Working files (canonical record lives in applications.json)
+data/answers/
+data/analysis_request.json
+data/analysis_results.json
+data/_inbox_jobs.json
+
+# Personal - your real contact details. Keep local; commit profile.example.json instead.
+data/profile.json
+
+# Resume PDFs are personal documents - keep them local.
+data/resumes/*.pdf
+data/resumes/*.docx

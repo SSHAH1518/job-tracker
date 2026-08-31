@@ -1,0 +1,77 @@
+{
+  "_comment": "Controls job_discovery.py (deterministic, no AI). `aggregators` finds jobs automatically with no per-company setup - it is the default engine. `sources` is for targeting specific boards/URLs (e.g. Amazon/JPMorgan/Goldman program postings, which have no public API - paste those into sources.seed_urls.urls). The keyword/location/exclude lists below are applied to EVERYTHING pulled.",
+
+  "_keywords_note": "Matched with word boundaries. A hit in the job TITLE passes; otherwise 2+ distinct keywords anywhere are needed. Keep entries specific - avoid bare words like 'intern' or 'data'.",
+  "keywords": [
+    "software engineer", "software developer", "software development engineer",
+    "backend", "back end", "back-end", "full stack", "full-stack", "frontend", "front end",
+    "sde", "sde-1", "sde 1", "sde i", "associate software", "software engineer i",
+    "graduate engineer", "graduate engineer trainee", "graduate trainee", "new grad",
+    "python developer", "java developer", "backend developer", "backend engineer",
+    "data scientist", "data science", "data analyst", "analyst data science",
+    "machine learning engineer", "ml engineer", "ai engineer", "applied ai",
+    "applied scientist", "research engineer", "deep learning", "nlp engineer",
+    "platform engineer", "api developer", "technology analyst", "developer intern",
+    "engineering intern", "software intern", "summer intern", "apprentice"
+  ],
+  "locations": ["Gurugram", "Gurgaon", "Bengaluru", "Bangalore", "Hyderabad", "Pune", "Mumbai", "Noida", "Delhi", "Chennai", "India", "Remote"],
+  "exclude_keywords": [
+    "senior", "sr.", "staff", "principal", "lead", "head of", "director",
+    "manager", "architect", "vp ", "chief", "president",
+    "gardener", "joiner", "cleaner", "driver", "sales", "retail", "warehouse",
+    "nurse", "recruiter", "accountant", "bpo", "voice process", "customer support",
+    "content reviewer", "rater"
+  ],
+
+  "aggregators": {
+    "_comment": "Automatic. themuse/remotive/remoteok/arbeitnow/hn_hiring need no key. adzuna/jooble need a free key in .env (ADZUNA_APP_ID+ADZUNA_APP_KEY, JOOBLE_API_KEY) and auto-skip if unset.",
+    "themuse":   { "enabled": true, "pages": 4, "levels": ["Entry Level", "Internship"], "locations": ["India", "Flexible / Remote"] },
+    "remotive":  { "enabled": true, "per_search": 50 },
+    "remoteok":  { "enabled": true },
+    "arbeitnow": { "enabled": true, "pages": 3 },
+    "hn_hiring": { "enabled": true },
+    "adzuna":    { "enabled": true, "country": "in", "max_days_old": 30, "pages": 3 },
+    "jooble":    { "enabled": true, "location": "India", "pages": 2 }
+  },
+
+  "sources": {
+    "greenhouse": {
+      "enabled": false,
+      "_comment": "board tokens from boards.greenhouse.io/<token>. Add real ones for companies you want to track directly.",
+      "boards": []
+    },
+    "lever": {
+      "enabled": false,
+      "_comment": "company slugs from jobs.lever.co/<slug>.",
+      "companies": []
+    },
+    "ashby": {
+      "enabled": false,
+      "_comment": "org slugs from jobs.ashbyhq.com/<slug>.",
+      "orgs": []
+    },
+    "rss": {
+      "enabled": false,
+      "_comment": "Any RSS/Atom job feed URLs.",
+      "feeds": []
+    },
+    "seed_urls": {
+      "enabled": true,
+      "_comment": "Paste individual job posting URLs (Amazon SDE I Intern 2027, JPMorgan SEP 2027, Goldman NAP 2027, Deloitte Campus27, LinkedIn/Naukri postings, ...). Fetched, text-extracted and analyzed directly.",
+      "_browser_hosts_note": "URLs on these hosts are opened through your logged-in Playwright profile (run `python -m app.main login --url https://www.linkedin.com` once) instead of plain HTTP, so login-walled postings resolve.",
+      "browser_hosts": ["linkedin.com", "naukri.com", "glassdoor.com", "glassdoor.co.in", "instahyre.com", "wellfound.com", "hirist.com"],
+      "urls": []
+    },
+    "html_pages": {
+      "enabled": false,
+      "_comment": "Generic careers pages scraped with Playwright. Fragile - give a CSS selector for job links.",
+      "pages": []
+    }
+  },
+
+  "limits": {
+    "max_jobs_per_source": 120,
+    "request_timeout_seconds": 20,
+    "user_agent": "job-agent/1.0 (+personal job search automation)"
+  }
+}

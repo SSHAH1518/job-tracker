@@ -1,0 +1,81 @@
+{
+  "_comment": "Template. Copy to profile.json (git-ignored) and fill in your real details. profile.json feeds Claude Code matching, deterministic form autofill, and answer drafting.",
+
+  "personal": {
+    "full_name": "Your Name",
+    "first_name": "Your",
+    "last_name": "Name",
+    "email": "you@example.com",
+    "phone": "+91 00000 00000",
+    "location": { "city": "City", "state": "State", "country": "India" },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/your-handle",
+      "github": "https://github.com/your-handle",
+      "portfolio": ""
+    },
+    "work_authorization": { "country": "India", "authorized": true, "needs_sponsorship": false }
+  },
+
+  "preferences": {
+    "titles": ["Software Engineer", "SDE-1", "Data Scientist", "Machine Learning Engineer I"],
+    "locations": ["Bengaluru", "Hyderabad", "Pune", "Remote"],
+    "remote_ok": true,
+    "employment_types": ["Full-time", "Internship"],
+    "graduating_batch": "2027",
+    "available_from": "2027-06",
+    "exclude_keywords": ["immediate joiner", "senior", "staff", "principal", "5+ years"],
+    "seniority": ["Intern", "Entry", "New Grad", "Junior"]
+  },
+
+  "education": [
+    {
+      "institution": "Your University",
+      "degree": "B.Tech",
+      "field_of_study": "Computer Science",
+      "start_date": "2023-08",
+      "end_date": "2027-06",
+      "expected_graduation": "2027-06",
+      "gpa": "0.0/10"
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Company",
+      "title": "Software Engineering Intern",
+      "location": "India",
+      "start_date": "2026-06",
+      "end_date": "2026-07",
+      "current": false,
+      "highlights": ["What you built and the impact it had."]
+    }
+  ],
+
+  "projects": [
+    { "name": "Project", "description": "One line on what it does and the stack.", "tech": ["Python"], "link": "" }
+  ],
+
+  "skills": {
+    "languages": ["Python", "SQL", "Java"],
+    "ml_ds": ["pandas", "scikit-learn", "PyTorch"],
+    "backend": ["Flask", "REST APIs"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
+    "tools": ["Git", "Linux"],
+    "domains": ["Backend engineering", "Data Science"]
+  },
+
+  "answers": {
+    "_comment": "Canned answers reused verbatim for common questions. Truthful only.",
+    "willing_to_relocate": "Yes",
+    "notice_period": "Available from mid-2027 (graduating June 2027).",
+    "earliest_start_date": "June 2027 (January 2027 for a 6-month pre-placement internship).",
+    "expected_ctc": "Open to discussion / as per company standards.",
+    "graduation_date": "June 2027",
+    "sponsorship_needed": "No - Indian citizen, authorized to work in India.",
+    "why_this_company": "Write one honest base paragraph, then let Claude Code tailor per role.",
+    "gender": "Prefer not to say",
+    "race_ethnicity": "Prefer not to say",
+    "veteran_status": "Not applicable",
+    "disability_status": "Prefer not to say"
+  }
+}

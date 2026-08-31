@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Job Application Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>Job Application Tracker</h1>
+      <button id="refresh" type="button">Refresh</button>
+    </header>
+
+    <section id="stats" class="stats" aria-live="polite"></section>
+
+    <div class="tabs">
+      <button class="tab active" data-view="applications">Applications</button>
+      <button class="tab" data-view="queue">Queue</button>
+      <button class="tab" data-view="jobs">All jobs</button>
+    </div>
+
+    <div class="filters">
+      <input id="search" type="search" placeholder="Search company or role">
+      <select id="status">
+        <option value="">All statuses</option>
+        <option>DISCOVERED</option>
+        <option>REVIEW</option>
+        <option>QUEUED</option>
+        <option>APPLIED</option>
+        <option>OA</option>
+        <option>INTERVIEW</option>
+        <option>REJECTED</option>
+        <option>OFFER</option>
+      </select>
+      <select id="sort">
+        <option value="recent">Newest</option>
+        <option value="score">Match score</option>
+        <option value="company">Company A-Z</option>
+      </select>
+    </div>
+
+    <p id="meta" class="meta"></p>
+    <section id="list"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
