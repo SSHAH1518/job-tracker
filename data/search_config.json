@@ -59,8 +59,18 @@
       "enabled": true,
       "_comment": "Paste individual job posting URLs (Amazon SDE I Intern 2027, JPMorgan SEP 2027, Goldman NAP 2027, Deloitte Campus27, LinkedIn/Naukri postings, ...). Fetched, text-extracted and analyzed directly.",
       "_browser_hosts_note": "URLs on these hosts are opened through your logged-in Playwright profile (run `python -m app.main login --url https://www.linkedin.com` once) instead of plain HTTP, so login-walled postings resolve.",
-      "browser_hosts": ["linkedin.com", "naukri.com", "glassdoor.com", "glassdoor.co.in", "instahyre.com", "wellfound.com", "hirist.com"],
-      "urls": []
+      "browser_hosts": ["linkedin.com", "naukri.com", "glassdoor.com", "glassdoor.co.in", "instahyre.com", "wellfound.com", "hirist.com", "amazon.jobs", "jobs.jpmorgan.com", "jpmc.fa.oraclecloud.com", "goldmansachs.com", "careers.microsoft.com", "usijobs.deloitte.com", "apply.deloitte.com"],
+      "_urls_note": "Added 2026-09-03. Amazon SDE I Intern 2027 (India, grad-year 2027) req IDs rotate/close every few weeks - re-check and swap if discover logs a 404. JPMorgan/Goldman/Microsoft/Deloitte deep links sit behind JS/auth-walled portals (Oracle Cloud, Workday) that 403 plain fetchers and rotate requisition IDs; the entries below are the program hubs - open them in a logged-in browser, copy the live India requisition URL, and replace the hub URL here.",
+      "urls": [
+        "https://www.amazon.jobs/en/jobs/10506481/sde-i-intern-amazon-university-talent-acquisition",
+        "https://www.amazon.jobs/en/jobs/10503366/sde-i-intern-amazon-university-talent-acquisition",
+        "https://www.amazon.jobs/en/jobs/10490515/sde-i-intern-amazon-university-talent-acquisition",
+        "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+        "https://www.jpmorganchase.com/careers/explore-opportunities/programs/software-engineer-fulltime",
+        "https://www.goldmansachs.com/careers/students/programs-and-internships/india/new-analyst-program",
+        "https://careers.microsoft.com/v2/global/en/recentgraduate",
+        "https://usijobs.deloitte.com/en_US/careersUSI"
+      ]
     },
     "html_pages": {
       "enabled": false,

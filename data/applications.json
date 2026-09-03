@@ -1,3 +1,19 @@
 {
-  "applications": []
+  "applications": [
+    {
+      "job_id": "97198b7bc337",
+      "company": "Amazon.jobs",
+      "role": "SDE I Intern , Amazon University Talent Acquisition",
+      "status": "REVIEW",
+      "match_score": 85,
+      "resume": "software_engineering.pdf",
+      "application_url": "https://www.amazon.jobs/en/jobs/10506481/sde-i-intern-amazon-university-talent-acquisition",
+      "notes": "Needs human: resume upload (no file input found)",
+      "questions": [],
+      "id": "app_97198b7bc337",
+      "date_applied": null,
+      "created_at": "2026-09-03T23:16:34",
+      "updated_at": "2026-09-03T23:16:34"
+    }
+  ]
 }

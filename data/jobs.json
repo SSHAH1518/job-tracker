@@ -261,7 +261,7 @@
       "reason": "Explicitly a junior (0-3 year) role, fully global-remote, on a Python/PostgreSQL/Linux stack spanning ML, backend, data mining and ETL. The post welcomes recent grads and weights curiosity and side projects, which he has. One of the strongest matches in this batch.",
       "requires_human_review": false,
       "resume_hint": "",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "e1c28ca3ed9b",
       "discovered_at": "2026-09-01T01:53:59",
       "analyzed_at": "2026-09-01T01:57:31"
@@ -805,6 +805,1129 @@
       "id": "31e2a3402431",
       "discovered_at": "2026-09-01T01:54:01",
       "analyzed_at": "2026-09-01T01:57:31"
+    },
+    {
+      "company": "Benzinga",
+      "title": "AI Engineer Data APIs",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+      "location": "Remote",
+      "source": "remoteok",
+      "description": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you solved it. Focus on architecture decisions and tradeoffs, not a f... Please mention the word **CHARMINGLY** and tag RMTUyLjUyLjM0LjEzMQ== when applying to show you read the job post completely (#RMTUyLjUyLjM0LjEzMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 33,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "REST APIs",
+        "LLM/agent tooling"
+      ],
+      "missing_skills": [
+        "Production AI systems",
+        "Data-API scale",
+        "Portfolio video/live demos"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "RemoteOK spam-trap listing for a mid-level remote AI Engineer; wants a proven track record of shipped data-API/AI systems and a video walkthrough. Seniority and location (likely US-remote) are unclear.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "0768beeaba79",
+      "discovered_at": "2026-09-03T23:05:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "atvari GmbH",
+      "title": "Nix / NixOS / Nixpkgs Software Engineering Intern",
+      "url": "https://www.arbeitnow.com/jobs/companies/atvari-gmbh/nix-nixos-nixpkgs-software-engineering-intern-luneburg-296907",
+      "location": "Lüneburg",
+      "source": "arbeitnow",
+      "description": "atvari is a technology company specializing in software and cloud architecture, custom software engineering, cloud engineering, DevOps, and IT consulting. The team is passionate about building robust, modern solutions with a strong focus on Rust, Nix / NixOS / Nixpkgs, and open-source technologies. atvari values clean, maintainable code and collaborative engineering practices. Applicants can expect to work in an environment that encourages learning, experimentation, and contribution to the open-source community. Tasks Role Description As a Nix / NixOS / Nixpkgs Software Engineering Intern at atvari, you will support the design, implementation, and maintenance of Nix-based development and deployment environments. You will assist in writing and refining Nix and NixOS configurations, automating build and deployment workflows, and integrating Nix with existing software projects. Day-to-day tasks include collaborating with engineers on backend services, troubleshooting environment and dependency issues, and documenting configuration and tooling. This is a fully remote internship, where you will work closely with the engineering team and gain hands-on experience with Rust, Nix, and cloud-native practices. Internship Details This is an unpaid internship for the duration of 1-3 months based on your needs. It is either offered as a voluntary internship (Freiwilliges Praktikum) or a mandatory internship (Pflichtpraktikum) and it is only available to German residents. You are eligible if one of these conditions apply to you: you do not have a completed apprenticeship or university degree (Freiwilliges Praktikum) you need a mandatory internship as part of a degree program (Pflichtpraktikum) Requirements Strong foundational knowledge in Computer Science, including algorithms, data structures, and operating systems. Exposure to Software Development and Programming, with experience in at least one high-level language (Rust experience is a plus). Understanding of Back-End Web Development concepts, such as APIs, microservices, and server-side frameworks. Familiarity with Functional Programming (FP) principles and their practical application in codebases. Interest in Nix / NixOS / Nixpkgs, reproducible builds, DevOps, and infrastructure as code. Ability to learn quickly, work in a team setting, and communicate clearly about technical topics. Comfort working remotely in Germany and collaborating in a cross-functional engineering environment. Benefits Our Tech Stack Nix / NixOS / Nixpkgs Rust TypeScript & React Kubernetes & Podman OpenTofu / Terraform gRPC, Protobuf & buf GraphQL Grafana, Loki, Tempo, Mimir OpenTelemetry WebAssembly OpenCode & Claude Code GitHub, GitLab, Forgejo Hetzner Cloud, GCP, AWS, Azure, OpenStack Other tools we use: Proton Workspace (Proton Mail, Proton Calendar, Proton Drive, Proton Pass, Proton Meet, Proton Lumo AI) Element / Matrix Find more English Speaking Jobs in Germany on Arbeitnow",
+      "remote": true,
+      "employment_type": "Internship, professional / experienced",
+      "match_score": 10,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Linux"
+      ],
+      "missing_skills": [
+        "Nix / NixOS / Nixpkgs",
+        "Rust"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Explicitly an unpaid internship open only to German residents, so the candidate is ineligible. Stack (Nix, Rust) is also outside his experience.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "fdfe5038d583",
+      "discovered_at": "2026-09-03T23:05:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Machine Learning Reply",
+      "title": "DevOps/ML Engineer (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/devops-ml-engineer-munich-292353",
+      "location": "Munich, Bayern, Germany",
+      "source": "arbeitnow",
+      "description": "At Machine Learning Reply, we work with our customers on cutting-edge projects for which we are looking for DevOps and ML Engineers to support our customer projects around machine learning and data processing across various industries. To expand our team, we are looking for a talented and highly skilled consultant with a technical background to join our team. As a consultant, you will be responsible for providing expert advice and technical support to our clients. If you're a DevOps or ML Engineer or just starting out in the field of machine learning and/or DevOps engineering - if you never lose focus, love coding, data and AI, and are passionate about bringing your ideas to life - then we want to hear from you! Responsibilities: Design innovative, technical approaches for data intensive and applications with a focus on machine learning and artificial intelligence. Implement and take ownership for your solutions on in either cloud based ( AWS , Azure or GCP ) and/or on-premises infrastructures of our customers. Automate recurring tasks by state-of-the-art DevOps and MLOps concepts , enabling your customers to significantly reduce their time-to-delivery. Take care of the necessary monitoring, failover, and recovery infrastructures that allow our customers save operation of their machine learning solutions in agreement with latest regulatory requirements Closely interact with customers and stakeholders to translate concrete and complex business requirements into production-ready solutions Collaborate with various disciplines such as enterprise architects, analysts, data scientists or data engineers to develop data-intensive applications such as data warehouses, data lakes and/or data platforms What we offer you: Access to work on projects across industries (large and mid-market companies in Banking, Insurance, Automotive, Retail, etc . ) Broaden your skills through interdisciplinary work and training in the areas of data engineering, cloud architecture, and data science Benefit from industry-leading cooperations in the cloud, BI, and AutoML field Very active social program - including training, conferences, team buildings, Reply Exchange, communities of practices, and hackathons Work in an open, flat environment, within a broad Reply knowledge-sharing network Award-winning office space in downtown Munich with access to “Stammstrecke” You choose your state-of-the-art equipment Public transport ticket with Deutschlandticket Gym-membership subsidy for a gym of your choice Flexible work environment between client, Reply office, and remote work Minimum Job Requirements / Qualifications : Bachelor’s / master’s degree in computer science or any other related fileds (e.g. engineering, statistics, physics). First practical experience with DevOps/MLOps principals and computing platforms like Microsoft Azure, AWS and GCP as well as Databricks . Ability to convincingly communicate and present analytical results to management. We cover the full lifecycle of Data , from Cloud Infrastructure, Data Engineering, Data Analytics, and Visualization to ML Engineering to and MLOps. Interest and/or experience in some of those fields is an advantage . Fluent in English and German . Desired : Working experience in cloud technologies (AWS, Azure or GCP), Kubernetes and programming languages like Python, Java and Scala . Practical experience with SQL and NoSQL database technologies and data lakes Experience with big data technologies ( Apache Spark ), data streaming ( Apache Kafka ) and workflow orchestration ( Apache Airflow, Dagster ) Find Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Mid, fulltime permanent",
+      "match_score": 25,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "scikit-learn",
+        "basic ML"
+      ],
+      "missing_skills": [
+        "MLOps / DevOps",
+        "AWS / Azure / GCP",
+        "CI/CD",
+        "EU work authorization"
+      ],
+      "relevant_projects": [
+        "City-Level Demand Forecasting"
+      ],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "On-site consultant role in Munich requiring EU work authorization plus the exact gaps in his profile: MLOps, cloud platforms and production DevOps. No sponsorship offered.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "419fe71debdd",
+      "discovered_at": "2026-09-03T23:05:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "InnoCraft",
+      "title": "Full Stack Engineer (100% Remote United Kingdom)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/innocraft/full-stack-engineer-100-remote-united-kingdom-london-126689",
+      "location": "London",
+      "source": "arbeitnow",
+      "description": "Build and deliver the next generation of privacy-first analytics capabilities — from rapid prototypes and AI-powered insights to scalable product innovations embedded directly into Matomo’s core platform. Own end-to-end innovation development within a small, autonomous team, working closely with the CTO and senior engineers to turn high-impact concepts into practical, production-ready solutions. About Innocraft & Matomo Matomo is an open-source analytics platform trusted by enterprises, public institutions, and governments requiring full data ownership. We are expanding our European engineering team and looking for a Full Stack Engineer who wants to help shape and validate the future direction of Matomo’s product offering through innovation-focused product development. Why This Role Own end-to-end innovation work — from concept and prototyping through deployment and integration into Matomo’s core platform Help shape privacy-first, open-source analytics products used by organisations across 190+ countries Join a profitable, self-funded company with double-digit growth for 5+ years and a steadily expanding global team 100% remote within United Kingdom, with flexible working hours and strong support for work-life balance Work in a high-calibre innovation team using AI-powered development tools to accelerate experimentation, delivery, and impact What You Will Own Innovation Engineering & Product Development Design, prototype, and deliver new features across backend (PHP) and frontend (JavaScript) that extend Matomo’s capabilities Work across additional technologies where needed, including Python and Node.js Rapidly explore and validate new product ideas — including but not limited to AI-powered insights and analytics features Identify and develop innovation opportunities across analytics, visualization, integrations, and user experience End-to-End Ownership & Delivery Own ideas end-to-end, from concept through deployment Balance speed and quality while avoiding unnecessary over-engineering Operate effectively in a small, autonomous team with minimal oversight Proactively identify and resolve blockers to progress, escalating appropriately when support is needed Product Impact & Technical Excellence Think beyond code — considering usability, scalability, security, and long-term product value Write automated tests, review code, and produce clear technical documentation Maintain awareness of security vulnerabilities and ensure secure implementation practices Stay current with emerging technologies, frameworks, and product trends to bring fresh perspectives into Matomo Collaboration & Knowledge Sharing Collaborate directly with Matomo’s co-founders and senior engineers using Slack, Jira, and Confluence Share concepts, prototypes, and learnings to spread innovation practices across the company Communicate ideas, rationale, and technical trade-offs clearly within a fully remote, global environment What You Bring Requirments 3-5 years experience with backend development in PHP or Python, databases, and frontend development in JavaScript Proven track record of delivering features end-to-end — from concept through prototyping to production Strong problem-solving skills with a pragmatic approach to innovation and new technologies Ability to work autonomously in a small, fast-moving team while managing priorities independently A product-oriented mindset, translating user needs and strategic goals into practical, impactful solutions Comfortable balancing rapid delivery with sustainable engineering quality Understanding of security vulnerabilities and how to avoid them Experience writing automated tests, reviewing code, and producing technical documentation Excellent English communication skills, with the ability to clearly explain ideas, rationale, and trade-offs Comfortable working in a fully remote, global, and agile environment Strong signals Experience with analytics, reporting, data visualisation, or AI/ML integrations Background contributing to or building on open-source projects Familiarity with UX principles and/or data-driven product design Prior experience in innovation, R&D, or product prototyping environments German language proficiency Experience using AI-powered tools and practices to accelerate experimentation, development, and quality Benefits 100% remote role (Must be based in United Kingdom) 25 days paid holiday + national public holidays Remote office budget + home equipment supplied Health insurance, mental health support and a volunteering day Annual learning budget Location 100% remote — United Kingdom only. Hiring Process Application → Screening email → Online aptitude test → People & Culture interview → Technical skills interview → Take-home exercise → Final technical interview Diversity and Inclusion InnoCraft (trading as Matomo) values what makes you unique. We’re an inclusive employer and welcome applicants from all backgrounds, because diverse perspectives help us build better products. #LI-Remote Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full-time",
+      "match_score": 22,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "JavaScript basics"
+      ],
+      "missing_skills": [
+        "PHP",
+        "Production JavaScript/frontend frameworks",
+        "UK work authorization"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "100 percent remote but restricted to the United Kingdom, and built on a PHP plus JavaScript stack he has not worked in. Autonomous end-to-end ownership implies an experienced hire.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "e5441762cdbe",
+      "discovered_at": "2026-09-03T23:05:52",
+      "analyzed_at": null
+    },
+    {
+      "company": "Renaissance Philanthropy",
+      "title": "Research Engineer (Speech AI/ML)",
+      "url": "https://news.ycombinator.com/item?id=49523770",
+      "location": "Remote (worldwide) Renaissance Philanthropy's aim is to activate a virtuous circle of increasing ambition and impact between philanthropists and innovators: by identifying frontier experts both in science and in new ways of solving problems; by tapping into the growing number of emerging philanthropists; and by building multi-sector initiatives that can harness the power of philanthropy, markets, and governments",
+      "source": "hn_hiring",
+      "description": "Renaissance Philanthropy | Research Engineer (Speech AI/ML) | Remote (worldwide) Renaissance Philanthropy's aim is to activate a virtuous circle of increasing ambition and impact between philanthropists and innovators: by identifying frontier experts both in science and in new ways of solving problems; by tapping into the growing number of emerging philanthropists; and by building multi-sector initiatives that can harness the power of philanthropy, markets, and governments. RenPhil's Engineering Hub supports mission-driven, grant-funded educational technology projects that seek to improve educational outcomes in fundamental skills like math and reading. This summer we're launching a program called LEVI Literacy, which has a goal of halving the number of struggling readers in the US within 5 years. We're looking for an expert in modern voice AI to support this work. Our partner teams are building tools that assess and support early reading directly from children's speech in real classrooms — oral reading, spoken vocabulary tasks, whole-class instruction. These are hard, meaningful speech problems: young children's voices, noisy multi-speaker environments, and high stakes for getting it right — and fair — for every student. We're looking for folks who: - have built and operated production ASR or speech-processing systems - know the full data-to-model pipeline: collection, annotation, fine-tuning, evaluation, and deployment - can speak the languages of both research and engineering - want to help create a world where all children learn to read well. If this sounds like you, please apply! https://www.renaissancephilanthropy.org/careers",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 45,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "PyTorch",
+        "CNN/ResNet",
+        "signal processing",
+        "deep learning"
+      ],
+      "missing_skills": [
+        "Production ASR / speech systems",
+        "Full data-to-model deployment pipeline",
+        "MLOps"
+      ],
+      "relevant_projects": [
+        "Respiratory Sound Classification"
+      ],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Remote worldwide and his respiratory-sound CNN work is genuine audio-ML experience, but the role wants someone who has built and operated production ASR systems end to end. That is a large gap for a pre-graduation candidate.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "3d9999045951",
+      "discovered_at": "2026-09-03T23:05:56",
+      "analyzed_at": null
+    },
+    {
+      "company": "Axmed",
+      "title": "AI Engineer",
+      "url": "https://news.ycombinator.com/item?id=49533274",
+      "location": "REMOTE (preferred Spain, UK, Poland, Romania)",
+      "source": "hn_hiring",
+      "description": "Axmed | AI Engineer | REMOTE (preferred Spain, UK, Poland, Romania) | Full-time | apply: axmed.teamtailor.com/jobs/8175859-ai-engineer Axmed runs a live B2B marketplace connecting healthcare providers in low- and middle-income countries with pharmaceutical suppliers, working to make sure geography and income never stand between someone and the medicine they need. Backed by the Gates Foundation and Founderful. We're past proving it works and into scaling it — this role is what takes us there. You'll design and ship autonomous agents that run real steps of the marketplace (sourcing, quoting, order matching, supplier follow-up) on real transactions and real money, with a human in the loop where risk demands it. Full lifecycle ownership: you decide the approach, build it, ship it, watch it, fix it. Stack: Python, your choice of orchestration framework (LangChain/LangGraph/LlamaIndex/CrewAI), LLM APIs, cloud infra, CI/CD. We are a fully remote, global team of 55. No visa sponsorship/relocation. Apply: axmed.teamtailor.com/jobs/8175859-ai-engineer",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 40,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "LLM APIs",
+        "MCP / agent tooling"
+      ],
+      "missing_skills": [
+        "Agent frameworks in production",
+        "Cloud infrastructure",
+        "CI/CD",
+        "Full lifecycle ownership"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Remote but preferred in Spain/UK/Poland/Romania with no visa sponsorship or relocation, and asks for full build-ship-operate ownership of autonomous agents on real transactions. His LLM-tooling exposure at Tata 1mg is a hook but not enough.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "6afadd8bfd49",
+      "discovered_at": "2026-09-03T23:05:56",
+      "analyzed_at": null
+    },
+    {
+      "company": "Morningstar",
+      "title": "Software Engineer",
+      "url": "https://www.adzuna.in/land/ad/5846723249?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=5A544BBC960CCA0757AC78C34055BB1E3C287BD1",
+      "location": "New Delhi, Delhi",
+      "source": "adzuna",
+      "description": "This job is with Morningstar, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. The Group The Advice Software team within Morningstar Wealth builds industry leading solutions that empower financial advisors to deliver personalized, compliant, and goal based financial advice. Our products leverage Morningstar's trusted investment data, research, and analytics to help advisors make informed d…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 50,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "REST APIs",
+        "backend"
+      ],
+      "missing_skills": [
+        "Fintech / advisor-software domain",
+        "Years of professional experience (unclear)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Backend software role in New Delhi, close to his base in Gurugram, on a Python/SQL stack he knows. The posting gives no level or batch information, so eligibility for a 2027 graduate is unverified.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "5bc05bd26d77",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "ABB",
+      "title": "Software Engineer",
+      "url": "https://www.adzuna.in/land/ad/5852164535?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=9209E8787944C1DC2369EB9C41C3094786ECA2A0",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Technical Director - Digital Software En ABB’s Process Automation busi…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 40,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "Java basics"
+      ],
+      "missing_skills": [
+        "Industrial / process-automation domain",
+        "Embedded / C++",
+        "Professional experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Generic Software Engineer title in ABB's Process Automation unit reporting to a Technical Director; likely an experienced industrial-software hire and outside his backend/ML focus.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "54dac2df585a",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "Gurucul",
+      "title": "Software Engineer in Test",
+      "url": "https://www.adzuna.in/land/ad/5864431129?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=E8CC6190F1E3D0C62A09187D0A546D142AD2448F",
+      "location": "India",
+      "source": "adzuna",
+      "description": "Job Title Software Development Engineer in Test (SDET)About the Job Are you passionate about building high-quality software through automation and engineering excellence? Do you enjoy solving complex testing challenges, developing scalable automation frameworks, and leveraging the latest technologies to improve software quality? We're looking for a Software Development Engineer in Test (SDET) to join our Quality Engineering team. In this role, you'll work alongside developers, product managers,…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 33,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Java",
+        "Python"
+      ],
+      "missing_skills": [
+        "Selenium / Appium",
+        "Test-automation frameworks",
+        "SDET experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "SDET / quality-engineering role that expects existing automation-framework experience, which he does not have, and it is not one of his target tracks.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "55244fa4f989",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "RX Global",
+      "title": "Software Engineer III",
+      "url": "https://www.adzuna.in/land/ad/5852738521?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=92DCB9B80110E3DF4A26B5833A4C45E64138E62F",
+      "location": "Chennai, Tamil Nadu",
+      "source": "adzuna",
+      "description": "This job is with RX Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About Team: RX Global aims to create unforgettable experiences for attendees and exhibitors through organizing events. Innovation, creativity, and collaboration drive the company to offer exceptional services to clients. About the role: A Software Engineer III is an individual contributor who delivers production-q…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 30,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "backend"
+      ],
+      "missing_skills": [
+        "4-6 years of experience implied by the III level"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "'Software Engineer III' is a mid-level individual-contributor grade expecting several years of production delivery, well beyond a 2027 graduate.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "158c64384337",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "ABB",
+      "title": "Associate Software Engineer",
+      "url": "https://www.adzuna.in/land/ad/5841509341?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=D1270B04110BECC323487E81E9C4D66C691C4651",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Principal Software Engineer What we believe in ABB’s Process Automatio…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 52,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "backend basics"
+      ],
+      "missing_skills": [
+        "Industrial / process-automation domain",
+        "Possibly C++",
+        "Batch eligibility unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "'Associate Software Engineer' is an entry-level title that could suit a 2027 graduate, but it sits in ABB's Process Automation group where industrial/embedded skills usually matter. Worth a human check of the batch and domain requirements.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "57638abff893",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "Elsevier",
+      "title": "Software Engineer III",
+      "url": "https://www.adzuna.in/land/ad/5852738463?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=EDE131638BB8B7D791FC8F9F7ED6A4B666336BBF",
+      "location": "Chennai, Tamil Nadu",
+      "source": "adzuna",
+      "description": "This job is with Elsevier, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Are you a Systems Engineer looking for an innovative role? Do you enjoy being part of a team that works with a diverse range of technology? About our Team: Elsevier Health applies innovation, facilitates insights, and helps drive more informed decision-making for our customers across global health. …",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 30,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "Mid-level (III) experience",
+        "Systems-engineering background"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'Software Engineer III' / systems-engineer role at Elsevier Health expecting a multi-year track record; too senior for a pre-graduation candidate.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "4f809920a4c8",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "Recro",
+      "title": "Software Engineer in Test",
+      "url": "https://www.adzuna.in/land/ad/5864430737?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=7FD791B8991EE7D5F69377937DCC789D407CE7EE",
+      "location": "Noida, Ghaziabad",
+      "source": "adzuna",
+      "description": "Experience: 4-6 Years Location: Noida / Hybrid Key Responsibilities & Requirements: 4-6 years of experience in testing web , mobile , and backend applications . Proficiency in Java with a strong understanding of OOPs concepts . Good understanding of STLC and experience working in Agile teams. Hands-on experience in web application automation using Selenium . Expertise in mobile testing and automation using Appium . Experience in API and microservices testing . Hands-on experience in API automat…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Java"
+      ],
+      "missing_skills": [
+        "4-6 years of experience",
+        "Selenium",
+        "Appium",
+        "API/microservices test automation"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Posting explicitly requires 4-6 years of testing experience with Selenium and Appium. Hard mismatch on both seniority and skills.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "32bd0e33caf1",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "Arcana",
+      "title": "Software Engineer in Test",
+      "url": "https://www.adzuna.in/land/ad/5864426564?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=B290C528C0913CA557D80924BA0AF30FE71A1A00",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "We are looking for a meticulous SDET who will be responsible for the design and implementation of automated tests and test environments for Arcana. The engineer must have a passion for diving into data and technology, be a problem solver, and have a desire to improve software quality within a team environment. This role is critical in ensuring technology functions efficiently and effectively, minimizes errors, and helps meet software quality goals. Responsibilities : Collaborate with various te…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 30,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "Java"
+      ],
+      "missing_skills": [
+        "SDET experience",
+        "Automated-test framework design"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Dedicated SDET position requiring existing test-automation and framework-design experience; not one of his target tracks.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "9366443a4c37",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "Recro",
+      "title": "Software Engineer - Browser Automation",
+      "url": "https://www.adzuna.in/land/ad/5864426312?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=A27346080A30C3E564878BC09AB7AD3C017DF8A2",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "Mission If you ask a hospital today how much a treatment will cost, the answer is usually: “We don’t know.” Not because providers don’t want to tell you but because patient cost is computed across insurance plans, negotiated rates, and billing rules that are fragmented, opaque, and not designed for real-time transparency. What should be a simple question requires navigating a web of systems that don’t talk to each other. So humans do that work instead. They log into portals, call payers, follow…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 37,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Browser automation (Playwright/Puppeteer/Selenium)",
+        "Professional experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Role centres on building browser-automation systems for healthcare portal navigation; he has no browser-automation experience and the posting reads as an experienced hire.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "c9d890251cdb",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "Avaloq",
+      "title": "Software Engineer- PLSQL -ACP",
+      "url": "https://www.adzuna.in/land/ad/5849297101?se=Fk66572n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=170ABD5EB32B33D0BC4717E9433A3CFFFD17A09D",
+      "location": "Pune, Maharashtra",
+      "source": "adzuna",
+      "description": "This job is with Avaloq, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Company Description Founded and headquartered in Switzerland, Avaloq is continuously expanding its global footprint with around 2,500 colleagues in 10 countries, and more than 160 clients in 35 countries. We are an industry-leading provider of wealth management technology and services for financial institutions aroun…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 35,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "SQL",
+        "relational databases"
+      ],
+      "missing_skills": [
+        "PL/SQL",
+        "Oracle / Avaloq platform",
+        "Wealth-management domain",
+        "Professional experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Specialised PL/SQL engineering on Avaloq's banking platform; he knows general SQL but not PL/SQL or the banking domain, and the role expects experience.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "27761d2eebe0",
+      "discovered_at": "2026-09-03T23:05:58",
+      "analyzed_at": null
+    },
+    {
+      "company": "Moody's",
+      "title": "Software Engineer - Sharepoint Developer",
+      "url": "https://www.adzuna.in/land/ad/5865064890?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=7D08E55F7B8119270271C16BDF7CB0165F3E88A9",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 22,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "SharePoint",
+        "Microsoft 365 / Power Platform",
+        ".NET"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "SharePoint developer role on the Microsoft 365 stack, which is entirely outside his skill set.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "3e2d83184eeb",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "eBay",
+      "title": "Software Engineer Streaming/Messaging",
+      "url": "https://www.adzuna.in/land/ad/5857251208?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=D2EDC0229B026B966CEF760E9377E8C7A3A5D261",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with eBay, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 40,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Java",
+        "backend"
+      ],
+      "missing_skills": [
+        "Kafka / distributed streaming",
+        "Messaging systems at scale",
+        "Professional experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Streaming/messaging infrastructure role at eBay that expects hands-on experience with large-scale distributed messaging systems; no level or batch signal for a graduate.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "b8b825ddffa7",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "Recro",
+      "title": "Historian System and Software Engineer",
+      "url": "https://www.adzuna.in/land/ad/5864434547?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=651D2303C08F41D72AF5F39C4E5F39DD317D6233",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "In this role, you will lead the design, development, and maintenance of scalable enterprise software applications for our Global AI-Smart Operations. If you thrive on solving complex technical challenges, driving CI/CD automation, and working with industrial data streams, we want to hear from you! ️ Key Responsibilities Design & Scale Applications: Lead end-to-end (front-end and back-end) design, development, and maintenance of resource-optimized OT/IT applications for production operations and…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 25,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "OT/IT industrial systems",
+        "Data-historian platforms",
+        "Lead-level ownership"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Role is to lead end-to-end design of industrial OT/IT historian applications; both the leadership scope and the industrial-data domain are beyond his profile.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "fefc378f9b4b",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "Arcana",
+      "title": "Software Engineer Backend (SDE 2)",
+      "url": "https://www.adzuna.in/land/ad/5864443104?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=99BF0FDEB61239C831193238DF10CEA9F1BC9309",
+      "location": "India",
+      "source": "adzuna",
+      "description": "Join our dynamic team at the forefront of cutting-edge technology as we seek a SDE2 (Backend). Embark on a journey where your deep-rooted expertise in computer science fundamentals, alongside an intricate understanding of data structures, algorithms, and system design, becomes the cornerstone of innovative solutions. This pivotal role not only demands your proficiency in developing and elevating compute and I/O-intensive applications but also ensures their peak performance and unwavering reliab…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 35,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "backend",
+        "data structures & algorithms (foundational)"
+      ],
+      "missing_skills": [
+        "SDE-2 level experience",
+        "System design",
+        "Compute/IO-intensive application tuning"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Explicit SDE-2 backend role leaning heavily on DSA, system design and high-performance application tuning - exactly the depth he has not yet built, and above entry level.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "83ffa34707f9",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "Kyndryl",
+      "title": "Software Engineer - Full Stack Development",
+      "url": "https://www.adzuna.in/land/ad/5837139213?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=E5417B67FF55CE6D73B707EB6DE0DDD14F83958C",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 47,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "HTML/CSS"
+      ],
+      "missing_skills": [
+        "Modern JavaScript front-end framework",
+        "Full-stack delivery experience",
+        "Batch eligibility unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Kyndryl runs large fresher intakes in India and the stack overlaps his Java/Python/SQL base, but the posting is boilerplate with no stated level. A human should confirm it is open to the 2027 batch.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "817dc4a506e9",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "S&P Global",
+      "title": "Software Engineer, Backend Development (Python)",
+      "url": "https://www.adzuna.in/land/ad/5857982567?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=E3BA106662F057620D67772A3B71950CEB94EDB3",
+      "location": "Hyderabad, Telangana",
+      "source": "adzuna",
+      "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 03 Who We Are Kensho is S&P Global's hub for AI innovation and transformation . With expertise in Machine Learning and data discovery, we develop and deploy novel solutions for S&P Global and its customers worldwide. Our solutions help businesses harness the power o…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 64,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend",
+        "REST APIs",
+        "PostgreSQL",
+        "pandas / scikit-learn",
+        "ML fundamentals"
+      ],
+      "missing_skills": [
+        "Cloud / big-data at scale",
+        "Production ML deployment",
+        "Strong competitive-programming/DSA record"
+      ],
+      "relevant_projects": [
+        "City-Level Demand Forecasting",
+        "Respiratory Sound Classification"
+      ],
+      "relevant_experience": [
+        "Tata 1mg",
+        "Neuriot"
+      ],
+      "reason": "Kensho (S&P Global's AI hub) backend-Python role at grade 03, which is an early-career band, and the Python-plus-ML shape fits both his internships well. Kensho's hiring bar on algorithms and ML depth is high, so treat it as a stretch.",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "aa01174a0bc7",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "Kyndryl",
+      "title": "Software Engineer - Microsoft Power Platform Developer",
+      "url": "https://www.adzuna.in/land/ad/5837138735?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=30DB8AF6167416207F9C7D2B1D78CA8ED201388F",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 27,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "Microsoft Power Platform",
+        "Power Apps / Dataverse",
+        "Low-code development"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Microsoft Power Platform (low-code) developer role with no overlap with his Python/backend/ML skill set.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "2c8e7b92f97a",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "eBay",
+      "title": "MTS 2, Software Engineer, Data Platforms",
+      "url": "https://www.adzuna.in/land/ad/5857251152?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=F6ED6E5761AAB007E2A108EBC1289F6B09295EAC",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with eBay, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 33,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "SQL"
+      ],
+      "missing_skills": [
+        "Big-data platforms (Spark/Hadoop)",
+        "MTS-2 level experience",
+        "Data-platform engineering at scale"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "'MTS 2' is a mid-level grade and the Data Platforms charter needs large-scale big-data tooling experience, which is one of his listed gaps.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "e43632f62655",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "Arista Networks",
+      "title": "Software Engineer (Physical Network Layer/PHY/Serdes)",
+      "url": "https://www.adzuna.in/land/ad/5864429454?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=69C68E431EA1B7815273624F18E959423811F7B4",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "Company Description Arista Networks is an industry leader in data-driven, client-to-cloud networking for large data center, campus and routing environments. Arista is a well-established and profitable company with over $8 billion in revenue. Arista’s award-winning platforms, ranging in Ethernet speeds up to 800G bits per second, redefine scalability, agility, and resilience. Arista is a founding member of the Ultra Ethernet consortium. We have shipped over 20 million cloud networking ports worl…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 12,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "PHY / SerDes / physical-layer networking",
+        "C/C++",
+        "Hardware-adjacent systems"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Highly specialised physical-network-layer (PHY/SerDes) engineering role with no connection to his software profile.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "e55c32800bf9",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "Moody's",
+      "title": "Software Engineer - Full Stack (Angular and Node.JS)",
+      "url": "https://www.adzuna.in/land/ad/5859662514?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=209BC063A6854583EEFD7DE5702EB329513CE767",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 30,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "HTML/CSS",
+        "JavaScript basics"
+      ],
+      "missing_skills": [
+        "Angular",
+        "Node.js",
+        "Full-stack production experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Full-stack role built on Angular and Node.js, neither of which he has used; also expects delivery experience.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "fbd8dc59d20c",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "Morningstar",
+      "title": "Software Development Engineer",
+      "url": "https://www.adzuna.in/land/ad/5849640656?se=npXf6L2n8RGxWp4A46G3QA&utm_medium=api&utm_source=e3dd5c96&v=11A2EE70478DCA68117DD68A9FFF772F27B76A61",
+      "location": "Mumbai, Maharashtra",
+      "source": "adzuna",
+      "description": "This job is with Morningstar, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. As a member of the Product and Engineering team at PitchBook, you will be part of a team of big thinkers, innovators and problem solvers who strive to deepen the positive impact we have on our customers and our company every day. We value curiosity and the drive to find better ways of doing things. We thrive on …",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 48,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "backend"
+      ],
+      "missing_skills": [
+        "Stated level / batch eligibility",
+        "Domain (financial data)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Generic SDE role on the PitchBook engineering team in Mumbai (a preferred location) with a stack he can work in, but the posting gives no seniority or batch detail to confirm graduate eligibility.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "2ae6fc4a138c",
+      "discovered_at": "2026-09-03T23:06:00",
+      "analyzed_at": null
+    },
+    {
+      "company": "Entain",
+      "title": "Software Development Engineer III",
+      "url": "https://www.adzuna.in/land/ad/5867727287?se=9Gsb6r2n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=318AB89536225D8A5FF92A3242797000C9CAA521",
+      "location": "Telangana, India",
+      "source": "adzuna",
+      "description": "This job is with Entain, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Entain India is the engineering and delivery powerhouse for Entain, one of the world's leading global sports and gaming groups. Established in Hyderabad in 2001, we've grown from a small tech hub into a dynamic force, delivering modern software solutions and support services that power billions of transactions for mi…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 32,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "backend basics"
+      ],
+      "missing_skills": [
+        "III-level experience",
+        "High-scale transactional systems"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'Software Development Engineer III' at Entain implies several years building high-volume transactional systems; above entry level.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "1421590b8734",
+      "discovered_at": "2026-09-03T23:06:02",
+      "analyzed_at": null
+    },
+    {
+      "company": "Crestron Electronics",
+      "title": "Software Development Engineer in Test",
+      "url": "https://www.adzuna.in/land/ad/5864432262?se=9Gsb6r2n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=A5C1838709DA438FF2D6DF8930C4653105BA8EA6",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "Job Summary As a member of the Automation Quality Engineering team, you will work closely with members of the QE, and Development teams to define the automation test strategy, plan, test cases and test suites for products such as Touch panels, Thermostats, Commercial Lighting systems, Control Systems, Unified communication, and Network Streaming devices. Responsibilities Develop, maintain, and execute automation tests to ensure sufficient test coverage. Design scripts, and/or procedures to dete…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 27,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python scripting"
+      ],
+      "missing_skills": [
+        "Test automation",
+        "Hardware/embedded QE",
+        "SDET experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "SDET role automating tests for hardware products (touch panels, thermostats, control systems); outside his skills and target tracks.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "c0263def6224",
+      "discovered_at": "2026-09-03T23:06:02",
+      "analyzed_at": null
+    },
+    {
+      "company": "Stellantis",
+      "title": "Embedded Software Engineer – Connectivity (7-10 Years of Experience in Embedded, C++, Linux)",
+      "url": "https://www.adzuna.in/land/ad/5864435496?se=9Gsb6r2n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=27602DF7743A73B8C43BD101412BBDC453D1BA79",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "Embedded Software Engineer – Connectivity Job Summary: We are looking for a Engineer – Connectivity to lead the development of advanced in-vehicle connectivity solutions. This role is pivotal in shaping the future of connected vehicles by architecting and implementing embedded software that enables seamless communication between vehicle systems, mobile devices, cloud platforms, and infrastructure. Key Responsibilities: Lead the design and development of embedded connectivity software for automo…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 10,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Linux"
+      ],
+      "missing_skills": [
+        "7-10 years embedded experience",
+        "Embedded C++",
+        "Automotive connectivity"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Posting explicitly requires 7-10 years of embedded C++/Linux experience and a lead role. Hard mismatch.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "dcf0a8081591",
+      "discovered_at": "2026-09-03T23:06:02",
+      "analyzed_at": null
+    },
+    {
+      "company": "WPP Production",
+      "title": "SDET (Software Development Engineer in Test)",
+      "url": "https://www.adzuna.in/land/ad/5857982471?se=9Gsb6r2n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=1A6392A0EA6BD7304D070885AF04B0D3BF976966",
+      "location": "Hyderabad, Telangana",
+      "source": "adzuna",
+      "description": "This job is with WPP Production, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About WPP Production We are WPP Production - the unified global production company that brings together all of WPP's content producers, studios and craft experts into one connected organisation. We combine world-class human craft with next generation technology to originate, design, and deliver multi-channel …",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 27,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "Java"
+      ],
+      "missing_skills": [
+        "Test automation frameworks",
+        "SDET experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "SDET position at WPP Production requiring established test-automation experience; not one of his target tracks.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "a05bb1b4ca4c",
+      "discovered_at": "2026-09-03T23:06:02",
+      "analyzed_at": null
+    },
+    {
+      "company": "Stellantis",
+      "title": "Embedded Software Engineer(5-10 of Experience in C/C++, QNX, Linux, Camera Domain, Middleware Communication)",
+      "url": "https://www.adzuna.in/land/ad/5864426410?se=9Gsb6r2n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=E11A0661DCFE96AD41EDB21CA07DC6045504ACC3",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "Job Profile: Embedded Software Engineer (C/C++, QNX, Linux, Camera Domain, Middleware Communication) Experience Level : 5-10 years Location: Bangalore IJob Overview : We are seeking an experienced Embedded Software Engineer who excels both as an individual contributor and as part of a team. The ideal candidate will have expertise in C/C++, QNX, Linux, Vector Aracom, middleware communication, camera systems, design patterns, and debugging. This role will involve owning key features while collabo…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 10,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "5-10 years embedded experience",
+        "C/C++",
+        "QNX",
+        "Camera/middleware domain"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Requires 5-10 years of embedded C/C++, QNX and automotive camera-domain experience. Hard mismatch on seniority and skills.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "9c0b61ca90fa",
+      "discovered_at": "2026-09-03T23:06:02",
+      "analyzed_at": null
+    },
+    {
+      "company": "TMUS Global Solutions",
+      "title": "Sr Engineer Software - Backend [T500-28888]",
+      "url": "https://www.adzuna.in/land/ad/5864429941?se=9Gsb6r2n8RGvtpSTXC8AnQ&utm_medium=api&utm_source=e3dd5c96&v=788061A70BFA6CF1624C20AF2EFEC230FE88C11F",
+      "location": "Hyderabad, Telangana",
+      "source": "adzuna",
+      "description": "About T-Mobile: T-Mobile US, Inc. (NASDAQ: TMUS), headquartered in Bellevue, Washington, is America’s supercharged Un-carrier, connecting millions through its strong nationwide network and flagship brands, T-Mobile and Metro by T-Mobile. Customers benefit from an unmatched combination of value, quality, and exceptional service experience. TMUS Global Solutions: TMUS Global Solutions is a world-class technology powerhouse accelerating the company’s global digital transformation. With a culture b…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 20,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "backend basics"
+      ],
+      "missing_skills": [
+        "Senior-level backend experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "'Sr Engineer Software - Backend' is an explicitly senior role, which his exclude list rules out for a 2027 graduate.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "7cdab51fe59f",
+      "discovered_at": "2026-09-03T23:06:02",
+      "analyzed_at": null
+    },
+    {
+      "company": "Mastercard",
+      "title": "Software Engineer II - Integrations & API Connectivity",
+      "url": "https://jooble.org/desc/5758045384317018253?ckey=software+engineer+software+developer+software+development+engineer+backend+back+end+back-end&rgn=55126&pos=19&groupId=-846278524&elckey=-8794268861133603433&p=1&aq=3038415638699886675&cid=18811&jobAge=35&brelb=100&bscr=100.54819&scr=100.54819",
+      "location": "India",
+      "source": "jooble",
+      "description": "....  Title and Summary Software Engineer II – Integrations & API...  ...secure, reliable backend services. You will contribute to the development of scalable solutions,...  ...What You'll Do \r\n• Develop, test, and support scalable...  ...unit, integration, and end- to-end tests \r\n• Collaborate...",
+      "remote": false,
+      "employment_type": "Full-time",
+      "match_score": 50,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "Java",
+        "REST APIs",
+        "backend",
+        "unit/integration testing basics"
+      ],
+      "missing_skills": [
+        "Enterprise API-integration experience",
+        "Stated batch eligibility"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Mastercard 'Software Engineer II' backend/integration role; consistent with the other Mastercard SE II postings already scored in the low 50s. Early-career-ish but needs a human to confirm it takes 2027 graduates.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "28958fe69eac",
+      "discovered_at": "2026-09-03T23:06:04",
+      "analyzed_at": null
+    },
+    {
+      "company": "Smartworking",
+      "title": "Frontend Developer",
+      "url": "https://jooble.org/desc/3117380656474487960?ckey=software+engineer+software+developer+software+development+engineer+backend+back+end+back-end&rgn=55126&pos=39&groupId=-846278524&elckey=-8794268861133603433&p=2&aq=2499203767266070055&cid=18811&jobAge=303&brelb=100&bscr=56.969284&scr=56.969284",
+      "location": "India",
+      "source": "jooble",
+      "description": "...As a  Frontend Developer , you’ll work on the frontend of an established recruitment platform...  ...of the frontend, contributing to engineering decisions around performance, staged delivery...  ...problems early rather than at the end of a sprint. \r\n Work in sprints and keep...",
+      "remote": false,
+      "employment_type": "Full-time",
+      "match_score": 33,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "HTML",
+        "CSS"
+      ],
+      "missing_skills": [
+        "Modern frontend framework (React/Vue/Angular)",
+        "Production frontend experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Dedicated frontend-developer role needing production experience with a modern JavaScript framework; he only has basic HTML/CSS and frontend is not his track.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "16abfed98c07",
+      "discovered_at": "2026-09-03T23:06:05",
+      "analyzed_at": null
+    },
+    {
+      "company": "Amazon.jobs",
+      "title": "SDE I Intern , Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10506481/sde-i-intern-amazon-university-talent-acquisition",
+      "location": "",
+      "source": "seed_url_browser",
+      "description": "SDE I Intern , Amazon University Talent Acquisition - Job ID: 10506481 | Amazon.jobs Skip to main content × Home Teams Locations Job categories My career My applications My profile Account security Settings Sign out Resources Accommodations Benefits Inclusive experiences How We Hire Leadership principles Working at Amazon FAQ Amazon Jobs home page Search for jobs by title or keyword search job by location My career My applications My profile Account security Settings Sign out Amazon Jobs home page cancel Search for jobs by title or keyword search job by location Search jobs Amazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds SDE I Intern , Amazon University Talent Acquisition Job ID: 10506481 | ADCI - Karnataka Apply now Description Software Development Engineer 6 months Internship – 2027 (In-Person) Introduction At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The intense focus we have on our customers is why we are one of the world’s most beloved brands – customer obsession is part of our company DNA. Our interns write real software and collaborate with a select group of experienced software development engineers (SDEs) who guide interns on projects that matter to our customers. As an intern, you will be matched to a manager and a mentor. You will have the opportunity to influence the evolution of Amazon technology and lead mission critical projects early in your career. Your design, code, and raw smarts will contribute to solving some of the most complex technical challenges in the areas of distributed systems, data mining, automation, optimization, scalability, and security – just to name a few. In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in activities with other interns throughout your internship. No matter the location of your internship, we give you the tools to own your project and learn in a real-world setting. Many of our technologies overlap, and you would be hard pressed to find a team that is not using Amazon Web Services (AWS), touching the catalogue, or iterating services to better personalize for customers. If this opportunity interests you, apply and come chart your own path at Amazon. Job location By applying to this position your application will be considered for all locations we hire for in India. This includes but is not limited to Bengaluru, Chennai, Hyderabad, Delhi, Mumbai and Pune. Duration and Timelines Amazon internships are full-time (40 hours/week) for 24 - 26 consecutive weeks (six months) with start dates between January - June 2027 Please note that Amazon internships require full-time commitment during the duration of the internship. During the course of internship, interns should not have any conflicts including but not limited to academic projects, classes or other internships/employment. Any exam related details must be shared with the hiring manager to plan for absence during those days. Specific team norms around working hours will be communicated by the hiring/ reporting manager at the time of commencement of internship. Candidates receiving internship will be required to submit declaration of their availability to complete the entire duration of internship duly signed by a competent authority at their University. Internship offer will be subjected to successful submission of the declaration. Key job responsibilities •\tCollaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market. •\tDesign and build innovative technologies in a large distributed computing environment, and help lead fundamental changes in the industry. •\tCreate solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed. •\tBuild distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use. •\tAbility to design and code the right solutions starting with broadly defined problems. •\tWork in an agile environment to deliver high-quality software. Basic Qualifications - Knowledge of computer science fundamentals such as object-oriented design, operating systems, algorithms, data structures, and complexity analysis - Knowledge of programming languages such as C/C++, Python, Java or Perl - Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application -Year of Graduation 2027 Preferred Qualifications - Previous technical internship(s). - Experience with distributed, multi-tiered systems, algorithms, and relational databases. - Experience in optimization mathematics such as linear programming and nonlinear optimization. - Effectively articulate technical challenges and solutions. - Adept at handling ambiguous or undefined problems as well as ability to think abstractly. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. Job details IND, KA, Bengaluru IND, TS, Hyderabad IND, MH, Pune IND, New Delhi IND, KA, Bangalore IND, TS, Nalgonda IND, TN, Chennai Administrative Support JOIN US ON DOWNLOAD OUR APP Find Careers Job Categories Teams Locations Military careers Hourly Working At Amazon Culture Benefits Amazon Newsletter Inclusive experiences Leadership Principles Help FAQ How We Hire Application status Accommodations Legal disclosures and notices English Čeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文 Čeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文 Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Privacy and Data Impressum © 1996-2026, Amazon.com, Inc. or its affiliates",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 85,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "Java",
+        "Data structures & algorithms",
+        "Linux",
+        "Backend",
+        "Problem solving"
+      ],
+      "missing_skills": [
+        "Competitive-programming / DSA depth for the online assessment",
+        "Distributed-systems exposure"
+      ],
+      "relevant_projects": [
+        "City-Level Demand Forecasting",
+        "Respiratory Sound Classification"
+      ],
+      "relevant_experience": [
+        "Tata 1mg",
+        "Neuriot"
+      ],
+      "reason": "Amazon SDE I 6-month internship explicitly for the 2027 graduating batch, in-person in Karnataka - a direct match to his batch, location preferences and the January-2027 pre-placement window. Core ask is CS fundamentals plus C/C++/Python/Java, which he has; the known risk is DSA depth for the online assessment.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "APPLIED",
+      "id": "97198b7bc337",
+      "discovered_at": "2026-09-03T23:06:43",
+      "analyzed_at": null
     }
   ]
 }
