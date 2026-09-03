@@ -1927,7 +1927,8 @@
       "status": "APPLIED",
       "id": "97198b7bc337",
       "discovered_at": "2026-09-03T23:06:43",
-      "analyzed_at": null
+      "analyzed_at": null,
+      "applied_note": "Applied manually on amazon.jobs, 2026-09-03 (Somin)"
     }
   ]
 }
