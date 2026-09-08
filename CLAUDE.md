@@ -41,6 +41,12 @@ All under `data/` (JSON, atomic writes):
 - **`answers/<job_id>.json`** — per-job free-text answer stubs. `prepare` writes
   the empty stub; `/prepare` fills the `answer` fields; `prepare` (re-run) applies
   them. Git-ignored working files.
+- **`skill_confirmations.json`** — `{ "confirmed": [...], "ruled_out": [...],
+  "notes": { job_id: "…" }, "updated": "…" }`. Skills the candidate has
+  personally confirmed he can do (or ruled out) when `/analyze` asked him about a
+  job that was otherwise a fit. `/analyze` reads this and treats a confirmed
+  skill like one in `profile.json`; it never auto-SKIPs a level/timing/location-OK
+  job on a skill gap without asking first.
 
 ### Job scoring fields (what `/analyze` writes onto each job)
 
