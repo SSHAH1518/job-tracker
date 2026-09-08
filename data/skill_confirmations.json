@@ -1,0 +1,26 @@
+{
+  "confirmed": [
+    "React / Angular / Vue — basics, can ramp in 2-3 weeks (fine for backend-with-some-frontend roles, not frontend-first roles)",
+    "AWS / GCP + Docker + CI/CD — learning now, basics OK (fine for intern/junior; not senior infra/platform roles)",
+    "Java + Spring Boot — core Java yes, would ramp the Spring ecosystem on the job"
+  ],
+  "ruled_out": [
+    "Node.js / TypeScript backend",
+    "R",
+    ".NET Core / C#",
+    "Onsite roles outside India (remote-from-India only; remote-global is fine)"
+  ],
+  "preferences": {
+    "engineer_II_sde2_experience_roles": "surface only strong-match company names; skip generic 'Software Engineer II' / 'SDE-2' reqs that just want 2-4 years",
+    "relocation": "remote-from-India only"
+  },
+  "notes": {
+    "e33cf5e95945": "Labcorp DS Intern — R ruled out, plus US work-authorization concern; stays SKIP",
+    "9ee33d6059a2": "Teamified .NET Core — not interested in the Microsoft stack; stays SKIP",
+    "382737159406": "Lendable Summer Intern 2027 — London onsite; stays SKIP (remote-from-India only)",
+    "c4b20642f3b7": "Iris Software MLOps Intern — cloud/Docker 'basics OK' clears the skill gap; queued, still needs a check that it is paid and 2027-eligible",
+    "fa750ee208b1": "S&P Global Java SE II — Java yes / Spring ramp; open question is the ~1-3yr 'Engineer II' level",
+    "1f8eec586550": "GitLab Backend Monitoring — kept as a strong-match name (maps to the Tata 1mg Sentry work) despite the mid/senior reading"
+  },
+  "updated": "2026-09-08"
+}

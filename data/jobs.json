@@ -10,7 +10,7 @@
       "remote": true,
       "employment_type": "",
       "match_score": 62,
-      "recommendation": "MAYBE",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "SQL",
@@ -19,7 +19,8 @@
         "data mining"
       ],
       "missing_skills": [
-        "R"
+        "R (ruled out)",
+        "likely US work authorization"
       ],
       "relevant_projects": [
         "Respiratory Sound Classification",
@@ -28,8 +29,8 @@
       "relevant_experience": [
         "Neuriot (Data Science and Machine Learning Intern)"
       ],
-      "reason": "Good fit for his data-science track and intern level (Python/SQL/ML), but the posting references a 2024 US program, Labcorp is US-based (likely US work authorization needed), and timing must be checked against a mid-2027 graduation.",
-      "requires_human_review": true,
+      "reason": "Good fit for his data-science track and intern level (Python/SQL/ML), but the role uses R (he has ruled R out) and it is a US programme that likely needs US work authorisation. Declined on both counts.",
+      "requires_human_review": false,
       "resume_hint": "",
       "status": "SKIPPED",
       "id": "e33cf5e95945",
@@ -106,7 +107,7 @@
       "remote": false,
       "employment_type": "Intern",
       "match_score": 45,
-      "recommendation": "MAYBE",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "SQL",
@@ -114,15 +115,17 @@
         "time-series/forecasting",
         "data modelling"
       ],
-      "missing_skills": [],
+      "missing_skills": [
+        "London onsite (remote-from-India only)"
+      ],
       "relevant_projects": [
         "City-Level Demand Forecasting"
       ],
       "relevant_experience": [
         "Neuriot (Data Science and Machine Learning Intern)"
       ],
-      "reason": "His stats/forecasting and Python-SQL background fit the work, but it is a London ONSITE 10-week internship starting the same month he graduates and asks for penultimate-year students - eligibility, timing and relocation all need checking.",
-      "requires_human_review": true,
+      "reason": "His stats/forecasting and Python-SQL background fit the work, but it is a London ONSITE 10-week internship and he wants remote-from-India roles only. Declined on location.",
+      "requires_human_review": false,
       "resume_hint": "",
       "status": "SKIPPED",
       "id": "382737159406",
@@ -197,7 +200,7 @@
       "description": "Enveritas (YC S18, non-profit) | Backend Software Engineer | Remote (Global) | https://enveritas.org/jobs/ Enveritas is a 501(c)(3) nonprofit working on sustainability issues facing smallholder coffee farmers. We collect field data in 30+ countries and build systems for analyzing risks in coffee, cocoa, and tea supply chains (including EUDR-related deforestation checks). * Backend Software Engineer (Python, PostgreSQL/PostGIS, Docker, AWS, Terraform) - $135-$155k - https://enveritas.org/jobs/backend-software-eng/#10d7adef8us (worldwide remote)",
       "remote": true,
       "employment_type": "",
-      "match_score": 55,
+      "match_score": 66,
       "recommendation": "MAYBE",
       "matching_skills": [
         "Python",
@@ -206,16 +209,13 @@
         "backend"
       ],
       "missing_skills": [
-        "Docker",
-        "AWS",
-        "Terraform",
-        "PostGIS"
+        "seniority (pay band suggests a few years' experience)"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Genuinely global-remote Python/PostgreSQL backend role matching his core stack, but it expects Docker/AWS/Terraform (his known gaps) and the 135-155k band implies a few years of experience - verify the seniority before applying.",
+      "reason": "Genuinely global-remote Python/PostgreSQL backend role matching his core stack, and with Docker/AWS/Terraform now at 'basics OK' the tooling gap is manageable. The remaining question is seniority - the pay band suggests a few years of experience - so a human should confirm they consider strong juniors / new grads.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -479,22 +479,21 @@
       "remote": false,
       "employment_type": "Full-time",
       "match_score": 33,
-      "recommendation": "MAYBE",
+      "recommendation": "SKIP",
       "matching_skills": [
         "backend",
         "REST APIs",
         "SQL"
       ],
       "missing_skills": [
-        ".NET Core",
-        "C#"
+        ".NET Core / C# (not interested)"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "India-based backend role but on a .NET Core / C# stack he has never used; backend fundamentals transfer. Jooble shows only a snippet - confirm seniority and stack flexibility.",
-      "requires_human_review": true,
+      "reason": "India-based backend role, but on a .NET Core / C# stack he has said he is not interested in. Declined.",
+      "requires_human_review": false,
       "resume_hint": "",
       "status": "SKIPPED",
       "id": "9ee33d6059a2",
@@ -510,7 +509,7 @@
       "description": "...building deterministic software: the same input won't always...  ...output. Good product engineering here means designing...  ...participant on the other end of the screen, and you'...  ...; bring what you learn back into design and...  ...the stack (frontend and backend) and picking up whatever...",
       "remote": false,
       "employment_type": "Full-time",
-      "match_score": 58,
+      "match_score": 60,
       "recommendation": "MAYBE",
       "matching_skills": [
         "backend",
@@ -518,13 +517,13 @@
         "product engineering"
       ],
       "missing_skills": [
-        "frontend framework (unclear from snippet)"
+        "seniority unclear from snippet"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "India-based generalist software-engineer role at a UX-research company. The Jooble snippet is too thin to judge seniority; plausible for his backend background but needs the full JD.",
+      "reason": "India-based generalist software-engineer role at a UX-research company; plausible for his backend background with no skill blocker. The Jooble snippet is too thin to judge seniority - a human should pull the full JD.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -625,7 +624,7 @@
       "description": "...highly motivated Full Stack Software Engineer to join our engineering...  ...and contribute to the development of next-generation web applications...  ..., UI frameworks, and developer platforms. The ideal...  ...web technologies, front- end frameworks, backend development, and a passion...",
       "remote": false,
       "employment_type": "Full-time",
-      "match_score": 48,
+      "match_score": 66,
       "recommendation": "MAYBE",
       "matching_skills": [
         "backend development",
@@ -633,14 +632,13 @@
         "SQL"
       ],
       "missing_skills": [
-        "React/Angular",
-        "full-stack breadth"
+        "full-stack seniority unconfirmed"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "India-based full-stack role at Sophos; the backend half fits his Tata 1mg experience but he lacks modern frontend frameworks and the snippet does not show seniority - get the full JD.",
+      "reason": "The backend half matches his Tata 1mg work and he has confirmed he can ramp into a frontend framework in 2-3 weeks, so the React/Angular gap is no longer disqualifying. Open question is seniority - the Jooble snippet does not show the level - so a human should pull the full JD.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -657,21 +655,21 @@
       "description": "...We are hiring an SDE 2 Backend Engineer to support the design, development, and maintenance of scalable backend services and APIs. The role will involve owning...  ..., collaborative environment and take ownership of end- to-end feature delivery. \r\n Requirements: \r\n~2-4 years...",
       "remote": false,
       "employment_type": "Full-time",
-      "match_score": 50,
-      "recommendation": "MAYBE",
+      "match_score": 46,
+      "recommendation": "SKIP",
       "matching_skills": [
         "backend services",
         "REST APIs",
         "Java/Python"
       ],
       "missing_skills": [
-        "2-4 years professional experience (SDE-2 level)"
+        "2-4 years experience (SDE-2)"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Strong backend-domain match and his Tata 1mg production experience helps, but it is explicitly an SDE-2 role wanting 2-4 years - a stretch for a 2027 grad unless they consider strong juniors.",
+      "reason": "Strong backend-domain match, but it is an explicit SDE-2 role wanting 2-4 years and Netomi is not a must-hit name - per his choice to skip generic Engineer II / SDE-2 experience reqs.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -688,8 +686,8 @@
       "description": "...potential.  Title and Summary Software Engineer II Java Full stack Developer Overview: \r\n Mastercard’s...  ...develop, and own Java-based backend services and REST APIs in a distributed...  ..., vue and Node.js \r\n• Own end- to-end delivery: design, development, testing, deployment,...",
       "remote": false,
       "employment_type": "Full-time",
-      "match_score": 52,
-      "recommendation": "MAYBE",
+      "match_score": 40,
+      "recommendation": "SKIP",
       "matching_skills": [
         "Java",
         "backend services",
@@ -697,15 +695,14 @@
         "SQL"
       ],
       "missing_skills": [
-        "Vue",
-        "Node.js",
-        "2-4 years experience"
+        "Node.js (ruled out)",
+        "2-4 years experience (generic Engineer II)"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Mastercard is on his target company list and the Java-backend core fits, but Engineer II implies 2-4 years and it needs Vue/Node he lacks - check whether Mastercard runs a graduate/fresher variant.",
+      "reason": "Java-backend core fits and Vue is a 'can ramp' item, but the role also needs Node.js (ruled out) and is a generic 'Engineer II' asking ~2-4 years - two blockers he has chosen not to push past.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -722,7 +719,7 @@
       "description": "...enables organizations to increase developer productivity, improve...  ...to ship better, more secure software faster. \r\n The same principles...  ...section and owns end- to-end observability, monitoring...  ...customers buy and use GitLab. As a Backend Engineer on the Fulfillment Workflow...",
       "remote": false,
       "employment_type": "Full-time",
-      "match_score": 55,
+      "match_score": 68,
       "recommendation": "MAYBE",
       "matching_skills": [
         "backend",
@@ -737,7 +734,7 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern - Sentry/observability integration)"
       ],
-      "reason": "His Tata 1mg Sentry/observability integration maps directly to this monitoring-focused backend role, and GitLab is fully remote - but GitLab's bar is high and this reads as a mid/senior posting.",
+      "reason": "His Tata 1mg Sentry/observability integration maps almost directly onto this monitoring and anomaly-detection backend role, and GitLab is fully remote. Kept visible as a strong-match name despite the mid/senior reading; a human should gauge whether it is worth a reach application.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -783,8 +780,8 @@
       "description": "...potential.  Title and Summary Software Engineer II \r\n Who is Mastercard?...  ...responsible for designing, developing, launching, and maintaining...  ...software delivery tasks (code development, test, deployment) at an application...  ...the big picture and end- to-end logical architecture...",
       "remote": false,
       "employment_type": "Full-time",
-      "match_score": 50,
-      "recommendation": "MAYBE",
+      "match_score": 44,
+      "recommendation": "SKIP",
       "matching_skills": [
         "Java",
         "backend",
@@ -792,13 +789,13 @@
         "testing"
       ],
       "missing_skills": [
-        "2-4 years experience (Engineer II)"
+        "2-4 years experience (generic Engineer II)"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Generic Mastercard Engineer II posting - India-based and backend-aligned but pitched at 2-4 years; check for a fresher-grade equivalent.",
+      "reason": "Generic Mastercard 'Software Engineer II' pitched at 2-4 years, with no fresher variant confirmed - skipped per his choice to pass on generic Engineer II reqs.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -1014,7 +1011,7 @@
       "description": "This job is with Morningstar, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. The Group The Advice Software team within Morningstar Wealth builds industry leading solutions that empower financial advisors to deliver personalized, compliant, and goal based financial advice. Our products leverage Morningstar's trusted investment data, research, and analytics to help advisors make informed d…",
       "remote": false,
       "employment_type": "full_time",
-      "match_score": 50,
+      "match_score": 54,
       "recommendation": "MAYBE",
       "matching_skills": [
         "Python",
@@ -1023,14 +1020,13 @@
         "backend"
       ],
       "missing_skills": [
-        "Fintech / advisor-software domain",
-        "Years of professional experience (unclear)"
+        "stated level / batch eligibility"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Backend software role in New Delhi, close to his base in Gurugram, on a Python/SQL stack he knows. The posting gives no level or batch information, so eligibility for a 2027 graduate is unverified.",
+      "reason": "Backend software role in New Delhi, close to his Gurugram base, on a Python/SQL stack he knows. No skill blocker; the posting just gives no level or batch information, so eligibility for a 2027 graduate is unverified.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -1409,7 +1405,7 @@
       "description": "Join our dynamic team at the forefront of cutting-edge technology as we seek a SDE2 (Backend). Embark on a journey where your deep-rooted expertise in computer science fundamentals, alongside an intricate understanding of data structures, algorithms, and system design, becomes the cornerstone of innovative solutions. This pivotal role not only demands your proficiency in developing and elevating compute and I/O-intensive applications but also ensures their peak performance and unwavering reliab…",
       "remote": false,
       "employment_type": "",
-      "match_score": 35,
+      "match_score": 40,
       "recommendation": "SKIP",
       "matching_skills": [
         "Python",
@@ -1417,15 +1413,14 @@
         "data structures & algorithms (foundational)"
       ],
       "missing_skills": [
-        "SDE-2 level experience",
-        "System design",
-        "Compute/IO-intensive application tuning"
+        "2-4 years experience (SDE-2)",
+        "system design depth"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Explicit SDE-2 backend role leaning heavily on DSA, system design and high-performance application tuning - exactly the depth he has not yet built, and above entry level.",
+      "reason": "Explicit SDE-2 backend role leaning on DSA, system design and high-performance tuning, ~2-4 years - skipped per his choice to pass on generic SDE-2 experience reqs.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -1442,7 +1437,7 @@
       "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg…",
       "remote": false,
       "employment_type": "full_time",
-      "match_score": 47,
+      "match_score": 60,
       "recommendation": "MAYBE",
       "matching_skills": [
         "Java",
@@ -1451,15 +1446,13 @@
         "HTML/CSS"
       ],
       "missing_skills": [
-        "Modern JavaScript front-end framework",
-        "Full-stack delivery experience",
-        "Batch eligibility unverified"
+        "2027-batch eligibility unconfirmed"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Kyndryl runs large fresher intakes in India and the stack overlaps his Java/Python/SQL base, but the posting is boilerplate with no stated level. A human should confirm it is open to the 2027 batch.",
+      "reason": "Kyndryl runs large fresher intakes in India and the Java/Python/SQL base overlaps; with the frontend framework now a 'can ramp' item the main open question is whether this specific boilerplate posting is open to the 2027 batch.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -1602,21 +1595,20 @@
       "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo…",
       "remote": false,
       "employment_type": "full_time",
-      "match_score": 30,
+      "match_score": 38,
       "recommendation": "SKIP",
       "matching_skills": [
         "HTML/CSS",
         "JavaScript basics"
       ],
       "missing_skills": [
-        "Angular",
-        "Node.js",
-        "Full-stack production experience"
+        "Node.js / TypeScript (ruled out)",
+        "full-stack production experience"
       ],
       "relevant_projects": [],
       "relevant_experience": [],
-      "reason": "Full-stack role built on Angular and Node.js, neither of which he has used; also expects delivery experience.",
-      "requires_human_review": false,
+      "reason": "Full-stack role on Angular + Node.js. He can ramp Angular but has ruled out Node.js/TypeScript, and the role also expects delivery experience - so Node remains a hard blocker.",
+      "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
       "id": "fbd8dc59d20c",
@@ -1632,7 +1624,7 @@
       "description": "This job is with Morningstar, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. As a member of the Product and Engineering team at PitchBook, you will be part of a team of big thinkers, innovators and problem solvers who strive to deepen the positive impact we have on our customers and our company every day. We value curiosity and the drive to find better ways of doing things. We thrive on …",
       "remote": false,
       "employment_type": "full_time",
-      "match_score": 48,
+      "match_score": 52,
       "recommendation": "MAYBE",
       "matching_skills": [
         "Python",
@@ -1640,14 +1632,13 @@
         "backend"
       ],
       "missing_skills": [
-        "Stated level / batch eligibility",
-        "Domain (financial data)"
+        "stated level / batch eligibility"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Generic SDE role on the PitchBook engineering team in Mumbai (a preferred location) with a stack he can work in, but the posting gives no seniority or batch detail to confirm graduate eligibility.",
+      "reason": "Generic SDE role on the PitchBook engineering team in Mumbai (a preferred location) with a stack he can work in. No skill blocker after the frontend confirmation; the open question is the unstated seniority / batch eligibility.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -1836,8 +1827,8 @@
       "description": "....  Title and Summary Software Engineer II – Integrations & API...  ...secure, reliable backend services. You will contribute to the development of scalable solutions,...  ...What You'll Do \r\n• Develop, test, and support scalable...  ...unit, integration, and end- to-end tests \r\n• Collaborate...",
       "remote": false,
       "employment_type": "Full-time",
-      "match_score": 50,
-      "recommendation": "MAYBE",
+      "match_score": 44,
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "Java",
@@ -1846,14 +1837,13 @@
         "unit/integration testing basics"
       ],
       "missing_skills": [
-        "Enterprise API-integration experience",
-        "Stated batch eligibility"
+        "2-4 years experience (generic Engineer II)"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Mastercard 'Software Engineer II' backend/integration role; consistent with the other Mastercard SE II postings already scored in the low 50s. Early-career-ish but needs a human to confirm it takes 2027 graduates.",
+      "reason": "Mastercard 'Software Engineer II' integrations/API role, ~2-4 years, no confirmed fresher track - skipped per his choice to pass on generic Engineer II reqs.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -2036,7 +2026,7 @@
       "description": "Supero | Cloud / Platform Engineer | REMOTE (SF Bay Area, CA, US · Bengaluru, KA, India) | Full-time | https://www.supero.dev/careers/cloud-platform-engineer/ We generate full-stack apps and deploy them — a generated app becomes a live URL, on our infrastructure or in the customer's own AWS or GCP account. It's in production and it has more shell script in it than it should. You'd own it, and the mandate is to make it boring. Kubernetes, GCP and AWS deploy paths, CI/CD, observability, cost, tenant boundary. No on-call rotation today — it's the founders and whoever last touched it. Building a real one is part of the job, not something you inherit alone. 4+ years production infra, Kubernetes past the tutorial, AWS and/or GCP at depth. The rest is on the page, including the open problems that don't flatter us. I'm a co-founder — ask me anything here. You can apply at: https://www.supero.dev/careers/cloud-platform-engineer/ Intern Position: https://www.supero.dev/careers/software-engineer-intern/",
       "remote": true,
       "employment_type": "",
-      "match_score": 44,
+      "match_score": 55,
       "recommendation": "MAYBE",
       "matching_skills": [
         "Python",
@@ -2044,18 +2034,13 @@
         "Git"
       ],
       "missing_skills": [
-        "Kubernetes",
-        "AWS",
-        "GCP",
-        "CI/CD",
-        "observability",
-        "4+ yrs infra"
+        "open the linked intern posting to confirm scope"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "The advertised Cloud/Platform Engineer role wants 4+ years of production infra, Kubernetes and AWS/GCP at depth - a clear no. But the same post links a separate software-engineer intern position and lists Bengaluru as a location, so a human should open the intern link before discarding.",
+      "reason": "The advertised Cloud/Platform Engineer role needs 4+ years, but the same post links a separate software-engineer intern position and lists Bengaluru. With his cloud/Docker basics the intern track is plausible - a human should open the intern posting.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -2101,24 +2086,22 @@
       "description": "Nosh is building a marketplace for surplus food. The product already exists. The mobile app is almost ready. Now we’re launching and scaling. I’m looking for the first engineer who wants to own a huge part of the product from here. You should be comfortable with: React, Node.js, TypeScript, APIs, databases, AWS/cloud infrastructure, and shipping production software. I care much more about what you’ve built than where you’ve worked. This is not a “wait for tickets” role. You’ll work directly wit…",
       "remote": false,
       "employment_type": "",
-      "match_score": 34,
+      "match_score": 35,
       "recommendation": "SKIP",
       "matching_skills": [
         "APIs",
         "databases"
       ],
       "missing_skills": [
-        "React",
-        "Node.js",
-        "TypeScript",
-        "AWS",
+        "Node.js / TypeScript (ruled out)",
+        "AWS at depth",
         "solo production ownership"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Founding-engineer role owning a large part of a launching product solo, on a React/Node/TypeScript/AWS stack Somin does not use. The ownership expectation is a poor fit for someone still a year from graduating.",
+      "reason": "Founding-engineer role: React is a 'can ramp' item but it also needs Node.js/TypeScript (ruled out) and AWS at depth, plus solo end-to-end ownership of a launching product - too many blockers for a pre-graduation candidate.",
       "requires_human_review": true,
       "resume_hint": "",
       "status": "SKIPPED",
@@ -2192,7 +2175,7 @@
       "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 09 S&P Dow Jones Indices The Role: Java Software Engineer II The Team: The RIPA team is responsible for designing, developing, and maintaining high-impact index prototyping and analytics solutions using cutting-edge technologies such as the latest versions of Java a…",
       "remote": false,
       "employment_type": "full_time",
-      "match_score": 54,
+      "match_score": 70,
       "recommendation": "MAYBE",
       "matching_skills": [
         "Java",
@@ -2201,8 +2184,7 @@
         "backend"
       ],
       "missing_skills": [
-        "professional Java delivery experience",
-        "Spring ecosystem depth"
+        "'Engineer II' level (~1-3 years) - fresher eligibility unconfirmed"
       ],
       "relevant_projects": [
         "Series Approximation (math research)"
@@ -2210,7 +2192,7 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Java is one of Somin's languages and this is a backend index-analytics role at S&P Global (Chennai), a recruiter that runs fresher programs. 'Software Engineer II' suggests roughly 1-3 years, so a human should confirm whether the team considers 2027-batch candidates before applying.",
+      "reason": "Java is one of his languages and he has confirmed he would ramp the Spring ecosystem on the job, so the stack fits. This is a backend index-analytics role at S&P Global - a strong-match name and already flagged as his strongest non-Amazon lead. The open question is the 'Engineer II' level (~1-3 years); a human should confirm whether the team takes 2027-batch candidates.",
       "requires_human_review": true,
       "resume_hint": "software_engineering.pdf",
       "status": "SKIPPED",
@@ -2286,7 +2268,7 @@
       "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Join a global biopharma company with a 130-year legacy and mission to achieve new milestones in healthcare. Be part of technology driven, data-led organization supporting a diversified portfolio of medicines, vaccines and animal health products. Work alongside passionate teams that use da…",
       "remote": false,
       "employment_type": "full_time",
-      "match_score": 50,
+      "match_score": 64,
       "recommendation": "MAYBE",
       "matching_skills": [
         "Python",
@@ -2296,9 +2278,7 @@
         "REST APIs"
       ],
       "missing_skills": [
-        "frontend / full-stack",
-        "professional delivery experience",
-        "'Specialist' level"
+        "'Specialist' level (~few years experience)"
       ],
       "relevant_projects": [
         "Respiratory Sound Classification"
@@ -2306,7 +2286,7 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "The GenAI / agentic-AI focus lines up well with Somin's Tata 1mg work on AI coding agents, MCP servers and document pipelines. Against it: the 'Specialist' title usually implies a few years of experience, and it is a full-stack role needing frontend Somin lacks - a human should gauge the level.",
+      "reason": "The GenAI / agentic-AI core is an unusually strong match for his Tata 1mg work on AI coding agents, MCP servers and document pipelines, and the frontend requirement is now a 'can ramp' item. The remaining blocker is the 'Specialist' level, which usually implies a few years of experience; kept visible because MSD is a strong-match name.",
       "requires_human_review": true,
       "resume_hint": "software_engineering.pdf",
       "status": "SKIPPED",
@@ -2324,7 +2304,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 78,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "computer-science fundamentals",
@@ -2343,10 +2323,10 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Stripe's intern program has no batch restriction and asks for CS fundamentals, project experience and disciplined use of AI tools, all of which Somin has from two internships and his portfolio. The real risk is Stripe's DSA-heavy interview bar, the known weak spot, so a human should weigh readiness before applying.",
-      "requires_human_review": true,
+      "reason": "USER DECLINED 2026-09-08 (reviewed, chose not to apply). Stripe's intern program has no batch restriction and asks for CS fundamentals, project experience and disciplined use of AI tools, all of which Somin has from two internships and his portfolio. The real risk is Stripe's DSA-heavy interview bar, the known weak spot, so a human should weigh readiness before applying.",
+      "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "128133051046",
       "discovered_at": "2026-09-08T16:30:01",
       "analyzed_at": null
@@ -2816,7 +2796,7 @@
       "reason": "This is an internship explicitly open to fresh graduates and early-career candidates, valuing academic projects, hackathons and GitHub portfolios over enterprise experience. The 'hands-on builder, experiment to production' brief and the GenAI/RAG/tool-calling/MCP skill set map almost exactly onto Somin's Tata 1mg work on AI agents, MCP servers and document pipelines.",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "16e1fb2a09e4",
       "discovered_at": "2026-09-08T16:30:01",
       "analyzed_at": null
@@ -2959,7 +2939,7 @@
       "reason": "FanCode restricts this backend internship to 8th-semester students or recent graduates, which fits Somin's final-year timing, and asks for CS fundamentals (DSA, OS, networking, databases) rather than years of experience. DSA is his known weak spot, so a human should gauge readiness and confirm the internship cycle lines up with his final semester.",
       "requires_human_review": true,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "cf6d876c7dbf",
       "discovered_at": "2026-09-08T16:30:01",
       "analyzed_at": null
@@ -2974,7 +2954,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 76,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "LLM / AI systems",
@@ -2992,10 +2972,10 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "A part-time internship building agentic AI systems, open with no batch or experience bar, that rewards Python strength, hands-on LLM work and comfort with ambiguous problems. It aligns directly with Somin's Tata 1mg work validating an MCP server and instrumenting an AI coding agent. A human should confirm the part-time schedule and that it is paid.",
-      "requires_human_review": true,
+      "reason": "USER DECLINED 2026-09-08 (reviewed, chose not to apply). A part-time internship building agentic AI systems, open with no batch or experience bar, that rewards Python strength, hands-on LLM work and comfort with ambiguous problems. It aligns directly with Somin's Tata 1mg work validating an MCP server and instrumenting an AI coding agent. A human should confirm the part-time schedule and that it is paid.",
+      "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "65ea04f5ee31",
       "discovered_at": "2026-09-08T16:30:01",
       "analyzed_at": null
@@ -3242,14 +3222,13 @@
       "description": "",
       "remote": false,
       "employment_type": "",
-      "match_score": 33,
+      "match_score": 42,
       "recommendation": "MAYBE",
       "matching_skills": [
         "Python",
         "machine learning"
       ],
       "missing_skills": [
-        "MLOps",
         "professional experience",
         "immediate availability"
       ],
@@ -3257,7 +3236,7 @@
       "relevant_experience": [
         "Neuriot (Data Science and Machine Learning Intern)"
       ],
-      "reason": "A 'Python-ML-MLOps' Infosys role; MLOps is one of Somin's explicit gaps and the posting is a lateral hire rather than a fresher track.",
+      "reason": "'Python-ML-MLOps' at Infosys. His cloud/Docker basics help, but this is a lateral hire that expects experience and an immediate joiner rather than a fresher track.",
       "requires_human_review": true,
       "resume_hint": "machine_learning.pdf",
       "status": "SKIPPED",
@@ -3370,25 +3349,24 @@
       "description": "",
       "remote": false,
       "employment_type": "",
-      "match_score": 52,
-      "recommendation": "MAYBE",
+      "match_score": 76,
+      "recommendation": "APPLY",
       "matching_skills": [
         "Python",
         "Linux",
         "Git"
       ],
       "missing_skills": [
-        "MLOps tooling (Docker, CI/CD, model serving)",
-        "cloud platform"
+        "confirm posting is paid and 2027-eligible"
       ],
       "relevant_projects": [],
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "An MLOps internship near Somin's home region. MLOps is a flagged gap, but as an intern (learning) role it could be a way to close it. The description was not retrievable, so a human should read it and confirm it is paid and open to 2027-batch students.",
+      "reason": "An MLOps internship near his home region, and MLOps is exactly the skill he is building now (confirmed cloud/Docker basics). No experience bar on an intern role and no other blocker. The full description was not retrievable, so before applying a human should confirm it is paid and open to the 2027 batch.",
       "requires_human_review": true,
       "resume_hint": "",
-      "status": "SKIPPED",
+      "status": "QUEUED",
       "id": "c4b20642f3b7",
       "discovered_at": "2026-09-08T16:30:01",
       "analyzed_at": null
@@ -3534,7 +3512,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 76,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python (one or more programming languages)",
         "application development",
@@ -3551,10 +3529,10 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "GE Appliances' Digital Technology co-op is a structured 20-24 week program open to candidates 'currently pursuing' a B.Tech in CS/IT with a 60% aggregate, which Somin clears comfortably (CGPA ~9.5). No batch restriction and no experience bar beyond a prior internship, which he has. A human should confirm the 20-24 week block can run alongside his final year or as a defined summer slot.",
-      "requires_human_review": true,
+      "reason": "USER DECLINED 2026-09-08 (reviewed, chose not to apply). GE Appliances' Digital Technology co-op is a structured 20-24 week program open to candidates 'currently pursuing' a B.Tech in CS/IT with a 60% aggregate, which Somin clears comfortably (CGPA ~9.5). No batch restriction and no experience bar beyond a prior internship, which he has. A human should confirm the 20-24 week block can run alongside his final year or as a defined summer slot.",
+      "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "f564a8c604de",
       "discovered_at": "2026-09-08T16:30:01",
       "analyzed_at": null

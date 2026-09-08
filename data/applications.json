@@ -29,6 +29,36 @@
       "date_applied": "2026-09-03",
       "created_at": "2026-09-03T23:16:34",
       "updated_at": "2026-09-03T23:58:40"
+    },
+    {
+      "job_id": "16e1fb2a09e4",
+      "company": "Nuvama Group",
+      "role": "Intern - AI Engineering",
+      "status": "APPLIED",
+      "match_score": 86,
+      "resume": "software_engineering.pdf",
+      "application_url": "https://www.linkedin.com/jobs/view/4452595267",
+      "notes": "Applied manually via LinkedIn on 2026-09-08.",
+      "questions": [],
+      "id": "app_16e1fb2a09e4",
+      "date_applied": "2026-09-08",
+      "created_at": "2026-09-08T16:40:00",
+      "updated_at": "2026-09-08T16:40:00"
+    },
+    {
+      "job_id": "cf6d876c7dbf",
+      "company": "FanCode",
+      "role": "Software Engineer Internship (Backend)",
+      "status": "APPLIED",
+      "match_score": 76,
+      "resume": "software_engineering.pdf",
+      "application_url": "https://www.linkedin.com/jobs/view/4460319731",
+      "notes": "Applied manually via LinkedIn on 2026-09-08.",
+      "questions": [],
+      "id": "app_cf6d876c7dbf",
+      "date_applied": "2026-09-08",
+      "created_at": "2026-09-08T16:40:00",
+      "updated_at": "2026-09-08T16:40:00"
     }
   ]
 }
