@@ -14,6 +14,21 @@
       "date_applied": "2026-09-03",
       "created_at": "2026-09-03T23:16:34",
       "updated_at": "2026-09-03T23:58:40"
+    },
+    {
+      "job_id": "e1c28ca3ed9b",
+      "company": "MixRank (YC S11)",
+      "role": "Software Engineer (generalist, junior track)",
+      "status": "APPLIED",
+      "match_score": 82,
+      "resume": "software_engineering.pdf",
+      "application_url": "https://www.ycombinator.com/companies/mixrank/jobs/Fnwsojk-j",
+      "notes": "Applied manually via the Y Combinator / MixRank posting (HN 'Who is hiring'); junior 0-3yr global-remote role.",
+      "questions": [],
+      "id": "app_e1c28ca3ed9b",
+      "date_applied": "2026-09-03",
+      "created_at": "2026-09-03T23:16:34",
+      "updated_at": "2026-09-03T23:58:40"
     }
   ]
 }
