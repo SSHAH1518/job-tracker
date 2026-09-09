@@ -1,0 +1,244 @@
+{
+  "_comment": "Cold-outreach targets from the 'Somin's Placement' Google Sheet sweep (2026-09-09). Companies that fit Somin (2027 batch, SWE / Data-Science / ML, India) but have no live 2027-eligible posting we could queue, or a closed posting. The cold-mail feature (next iteration) will consume this. contact_type: 'email' = usable inbox; 'ats_portal' = no public email, apply/track via the linked portal; 'linkedin_ta' = best route is messaging a Talent Acquisition recruiter on LinkedIn; 'form' = application form only.",
+  "updated": "2026-09-09",
+  "profile_summary": "Somin Shah, B.Tech ECE + Data Science honours, KJ Somaiya, graduating June 2027. Tracks: Backend/SWE and Data Science/ML. Interned at Tata 1mg (backend / AI tooling) and Neuriot (forecasting). India only; not an immediate joiner.",
+  "targets": [
+    {
+      "company": "Iris Software Inc.",
+      "origin": "queue (job c4b20642f3b7, 'ML OPS - Intern', LinkedIn) - posting closed / not accepting applications",
+      "fit": "MLOps internship in Noida (home region); matches the cloud/Docker/MLOps skills Somin is building. Was scored 76 / APPLY.",
+      "contact_type": "linkedin_ta",
+      "email": null,
+      "portal": "https://careers.irissoftware.com/",
+      "notes": "No public recruitment email found. Iris runs a 'Graduate Trainee' and 'Graduate Trainee - TA' pipeline in Noida on careers.irissoftware.com - a live equivalent to the closed intern post. Best cold route: message an Iris Software Talent Acquisition recruiter on LinkedIn (several TA Executive / Senior Executive roles are Noida-based) or apply to the Graduate Trainee req directly. Office: Plot 19 & 20, Sector 142, Noida 201301.",
+      "priority": "high"
+    },
+    {
+      "company": "D. E. Shaw India",
+      "origin": "sheet (bare entry, P1-adjacent HFT target)",
+      "fit": "Software Developer Intern, Hyderabad/Bengaluru/Gurugram; stipend ~1.5L/mo; CS CGPA bar 7.0. Strong DSA-heavy shop.",
+      "contact_type": "email",
+      "email": "recruiting.india@deshaw.com",
+      "portal": "https://www.deshawindia.com/careers/internships",
+      "notes": "Intern roles are officially routed through campus placement offices; recruiting.india@deshaw.com is the published inbox for queries / off-campus interest.",
+      "priority": "high"
+    },
+    {
+      "company": "Qure.ai",
+      "origin": "sheet (bare entry; healthcare-AI, matches Tata 1mg healthtech + ML)",
+      "fit": "Medical-imaging deep learning; Somin's Respiratory Sound Classification (CNN/ResNet) and healthtech exposure line up well.",
+      "contact_type": "email",
+      "email": "careers@qure.ai",
+      "portal": "https://jobs.qure.ai/",
+      "notes": "Mumbai-based (Somin's home city for college). India contact also india@qure.ai on some listings.",
+      "priority": "high"
+    },
+    {
+      "company": "Hevo Data",
+      "origin": "sheet (bare entry: 'Hevo Technologies India Pvt. Ltd.')",
+      "fit": "Data pipeline / ELT product, Bengaluru; backend Python + data engineering shape fits both internships.",
+      "contact_type": "email",
+      "email": "careers@hevodata.com",
+      "portal": "https://hevodata.com/careers/",
+      "priority": "medium"
+    },
+    {
+      "company": "Happay",
+      "origin": "sheet (bare entry)",
+      "fit": "Bengaluru fintech (part of CRED); backend SWE.",
+      "contact_type": "email",
+      "email": "careers@happay.in",
+      "portal": "https://happay.com/careers/",
+      "priority": "medium"
+    },
+    {
+      "company": "Rusk Media",
+      "origin": "sheet (bare entry: 'Rusk Media Pvt. Ltd.')",
+      "fit": "Mobile-first digital entertainment; backend / full-stack SWE. Mumbai + Delhi.",
+      "contact_type": "email",
+      "email": "careers@ruskmedia.com",
+      "portal": "https://www.ruskmedia.com/contact",
+      "notes": "General inbox contact@ruskmedia.com as fallback.",
+      "priority": "low"
+    },
+    {
+      "company": "Eightfold AI",
+      "origin": "sheet (bare entry: 'Eightfold AI India Pvt. Ltd.')",
+      "fit": "Applied-AI / ML product (talent-intelligence). Bengaluru + Noida (Noida = home region). ~300 India staff.",
+      "contact_type": "email",
+      "email": "india@eightfold.ai",
+      "portal": "https://app.eightfold.ai/careers/search",
+      "notes": "india@eightfold.ai is an office/general address, not a dedicated recruiting inbox - keep the note short and point at a specific opening.",
+      "priority": "medium"
+    },
+    {
+      "company": "QiCAP.AI (QICAP Markets LLP)",
+      "origin": "sheet (bare entry: 'QICAP Markets LLP')",
+      "fit": "HFT quant-tech firm, GIFT City Gandhinagar. Core C++ / low-latency systems - a stretch vs Somin's Python-first profile but an explicit sheet target.",
+      "contact_type": "email",
+      "email": "careers@qi-cap.com",
+      "portal": "https://qicap.ai/careers",
+      "priority": "low"
+    },
+    {
+      "company": "Enveritas",
+      "origin": "scraped (jobs.json - 'Backend Software Engineer', HN, score 66/MAYBE)",
+      "fit": "Global-remote Python/PostgreSQL backend at a YC / 501(c)(3) non-profit; core stack matches Tata 1mg. Blocker was seniority read, not fit.",
+      "contact_type": "email",
+      "email": "jobs@enveritas.org",
+      "portal": "https://job-boards.greenhouse.io/enveritas",
+      "notes": "Also added as a Greenhouse board in search_config.json so discover tracks it automatically. Greenhouse token: enveritas.",
+      "priority": "medium"
+    },
+    {
+      "company": "Deeter Analytics",
+      "origin": "scraped (jobs.json - 'ML Engineer', HN, score 62/MAYBE)",
+      "fit": "Junior ML role, remote worldwide, hires on fundamentals + shipped side projects rather than pedigree - suits Somin's portfolio. Blocker was that it's a full-time-now hire and he is 2027.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://jobs.ashbyhq.com/deeter-analytics",
+      "notes": "Ashby ATS, org slug 'deeter-analytics' (added to search_config.json ashby.orgs). Cold angle: ask to be kept in the pipeline for a mid-2027 start / a 2027 internship. Website deeteranalytics.com.",
+      "priority": "medium"
+    },
+    {
+      "company": "Darukaa.Earth",
+      "origin": "scraped (jobs.json - 'AI/ML Engineer Intern', LinkedIn, score 62/MAYBE)",
+      "fit": "Paid 3-6 month climate-tech AI/ML internship, hybrid/remote (Mumbai preferred), open to current students. Blocker was an immediate start clashing with final year.",
+      "contact_type": "email",
+      "email": "ankita.dasgupta@darukaa.com",
+      "portal": "https://darukaa.earth/careers/aiml_engineer",
+      "notes": "Application form: https://forms.gle/yzDjaPvnKCy3Dwkf7 . Cold angle: pitch a Jan-2027 pre-placement internship window.",
+      "priority": "low"
+    },
+    {
+      "company": "Even Healthcare",
+      "origin": "sheet (bare entry)",
+      "fit": "Bengaluru managed-healthcare; backend SWE + healthtech domain match.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://even.in/careers",
+      "notes": "No public recruiting email found; roles listed via careers.even.in / LinkedIn.",
+      "priority": "low"
+    },
+    {
+      "company": "Jivox",
+      "origin": "sheet (bare entry: 'Jivox Corporation')",
+      "fit": "Bengaluru (Sarjapur) martech; backend SWE. Listings skew to 4-6 yrs - likely a stretch for a fresher.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://jivox.com/careers/",
+      "priority": "low"
+    },
+    {
+      "company": "Yugabyte",
+      "origin": "sheet (bare entry)",
+      "fit": "Distributed SQL database, Bengaluru/Pune/remote. Backend C/C++/Go - listings are 3-6 yrs, stretch for a fresher.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://www.yugabyte.com/careers/",
+      "priority": "low"
+    },
+    {
+      "company": "Scapia",
+      "origin": "sheet (bare entry: 'Scapia Technology Private Limited')",
+      "fit": "Bengaluru travel-fintech; backend SWE.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://scapia.freshteam.com/jobs",
+      "priority": "low"
+    },
+    {
+      "company": "Ribbon Communications",
+      "origin": "sheet (bare entry)",
+      "fit": "Comms software (ex-Sonus), Bengaluru; historically hires freshers (Java/C++/Python/Linux) with ~70% bar.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers",
+      "priority": "low"
+    },
+    {
+      "company": "Piramal (Group / Pharma / Finance)",
+      "origin": "sheet (bare entries: 'Piramal Group', 'Piramal Pharma Limited')",
+      "fit": "Piramal Finance runs a 'Graduate Engineer Trainee - BIU' (business intelligence unit) pipeline - analytics/data track fit. Pharma side is a weaker fit.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://www.piramal.com/careers/",
+      "notes": "No public recruiting email; GET-BIU roles appear on Naukri / campus drives.",
+      "priority": "low"
+    },
+    {
+      "company": "LENS Corporation",
+      "origin": "sheet (bare entry: 'LENS Corporation')",
+      "fit": "Ambiguous - either Lenskart's registered tech entity (LENS Corporation Pvt Ltd, backend Java/Spring, Bengaluru) or a Gurugram wealthtech of the same name. Confirm which before outreach.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://www.linkedin.com/company/lens-corporation",
+      "priority": "low"
+    },
+    {
+      "company": "Porter (theporter.in)",
+      "origin": "sheet (bare entry)",
+      "fit": "Bengaluru intra-city logistics tech; backend SWE.",
+      "contact_type": "email",
+      "email": "info@porter.in",
+      "portal": "https://porter.in/careers",
+      "notes": "info@porter.in is a general inbox, not recruiting - low-confidence. Prefer applying via porter.in/careers or a LinkedIn recruiter.",
+      "priority": "low"
+    },
+    {
+      "company": "Harness.io",
+      "origin": "sheet (bare entry: 'Harness.io')",
+      "fit": "AI-native DevOps platform, Bengaluru; has a 'Junior Software Engineer' listing. Good backend fit.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://www.harness.io/company/jobs",
+      "notes": "Explicitly says apply direct via the site only; no email route.",
+      "priority": "medium"
+    },
+    {
+      "company": "Apple",
+      "origin": "sheet (bare entry, P1)",
+      "fit": "P1 target. India SWE / ML roles in Hyderabad/Bengaluru. No cold-mail route exists.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://jobs.apple.com/en-in/search",
+      "priority": "medium"
+    },
+    {
+      "company": "Procter & Gamble (P&G)",
+      "origin": "sheet (bare entry)",
+      "fit": "P&G IT / Data & Analytics graduate roles in India via their campus program. Portal-only.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://www.pgcareers.com/global/en/india",
+      "priority": "low"
+    },
+    {
+      "company": "PwC US Advisory (India / AC)",
+      "origin": "sheet (bare entry: 'PwC US Advisory')",
+      "fit": "PwC US Acceleration Center India - technology consulting / data analytics associate roles. Portal-only.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://www.pwc.in/careers.html",
+      "priority": "low"
+    },
+    {
+      "company": "A.T. Kearney (Kearney)",
+      "origin": "sheet (bare entry: 'A.T. Kearney Consulting (India) Private Limited')",
+      "fit": "Analytics / Digital (Kearney Analytics) associate roles, India. Consulting-leaning; weaker SWE fit. Portal-only.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://www.kearney.com/careers",
+      "priority": "low"
+    },
+    {
+      "company": "TELUS Digital / TELUS International AI",
+      "origin": "sheet (bare entries: 'Telus International', 'Telus International AI')",
+      "fit": "Digital consultancy; software / AI data roles in India. Portal-only.",
+      "contact_type": "ats_portal",
+      "email": null,
+      "portal": "https://jobs.telusdigital.com/",
+      "priority": "low"
+    }
+  ]
+}

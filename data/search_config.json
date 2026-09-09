@@ -36,9 +36,17 @@
 
   "sources": {
     "greenhouse": {
-      "enabled": false,
-      "_comment": "board tokens from boards.greenhouse.io/<token>. Add real ones for companies you want to track directly.",
-      "boards": []
+      "enabled": true,
+      "_comment": "board tokens from boards.greenhouse.io/<token>. Added 2026-09-09 from the 'Somin's Placement' sheet sweep - companies with an India presence and a public Greenhouse board.",
+      "boards": [
+        "enveritas",
+        "singlestore",
+        "quberesearchandtechnologies",
+        "devrev",
+        "project44",
+        "asteralabs",
+        "tenstorrent"
+      ]
     },
     "lever": {
       "enabled": false,
@@ -46,9 +54,9 @@
       "companies": []
     },
     "ashby": {
-      "enabled": false,
-      "_comment": "org slugs from jobs.ashbyhq.com/<slug>.",
-      "orgs": []
+      "enabled": true,
+      "_comment": "org slugs from jobs.ashbyhq.com/<slug>. Added 2026-09-09 from the sheet sweep.",
+      "orgs": ["deeter-analytics"]
     },
     "rss": {
       "enabled": false,
@@ -69,7 +77,26 @@
         "https://www.jpmorganchase.com/careers/explore-opportunities/programs/software-engineer-fulltime",
         "https://www.goldmansachs.com/careers/students/programs-and-internships/india/new-analyst-program",
         "https://careers.microsoft.com/v2/global/en/recentgraduate",
-        "https://usijobs.deloitte.com/en_US/careersUSI"
+        "https://usijobs.deloitte.com/en_US/careersUSI",
+
+        "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+        "https://www.nvidia.com/en-in/about-nvidia/university-recruiting/",
+        "https://www.imc.com/in/careers/students-graduates",
+        "https://www.salesforce.com/company/careers/university/",
+        "https://www.tower-research.com/open-positions/",
+        "https://www.morganstanley.com/people-opportunities/students-graduates",
+        "https://www.rubrik.com/company/careers/departments/engineering",
+        "https://careers.nutanix.com/en/student-programs/",
+        "https://www.arista.com/en/careers/university",
+        "https://www.capitalonecareers.com/india",
+        "https://www.aboutwayfair.com/careers/early-talent",
+        "https://careers.confluent.io/",
+        "https://www.zynga.com/jobs/careers/",
+        "https://www.flipkartcareers.com/students",
+        "https://www.uber.com/us/en/careers/teams/university/",
+        "https://careers.icims.com/careers-home/jobs",
+        "https://jobs.apple.com/en-in/search?sort=relevance&team=internships-STDNT-INTRN",
+        "https://job-boards.greenhouse.io/quberesearchandtechnologies"
       ]
     },
     "html_pages": {

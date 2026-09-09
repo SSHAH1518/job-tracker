@@ -30,12 +30,16 @@ promoted to review-worthy leads — see section 4.
 - [ ] (Optional) set `GIT_AUTO_SYNC=1` in `.env` once trusted.
 
 ## 3. Get the *real* 2027-batch roles into the pipeline
-- [ ] `python -m app.main login --url https://www.linkedin.com` (log in, wait);
-      repeat for `https://www.naukri.com`. Needed for the browser-backed seed
-      fetch of login-walled postings.
+- [x] Naukri session logged in and persisted to `data/browser_profile/`
+      (2026-09-08 — confirmed via `is_login` / `nauk_at` / `nauk_rt` cookies).
+      LinkedIn still needs a `python -m app.main login --url https://www.linkedin.com`.
 - [x] LinkedIn job alerts are live and flowing — `/ingest-alerts` on 2026-09-08
       pulled 39 new postings from the last 7 days of digests. Re-run it every
-      few days. No Naukri alert emails have arrived yet; set those up too.
+      few days.
+- [ ] Set up **Naukri job alerts** now that you're logged in (keywords: `2027
+      batch`, `SDE-1`, `Data Scientist fresher`, `graduate engineer trainee`,
+      `Python SQL fresher`) so `/ingest-alerts` can pull them from Gmail — none
+      have arrived yet.
 - [ ] The 4 Amazon SDE I Intern 2027 req URLs are already in
       `search_config.json` → `seed_urls.urls`. Amazon rotates/closes these every
       few weeks — if `discover` logs a 404, pull fresh req URLs from amazon.jobs.
