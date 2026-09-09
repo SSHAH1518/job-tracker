@@ -4038,8 +4038,7 @@
       "status": "APPLIED",
       "id": "8dce35735160",
       "discovered_at": "2026-09-09T19:36:03",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-09"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "MoxiWorks",
@@ -4918,7 +4917,7 @@
       "reason": "Unusually direct skills match - SDE I AI Engineer on Python, RAG, MCP, Evals, LangChain maps straight onto his Tata 1mg MCP-server and AI-agent work, and 1-2 years is near-fresher. The blocker is timing: it reads as an immediate full-time hire and he graduates June 2027. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
       "requires_human_review": true,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "3561f5b02380",
       "discovered_at": "2026-09-09T19:36:05",
       "analyzed_at": "2026-09-09"
@@ -5271,13 +5270,14 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Leegality - Python backend for compliance/document infrastructure, India. Title is Software Engineer / Sr Software Engineer - Python so a junior may be in scope. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "Leegality - Python backend for compliance/document infrastructure, India. Title is Software Engineer / Sr Software Engineer - Python so a junior may be in scope. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-09.]",
       "requires_human_review": true,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "faf67b9b2153",
       "discovered_at": "2026-09-09T19:36:05",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-09"
     },
     {
       "company": "Novac Technology Solutions",
@@ -5389,7 +5389,7 @@
       "remote": false,
       "employment_type": "Full-time",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "LLM tooling",
@@ -5404,10 +5404,10 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Mastercard AI Engineer - productionize Python backend inference services, end-to-end LLMOps/MLOps - a strong domain match to his Tata 1mg AI-tooling work. Reads mid-level. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
-      "requires_human_review": true,
+      "reason": "Application portal closed (confirmed 2026-09-09). Note: Somin already has a live Mastercard application for Software Engineer II (submitted 2026-08-30, see applications.json), so no separate cold-outreach needed.",
+      "requires_human_review": false,
       "resume_hint": "",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "3f133c5f7137",
       "discovered_at": "2026-09-09T19:36:09",
       "analyzed_at": "2026-09-09"
@@ -5485,13 +5485,14 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "SonicWall backend/cloud product engineering, India; explicitly AI-assisted workflow. Reasonable backend fit but no early-career framing in the snippet. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "SonicWall backend/cloud product engineering, India; explicitly AI-assisted workflow. Reasonable backend fit but no early-career framing in the snippet. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-09.]",
       "requires_human_review": true,
       "resume_hint": "",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "6847830e06a4",
       "discovered_at": "2026-09-09T19:36:09",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-09"
     },
     {
       "company": "Enveritas",
@@ -5517,13 +5518,14 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Genuinely global-remote (his one allowed remote mode) Python/PostgreSQL backend at a YC / non-profit, core stack matching Tata 1mg. Same posting already surfaced from HN; open question remains seniority. Also captured in cold_outreach.json (jobs@enveritas.org). [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "Genuinely global-remote (his one allowed remote mode) Python/PostgreSQL backend at a YC / non-profit, core stack matching Tata 1mg. Same posting already surfaced from HN; open question remains seniority. Also captured in cold_outreach.json (jobs@enveritas.org). [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-09.]",
       "requires_human_review": true,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "93106b8e0801",
       "discovered_at": "2026-09-09T19:36:10",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-09"
     },
     {
       "company": "Singlestore",
@@ -5549,13 +5551,14 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "SingleStore is a strong-match name and this AI Platforms team role is the closest of their India openings to his profile, but SingleStore SWE roles carry a high systems bar and no fresher framing. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "SingleStore is a strong-match name and this AI Platforms team role is the closest of their India openings to his profile, but SingleStore SWE roles carry a high systems bar and no fresher framing. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-09.]",
       "requires_human_review": true,
       "resume_hint": "",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "927c91204cc1",
       "discovered_at": "2026-09-09T19:36:10",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-09"
     },
     {
       "company": "Singlestore",
@@ -5577,13 +5580,14 @@
       ],
       "relevant_projects": [],
       "relevant_experience": [],
-      "reason": "Database-engine team at SingleStore - deep C++ systems work. Strong company name but a big depth gap for a 2027 fresher. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "Database-engine team at SingleStore - deep C++ systems work. Strong company name but a big depth gap for a 2027 fresher. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-09.]",
       "requires_human_review": true,
       "resume_hint": "",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "09d9f1b6cf8d",
       "discovered_at": "2026-09-09T19:36:10",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-09"
     },
     {
       "company": "Singlestore",
@@ -5605,13 +5609,14 @@
       ],
       "relevant_projects": [],
       "relevant_experience": [],
-      "reason": "SingleStore Private Cloud Systems is an infrastructure-engineering greenfield team - senior-leaning and outside his experience. Name-only surface. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "SingleStore Private Cloud Systems is an infrastructure-engineering greenfield team - senior-leaning and outside his experience. Name-only surface. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-09.]",
       "requires_human_review": true,
       "resume_hint": "",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "c8688290fa44",
       "discovered_at": "2026-09-09T19:36:10",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-09"
     },
     {
       "company": "Quberesearchandtechnologies",
