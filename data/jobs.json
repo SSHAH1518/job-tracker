@@ -6090,13 +6090,14 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Very close to his Tata 1mg work - Python backend plus LLM/RAG tooling, no batch restriction, intern level. Automated-testing framework experience is the main gap but it is a junior expectation, and the cloud ask is only 'familiarity'.",
+      "reason": "Very close to his Tata 1mg work - Python backend plus LLM/RAG tooling, no batch restriction, intern level. Automated-testing framework experience is the main gap but it is a junior expectation, and the cloud ask is only 'familiarity'. [Applied manually 2026-09-10.]",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "030957a003ca",
       "discovered_at": "2026-09-10T18:04:57",
-      "analyzed_at": "2026-09-10T18:11:21"
+      "analyzed_at": "2026-09-10T18:11:21",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "Rubrik",
@@ -6125,13 +6126,14 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Eligibility is a clean match - 2027 grad, circuital branch (Electronics & Computer Engineering), CGPA well above 8, available Jan-May 2027 for the onsite Bangalore winter internship, and Python is accepted. The known risk is Rubrik's DSA-heavy interview bar.",
+      "reason": "Eligibility is a clean match - 2027 grad, circuital branch (Electronics & Computer Engineering), CGPA well above 8, available Jan-May 2027 for the onsite Bangalore winter internship, and Python is accepted. The known risk is Rubrik's DSA-heavy interview bar. [Applied manually 2026-09-10.]",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "a52c95c5f94d",
       "discovered_at": "2026-09-10T18:04:57",
-      "analyzed_at": "2026-09-10T18:11:21"
+      "analyzed_at": "2026-09-10T18:11:21",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "Vahan.ai",
@@ -6247,7 +6249,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 86,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "PyTorch / TensorFlow",
         "CNN / image classification",
@@ -6265,10 +6267,10 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "His Respiratory Sound Classification project is almost a direct analogue - CNN/ResNet on audio with spectrograms - which maps onto the bird-call recognition and spectrogram-classification work here. Open to any college year and he has a paper. Strong fit.",
+      "reason": "USER DECLINED 2026-09-10 (in queue, chose not to apply). His Respiratory Sound Classification project is almost a direct analogue - CNN/ResNet on audio with spectrograms - which maps onto the bird-call recognition and spectrogram-classification work here. Open to any college year and he has a paper. Strong fit.",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "2fd2c5fa399e",
       "discovered_at": "2026-09-10T18:04:57",
       "analyzed_at": "2026-09-10T18:11:21"
@@ -6333,13 +6335,14 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Python + SQL data-quality and dashboard work that lines up with the Neuriot preprocessing-pipeline and dashboard experience; final-year students are welcome and the role is remote-friendly. Domain (logistics) is new but not required.",
+      "reason": "Python + SQL data-quality and dashboard work that lines up with the Neuriot preprocessing-pipeline and dashboard experience; final-year students are welcome and the role is remote-friendly. Domain (logistics) is new but not required. [Applied manually 2026-09-10.]",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "61dc83f6bbe7",
       "discovered_at": "2026-09-10T18:04:57",
-      "analyzed_at": "2026-09-10T18:11:21"
+      "analyzed_at": "2026-09-10T18:11:21",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "Weekday (YC W21)",
@@ -6446,7 +6449,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "Java",
@@ -6461,10 +6464,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "A 20-24 week digital-technology co-op building applications - timing works for a Jan-June 2027 pre-placement stint and the 60%+ academic bar is easily met. His Electronics & Computer Engineering degree with a Data Science honour reads as a related field.",
+      "reason": "USER DECLINED 2026-09-10 (in queue, chose not to apply). A 20-24 week digital-technology co-op building applications - timing works for a Jan-June 2027 pre-placement stint and the 60%+ academic bar is easily met. His Electronics & Computer Engineering degree with a Data Science honour reads as a related field.",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "9956076ae8bd",
       "discovered_at": "2026-09-10T18:04:57",
       "analyzed_at": "2026-09-10T18:11:21"
@@ -6495,13 +6498,14 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Eligibility lines up exactly - 2027 graduation, 26-week internship starting January 2027, resident in India - and the language stack (Python/Java/SQL/APIs) matches. Note the application deadline is 15 September 2026, so this is time-critical.",
+      "reason": "Eligibility lines up exactly - 2027 graduation, 26-week internship starting January 2027, resident in India - and the language stack (Python/Java/SQL/APIs) matches. Note the application deadline is 15 September 2026, so this is time-critical. [Applied manually 2026-09-10.]",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "a00d5480c34c",
       "discovered_at": "2026-09-10T18:04:57",
-      "analyzed_at": "2026-09-10T18:11:21"
+      "analyzed_at": "2026-09-10T18:11:21",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "GE Aerospace",
@@ -6536,13 +6540,14 @@
         "Neuriot",
         "Tata 1mg"
       ],
-      "reason": "Eligibility is spelled out and he meets all of it - B.Tech penultimate/final year, Data Science specialisation, CGPA well above 7, no backlogs - and the technical ask (Python, ML, DL, GenAI, statistics) matches both internships and his projects.",
+      "reason": "Eligibility is spelled out and he meets all of it - B.Tech penultimate/final year, Data Science specialisation, CGPA well above 7, no backlogs - and the technical ask (Python, ML, DL, GenAI, statistics) matches both internships and his projects. [Applied manually 2026-09-10.]",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "aeb6f002ca8a",
       "discovered_at": "2026-09-10T18:04:57",
-      "analyzed_at": "2026-09-10T18:11:21"
+      "analyzed_at": "2026-09-10T18:11:21",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "Magna International",
@@ -6671,13 +6676,14 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Candidate chose to apply as a stretch on 2026-09-10. His Tata 1mg AI-coding-agent infrastructure work and research output (conference paper, first-principles math write-up) are adjacent to 'AI for scalable software engineering', though the programming-languages and formal-methods/static-analysis depth remains an open gap for interviews.",
+      "reason": "Candidate chose to apply as a stretch on 2026-09-10. His Tata 1mg AI-coding-agent infrastructure work and research output (conference paper, first-principles math write-up) are adjacent to 'AI for scalable software engineering', though the programming-languages and formal-methods/static-analysis depth remains an open gap for interviews. [Applied manually 2026-09-10.]",
       "requires_human_review": true,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "4e5962ea907a",
       "discovered_at": "2026-09-10T18:04:57",
-      "analyzed_at": "2026-09-10T18:11:21"
+      "analyzed_at": "2026-09-10T18:11:21",
+      "applied_at": "2026-09-10"
     }
   ]
 }

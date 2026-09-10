@@ -38,7 +38,9 @@
     "d4be60a271c4": "Vahan.ai AI Intern - user declined the classical-CV (OpenCV/PIL) pipeline side on 2026-09-10; stays SKIP.",
     "4e5962ea907a": "Microsoft FoSSE Research Sciences Intern - user chose to apply as a stretch on 2026-09-10 despite no programming-languages / formal-methods background; scored APPLY.",
     "32a059e29c55": "Magna Smart Factory Intern - user chose to respect the JD's 'pursuing a Master's' requirement on 2026-09-10; stays SKIP.",
-    "4454538326": "Stripe SWE Intern - re-submitted via LinkedIn link batch on 2026-09-10; user reaffirmed the 2026-09-08 decline. Stays SKIP."
+    "4454538326": "Stripe SWE Intern - re-submitted via LinkedIn link batch on 2026-09-10; user reaffirmed the 2026-09-08 decline. Stays SKIP.",
+    "2fd2c5fa399e": "Zycus Computer Vision AI Intern - reached the queue (score 86) but user chose not to apply on 2026-09-10; recommendation set to SKIP so requeue keeps it SKIPPED.",
+    "9956076ae8bd": "GE Appliances Co-op/Intern (Digital Technology) - reached the queue (score 75) but user chose not to apply on 2026-09-10; recommendation set to SKIP so requeue keeps it SKIPPED."
   },
   "updated": "2026-09-10"
 }
