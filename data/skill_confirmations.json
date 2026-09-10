@@ -8,7 +8,8 @@
     "Node.js / TypeScript backend",
     "R",
     ".NET Core / C#",
-    "Onsite roles outside India (remote-from-India only; remote-global is fine)"
+    "Onsite roles outside India (remote-from-India only; remote-global is fine)",
+    "Classical computer vision / OpenCV / PIL image-processing pipelines (not comfortable as of 2026-09-10)"
   ],
   "preferences": {
     "engineer_II_sde2_experience_roles": "surface only strong-match company names; skip generic 'Software Engineer II' / 'SDE-2' reqs that just want 2-4 years",
@@ -33,7 +34,11 @@
     "93106b8e0801": "User chose to QUEUE this MAYBE on 2026-09-09 - keep queued on re-analysis. | APPLIED 2026-09-09.",
     "6847830e06a4": "User chose to QUEUE this MAYBE on 2026-09-09 - keep queued on re-analysis. | APPLIED 2026-09-09.",
     "faf67b9b2153": "User chose to QUEUE this MAYBE on 2026-09-09 - keep queued on re-analysis. | APPLIED 2026-09-09.",
-    "bb9ee338879a": " | User chose to QUEUE this MAYBE on 2026-09-09 - keep queued on re-analysis."
+    "bb9ee338879a": " | User chose to QUEUE this MAYBE on 2026-09-09 - keep queued on re-analysis.",
+    "d4be60a271c4": "Vahan.ai AI Intern - user declined the classical-CV (OpenCV/PIL) pipeline side on 2026-09-10; stays SKIP.",
+    "4e5962ea907a": "Microsoft FoSSE Research Sciences Intern - user chose to apply as a stretch on 2026-09-10 despite no programming-languages / formal-methods background; scored APPLY.",
+    "32a059e29c55": "Magna Smart Factory Intern - user chose to respect the JD's 'pursuing a Master's' requirement on 2026-09-10; stays SKIP.",
+    "4454538326": "Stripe SWE Intern - re-submitted via LinkedIn link batch on 2026-09-10; user reaffirmed the 2026-09-08 decline. Stays SKIP."
   },
-  "updated": "2026-09-09"
+  "updated": "2026-09-10"
 }

@@ -4920,8 +4920,7 @@
       "status": "APPLIED",
       "id": "3561f5b02380",
       "discovered_at": "2026-09-09T19:36:05",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-10"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "FTPROTECH",
@@ -5277,8 +5276,7 @@
       "status": "APPLIED",
       "id": "faf67b9b2153",
       "discovered_at": "2026-09-09T19:36:05",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-09"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Novac Technology Solutions",
@@ -5492,8 +5490,7 @@
       "status": "APPLIED",
       "id": "6847830e06a4",
       "discovered_at": "2026-09-09T19:36:09",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-09"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Enveritas",
@@ -5525,8 +5522,7 @@
       "status": "APPLIED",
       "id": "93106b8e0801",
       "discovered_at": "2026-09-09T19:36:10",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-09"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Singlestore",
@@ -5558,8 +5554,7 @@
       "status": "APPLIED",
       "id": "927c91204cc1",
       "discovered_at": "2026-09-09T19:36:10",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-09"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Singlestore",
@@ -5587,8 +5582,7 @@
       "status": "APPLIED",
       "id": "09d9f1b6cf8d",
       "discovered_at": "2026-09-09T19:36:10",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-09"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Singlestore",
@@ -5616,8 +5610,7 @@
       "status": "APPLIED",
       "id": "c8688290fa44",
       "discovered_at": "2026-09-09T19:36:10",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-09"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Quberesearchandtechnologies",
@@ -5648,8 +5641,7 @@
       "status": "APPLIED",
       "id": "01eb298468cf",
       "discovered_at": "2026-09-09T19:36:11",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-10"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Quberesearchandtechnologies",
@@ -5682,8 +5674,7 @@
       "status": "APPLIED",
       "id": "77002f20203f",
       "discovered_at": "2026-09-09T19:36:11",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-10"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Devrev",
@@ -5889,8 +5880,7 @@
       "status": "APPLIED",
       "id": "b7286493cc09",
       "discovered_at": "2026-09-09T19:36:12",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-10"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Tenstorrent",
@@ -6021,8 +6011,7 @@
       "status": "APPLIED",
       "id": "bb9ee338879a",
       "discovered_at": "2026-09-09T19:36:13",
-      "analyzed_at": "2026-09-09",
-      "applied_at": "2026-09-10"
+      "analyzed_at": "2026-09-09"
     },
     {
       "company": "Capital One Careers",
@@ -6073,6 +6062,622 @@
       "id": "f32ac2036e0f",
       "discovered_at": "2026-09-09T19:36:37",
       "analyzed_at": "2026-09-09"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Software Engineer Intern (Product Engineering, AI & Test Automation)",
+      "url": "https://www.linkedin.com/jobs/view/4464101597/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Internship on IQVIA's Product Engineering team building AI-powered enterprise applications. Responsibilities: design software in Python, build REST APIs, develop AI solutions with LLMs and RAG, implement automated test frameworks, collaborate with global teams in Agile. Required: strong Python, OOP, SQL, understanding of testing methodologies, familiarity with cloud platforms (AWS/Azure). Preferred: FastAPI, microservices, Docker, ML basics, AI/cloud certifications. Pursuing or recently completed Bachelor's or Master's degree; no specific batch year stated. Seniority: Internship. Mentorship from experienced architects.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 86,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "REST APIs",
+        "LLMs / RAG",
+        "SQL",
+        "AI-tooling (Tata 1mg)"
+      ],
+      "missing_skills": [
+        "automated test frameworks",
+        "FastAPI",
+        "Docker (basics only)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Very close to his Tata 1mg work - Python backend plus LLM/RAG tooling, no batch restriction, intern level. Automated-testing framework experience is the main gap but it is a junior expectation, and the cloud ask is only 'familiarity'.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "QUEUED",
+      "id": "030957a003ca",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Rubrik",
+      "title": "Software Engineer - Winter Intern",
+      "url": "https://www.linkedin.com/jobs/view/4464049065/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Winter internship at Rubrik (Security and AI Operations Company). Design, develop, test, deploy, maintain and improve software; manage project priorities and deliverables; resolve stack bottlenecks. Required: Bachelor's or Master's in CS or related; proficiency in Java, C/C++, Scala, or Python. Eligibility: 2027 graduates of Circuital branches only, CGPA 8 and above, available January-May 2027 for onsite work in Bangalore (no remote). Seniority: Internship.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 80,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "Java",
+        "CS fundamentals",
+        "2027 batch",
+        "CGPA 8+ (has 9.5)",
+        "circuital branch"
+      ],
+      "missing_skills": [
+        "competitive-programming / DSA depth",
+        "C/C++ or Scala"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Eligibility is a clean match - 2027 grad, circuital branch (Electronics & Computer Engineering), CGPA well above 8, available Jan-May 2027 for the onsite Bangalore winter internship, and Python is accepted. The known risk is Rubrik's DSA-heavy interview bar.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "QUEUED",
+      "id": "a52c95c5f94d",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Vahan.ai",
+      "title": "Artificial Intelligence Intern",
+      "url": "https://www.linkedin.com/jobs/view/4461586067/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "AI internship owning the data pipeline between robot-teleoperation video recording and policy training: filter blurred/blown-out/occluded/frozen frames, locate the end-effector, crop, produce clean training clips with survival labels. Responsibilities: quality control for frames (sharpness, exposure, occlusion, duplicates, ROI), convert raw recordings into training clips (extraction, cropping, resizing), reject unusable recordings, use vision-language models for verification, audit labels, sample manually to measure pipeline performance. Required: hands-on OpenCV, PIL, numpy; final-year student or recent graduate able to work full-time from Bengaluru for 6 months; statistical literacy on data distributions; VLM experience and cost awareness. Nice to have: robot-learning datasets, FFmpeg, detection/segmentation, annotation QA, Kaggle. Works with Claude daily. Seniority: Internship.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 58,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "NumPy",
+        "PyTorch",
+        "CNN/ResNet",
+        "signal processing",
+        "LLM tooling"
+      ],
+      "missing_skills": [
+        "hands-on OpenCV / PIL image processing",
+        "vision-language-model pipeline ops",
+        "dataset QA tooling"
+      ],
+      "relevant_projects": [
+        "Respiratory Sound Classification"
+      ],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Level, timing and location fit and his CNN/signal-processing project is adjacent, but on 2026-09-10 the candidate said he is not comfortable with the classical-CV side (OpenCV/PIL image ops) that this pipeline role centres on.",
+      "requires_human_review": true,
+      "resume_hint": "machine_learning.pdf",
+      "status": "SKIPPED",
+      "id": "d4be60a271c4",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Procter & Gamble",
+      "title": "Information Technology Intern",
+      "url": "https://www.linkedin.com/jobs/view/4459289674/",
+      "location": "Mumbai Metropolitan Region, India",
+      "source": "linkedin_manual",
+      "description": "6-month P&G IT internship with four tracks: (1) Software Engineering - design/build/ship applications on the Data & Analytics Platform, Agile/DevOps, foundational Java/TypeScript, relational DB, SQL; (2) Platform Engineering - cloud infrastructure, CI/CD, Infrastructure as Code (Terraform), Python/Bash; (3) AI Engineering - production systems for high availability, Azure ML, intermediate Python, cloud computing; (4) Data Science / Data Engineering - pipeline development or analytical modeling, Python and SQL, statistical analysis. ELIGIBILITY RESTRICTION: 'Final year students at BITS Pilani, Hyderabad and Goa' only. Mumbai General Office. Seniority: Not Applicable.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "Java basics"
+      ],
+      "missing_skills": [
+        "BITS Pilani enrolment (hard eligibility)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Eligibility is explicitly restricted to final-year students at BITS Pilani (Hyderabad and Goa campuses). The candidate is at KJ Somaiya, so he cannot apply regardless of skill fit.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "f2eaa3b436aa",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Yubi",
+      "title": "Intern (Data Science)",
+      "url": "https://www.linkedin.com/jobs/view/4452385178/",
+      "location": "Chennai, Tamil Nadu, India",
+      "source": "linkedin_manual",
+      "description": "6-month data science internship collaborating with senior data scientists on ML tools and predictive models: personalization systems, OCR accuracy, document-extraction automation, text classification, prototyping generative AI / LLM solutions, data preprocessing and feature engineering, model performance optimization for high-traffic environments. Required: pursuing or recently completed bachelor's in CS/data science/statistics/mathematics/quantitative engineering; Python with pandas/NumPy/scikit-learn; core ML; NLP including fine-tuning BERT; familiarity with LLMs, recommendation systems, intelligent document processing, PyTorch/TensorFlow, SQL, basic API development. NOTE: role is listed as Unpaid / Pro-bono. Seniority: Internship.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "pandas / NumPy / scikit-learn",
+        "NLP / BERT (adjacent)",
+        "PyTorch / TensorFlow",
+        "SQL",
+        "LLM prototyping"
+      ],
+      "missing_skills": [
+        "paid role - this posting is unpaid / pro-bono"
+      ],
+      "relevant_projects": [
+        "Respiratory Sound Classification",
+        "City-Level Demand Forecasting"
+      ],
+      "relevant_experience": [
+        "Neuriot",
+        "Tata 1mg"
+      ],
+      "reason": "Skills are a strong data-science-track match, but the posting states the internship is unpaid / pro-bono, which the profile's exclude list rules out. Flagged for the human in case an unpaid role is acceptable here.",
+      "requires_human_review": true,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "75c881679325",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Zycus",
+      "title": "Computer Vision AI Intern",
+      "url": "https://www.linkedin.com/jobs/view/4459664542/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Computer vision internship in Zycus's Ataavi division applying AI to wildlife/biodiversity: build models for bird identification from images, computer-vision techniques for challenging real-world bird photographs, audio ML for bird-call recognition, spectrogram classification, multimodal approaches, evaluate and benchmark open-source models, possibly contribute to production features in the Ataavi birding app. Candidates from any college year with demonstrated ability. Preferred: Python with PyTorch/TensorFlow, image classification, embeddings, transformers, audio/signal processing; a meaningful research project, paper, internship or independent project in computer vision/ML. Seniority: Internship.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 86,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "PyTorch / TensorFlow",
+        "CNN / image classification",
+        "audio / signal processing",
+        "spectrogram classification",
+        "transformers (basics)",
+        "research project + paper"
+      ],
+      "missing_skills": [
+        "large-scale benchmarking of open-source models"
+      ],
+      "relevant_projects": [
+        "Respiratory Sound Classification"
+      ],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "His Respiratory Sound Classification project is almost a direct analogue - CNN/ResNet on audio with spectrograms - which maps onto the bird-call recognition and spectrogram-classification work here. Open to any college year and he has a paper. Strong fit.",
+      "requires_human_review": false,
+      "resume_hint": "machine_learning.pdf",
+      "status": "QUEUED",
+      "id": "2fd2c5fa399e",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Rubrik",
+      "title": "ENG Project/Program - Intern",
+      "url": "https://www.linkedin.com/jobs/view/4464049066/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Engineering project/program management internship at Rubrik: assist with project and program management for on-prem and SaaS product delivery - define program scope, maintain schedules, track progress via dashboards, coordinate across engineering and product, communicate status, identify risks, recommend process improvements. Mandatory: strong organizational skills, SDLC understanding, agile familiarity, excellent communication, teamwork. Preferred: AWS/Azure/GCP exposure, storage domain knowledge, enterprise product development. Eligibility: 2027 graduates of Circuital branches only, CGPA 8 and above, available January 2027 to May 2027 onsite in Bangalore. This is a program-management role, not a coding role. Seniority: Internship.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 45,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "SDLC understanding",
+        "agile familiarity",
+        "strong ops / leadership background",
+        "2027 batch eligibility"
+      ],
+      "missing_skills": [
+        "this is a program-management role, not SWE or Data Science"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Eligibility fits and his student-council Operations-Head experience is relevant, but this is an engineering program/project-management role rather than a coding or data role, so it sits outside his target tracks. Flagged in case he wants to pursue PM.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "cb3d08f432df",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Portcast",
+      "title": "Data Analyst Intern",
+      "url": "https://www.linkedin.com/jobs/view/4451003287/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Data Analyst internship at Portcast (Singapore-based logistics-tech startup, real-time transportation visibility platform). Join the Data team under the Data Lead: data integrations and quality, connect new data sources, check ingested data for gaps and anomalies and trace issues to source, build and run QA checks, report generation and automations using Python and SQL, assist analysts with customer data queries and dashboard maintenance, support carrier/market data-source integrations, document work. Required: final-year student or recent graduate in CS/Data Analytics/Data Science/Engineering/IT/Statistics; working knowledge of Python and SQL; prior Data Analyst or Business Analyst internship (preferably product-based startups in logistics, ecommerce, B2B SaaS); detail-oriented; fluent English; remote-work compatible. Seniority: Not Applicable.",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 80,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "data preprocessing / pipelines",
+        "dashboarding",
+        "prior DS internship",
+        "remote-compatible"
+      ],
+      "missing_skills": [
+        "logistics / supply-chain domain"
+      ],
+      "relevant_projects": [
+        "City-Level Demand Forecasting"
+      ],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Python + SQL data-quality and dashboard work that lines up with the Neuriot preprocessing-pipeline and dashboard experience; final-year students are welcome and the role is remote-friendly. Domain (logistics) is new but not required.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "QUEUED",
+      "id": "61dc83f6bbe7",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Weekday (YC W21)",
+      "title": "Software Engineer Intern",
+      "url": "https://www.linkedin.com/jobs/view/4453416357/",
+      "location": "Bengaluru, Karnataka, India (Remote)",
+      "source": "linkedin_manual",
+      "description": "Software engineering internship: work alongside experienced engineers on real projects - design, development and testing of software features, debugging, system performance improvements, learning new tools. Required: strong problem-solving, good communication/teamwork, basic understanding of data structures, algorithms and software development, proficiency in at least one of Python/JavaScript/Java/C++. Nice to have: web frameworks, cloud platforms, AI/ML tooling, GitHub portfolio / personal projects, Agile exposure. 0 years experience minimum. Stipend Rs 30,000-50,000/month. Duration minimum 2 months, extendable to 6. Start date: Immediate / As soon as possible. Currently pursuing or recently completed a degree in CS/Engineering/related; no specific batch. Seniority: Junior - Entry Level.",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 50,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "Java",
+        "DSA basics",
+        "remote"
+      ],
+      "missing_skills": [
+        "available for an immediate start"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Skills and remote setup fit, but the posting wants an immediate start ('as soon as possible', minimum 2 months) while the candidate is mid-degree and graduates June 2027. Flagged in case a part-time remote internship now is workable.",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "ca51940bbe24",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Electronic Arts",
+      "title": "Software Engineer Intern",
+      "url": "https://www.linkedin.com/jobs/view/4463017406/",
+      "location": "Hyderabad, Telangana, India",
+      "source": "linkedin_manual",
+      "description": "Software Engineer internship at EA Mobile's Slingshot Studios (Covet Fashion, Need for Speed No Limits, Plants vs Zombies). Responsibilities: build new game features, collaborate with designers and product managers, optimize code for performance (load times, frame rates), participate in code reviews and retrospectives, contribute to technical discussions on feature planning and roadmaps, write documentation, follow coding standards. Required: strong data structures and algorithms foundation, solid programming skills, self-directed learning, creative problem-solving, proficiency with modern AI coding tools. Bonus: game development/playing experience; C++, C#, Java, or PHP; 3D mathematics for games; RESTful API understanding. Employment type: Temporary. Seniority: Internship. No specific batch requirement stated.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 52,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Java",
+        "AI coding-tool fluency",
+        "code review / collaboration"
+      ],
+      "missing_skills": [
+        "strong DSA foundation (known gap)",
+        "C++ / C#",
+        "game development"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "The role leads with a strong data-structures-and-algorithms foundation - the candidate's known weak spot - and the bonus stack (C++/C#, 3D maths, game dev) is outside his experience. Java and AI-tool fluency are the only clean matches.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "d88c9863e9ce",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "College Intern",
+      "url": "https://www.linkedin.com/jobs/view/4461573007/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "HPE College Intern supporting technical projects. Role is Remote/Teleworker (primarily work-from-home). Responsibilities: assist senior team members on assigned technical projects, identify and troubleshoot technical issues and suggest solutions, maintain and update hardware/software/technical systems, participate in team meetings, learn new technologies and methodologies, complete supervisor-assigned tasks, participate in progress reviews. Required: currently pursuing a Bachelor's in Engineering/CS/IT or related technical field; basic programming/scripting knowledge (Python, Java, C++); strong problem-solving and analytical skills; excellent communication; time management; collaborative mindset. Accommodates students during school breaks who return to university. No specific batch requirement stated. Seniority: Not Applicable.",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 60,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "Java basics",
+        "pursuing a technical bachelor's",
+        "remote"
+      ],
+      "missing_skills": [
+        "clear SWE / Data Science scope (role reads as generic IT support)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Low entry bar that he clears, and it is remote with no batch restriction, but the description is a generic 'assist with technical projects / troubleshoot / maintain systems' brief rather than a defined software-engineering or data track.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "5a2992832fc6",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "GE Appliances, a Haier company",
+      "title": "Co-op/Intern (Digital Technology)",
+      "url": "https://www.linkedin.com/jobs/view/4462471230/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Digital Technology Internship (20-24 weeks) working on projects with experienced technical professionals. Responsibilities: application development using Agile and Waterfall methodologies, systems management and optimization, infrastructure management and environment design/build. Required: currently pursuing B.Tech/BE in Computer Science, Information Technology, or related; minimum 60% aggregate throughout 10th, 12th and bachelor's; strong analytical and technical skills; problem-solving; prior internship/co-op/research in technology preferred; leadership experience valued. Employment type: Full-time. Seniority: Internship. No specific batch requirement stated.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "Java",
+        "application development",
+        "Agile",
+        "B.Tech (Electronics & Computer Engineering)"
+      ],
+      "missing_skills": [
+        "infrastructure / environment build experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "A 20-24 week digital-technology co-op building applications - timing works for a Jan-June 2027 pre-placement stint and the 60%+ academic bar is easily met. His Electronics & Computer Engineering degree with a Data Science honour reads as a related field.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "QUEUED",
+      "id": "9956076ae8bd",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Google",
+      "title": "Application Engineering Intern, Winter 2027",
+      "url": "https://www.linkedin.com/jobs/view/4463266207/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Google internship developing, deploying and supporting internal business applications: build solutions with custom front-ends and back-end services, troubleshoot operational challenges, translate business requirements into technical solutions, integrate third-party systems, maintain technical design and code-quality standards. Minimum qualifications: pursuing a Bachelor's in IT, Information Systems, Computer Science or related; programming experience in general-purpose languages; fluent English. Preferred: Java, Python, C++, SQL, Spring, API development, RESTful/SOAP services, JavaScript/TypeScript. Eligibility: anticipated graduation date in 2027; full-time availability for a 26-week internship starting Jan 2027 onwards; must reside in India for its full duration. Application deadline: September 15, 2026. Seniority: Internship.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 85,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "Java (Spring ramp)",
+        "REST API development",
+        "2027 graduation",
+        "Jan 2027 start / India residency"
+      ],
+      "missing_skills": [
+        "Spring framework depth"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Eligibility lines up exactly - 2027 graduation, 26-week internship starting January 2027, resident in India - and the language stack (Python/Java/SQL/APIs) matches. Note the application deadline is 15 September 2026, so this is time-critical.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "QUEUED",
+      "id": "a00d5480c34c",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "GE Aerospace",
+      "title": "Data Science Intern",
+      "url": "https://www.linkedin.com/jobs/view/4462811461/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Data Science Intern in the Data Science & AI team at GE Aerospace's John F. Welch Technology Center, Bengaluru. Research, develop and implement AI-based solutions under guidance of senior team members: modern machine learning, AI, statistical and probabilistic methods, operations research, semantic analysis for finding structure in datasets within Corporate Functions. Work on GenAI, Python, cloud platforms, statistics, ML, deep learning; work closely with a mentor; analyze, design, test and integrate components; document and present technical data. Required: B.Tech (3rd or 4th year) or M.Tech (1st or 2nd year) from reputed institutes; CS/IT stream with Data Science or AI specialization preferred; minimum 7 CGPA / 70% with no active backlogs; NOC from college before offer. Strong Python and ML skills; good communication; quick learner. Internship only, does not guarantee a full-time offer. No relocation assistance. Seniority: Internship.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 87,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "machine learning",
+        "deep learning",
+        "GenAI (Tata 1mg)",
+        "statistics",
+        "DS/AI specialisation",
+        "CGPA 7+ (has 9.5)",
+        "B.Tech 4th year"
+      ],
+      "missing_skills": [
+        "operations research",
+        "cloud deployment depth"
+      ],
+      "relevant_projects": [
+        "City-Level Demand Forecasting",
+        "Respiratory Sound Classification"
+      ],
+      "relevant_experience": [
+        "Neuriot",
+        "Tata 1mg"
+      ],
+      "reason": "Eligibility is spelled out and he meets all of it - B.Tech penultimate/final year, Data Science specialisation, CGPA well above 7, no backlogs - and the technical ask (Python, ML, DL, GenAI, statistics) matches both internships and his projects.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "QUEUED",
+      "id": "aeb6f002ca8a",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Magna International",
+      "title": "Intern, Smart Factory Solutions",
+      "url": "https://www.linkedin.com/jobs/view/4422173133/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Smart Factory Solutions internship with hands-on experience across: data engineering and ETL with real-world datasets; AI/ML model development and data-driven features; full-stack web development including APIs, dashboards and system enhancement. Required: currently pursuing a degree (Master's preferred) in Computer Science, Data Science or related; basic Python and/or JavaScript; understanding of data structures and programming fundamentals; interest in AI/ML and data analysis; problem-solving and willingness to learn. Preferred: React, Node.js or web development; ML exposure (scikit-learn, TensorFlow); SQL/database familiarity; academic or personal AI/data/app projects. Employment type: Full-time. Seniority: Internship. No specific batch requirement stated.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 62,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "AI / ML (scikit-learn, TensorFlow)",
+        "SQL",
+        "APIs & dashboards",
+        "ETL / data preprocessing"
+      ],
+      "missing_skills": [
+        "Master's degree in progress (JD lists it as required)",
+        "Node.js"
+      ],
+      "relevant_projects": [
+        "City-Level Demand Forecasting"
+      ],
+      "relevant_experience": [
+        "Neuriot",
+        "Tata 1mg"
+      ],
+      "reason": "The three focus areas - data engineering/ETL, AI/ML features, full-stack dashboards/APIs - are a good skills match, but on 2026-09-10 the candidate chose to respect the JD's 'currently pursuing a Master's degree' requirement, which he does not meet.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "32a059e29c55",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "FRND",
+      "title": "Machine Learning Intern",
+      "url": "https://www.linkedin.com/jobs/view/4459694334/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "6-month in-office ML internship at FRND building trust-and-safety models: fake-profile detection, unsafe-interaction and abuse detection, spam/scam identification. Work spans image/video ML, audio ML (ASR, abuse classification), and text ML (multilingual harassment/spam detection). Use PyTorch, handle production data, collaborate with engineers on inference services, monitor model performance in live environments. Required: strong academic background from a Tier 1 institution, preferably IITs, BITS, NITs or equivalent. Works 6 days/week (1st and 3rd Saturdays working). High performers may be considered for a PPO. NOTE: posting shows 'No longer accepting applications'. Seniority: Internship.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 40,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "PyTorch",
+        "audio ML (Respiratory project)",
+        "text / multilingual ML",
+        "production-data handling (Tata 1mg)"
+      ],
+      "missing_skills": [
+        "posting is closed"
+      ],
+      "relevant_projects": [
+        "Respiratory Sound Classification"
+      ],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "The ML skill match is genuinely good (audio/text models in PyTorch), but the LinkedIn posting shows 'no longer accepting applications', and it is a six-day in-office week. Recorded for reference; re-open if a fresh req appears.",
+      "requires_human_review": false,
+      "resume_hint": "machine_learning.pdf",
+      "status": "SKIPPED",
+      "id": "19c0408f1884",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Google",
+      "title": "Application Engineering Intern, Summer 2027",
+      "url": "https://www.linkedin.com/jobs/view/4463256241/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Google internship developing, deploying and supporting internal business applications: build custom front-end and back-end solutions to automate business processes, maintain technical design and code-quality standards, troubleshoot operational challenges, translate business requirements into technical implementations, integrate third-party products and manage upgrades, collaborate with internal teams on process improvements. Minimum qualifications: Bachelor's degree candidate in IT/CS/related; proficiency in general-purpose programming languages; fluent English. Preferred: Java, Python, C++; systems software, algorithms, SQL, Spring, API development, web services. Eligibility: anticipated graduation in 2028; full-time availability for a 10-12 week internship starting May/June 2027; must reside in India for full duration. Application deadline: September 15, 2026. Seniority: Internship.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 20,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "Java",
+        "SQL"
+      ],
+      "missing_skills": [
+        "anticipated graduation in 2028 (candidate graduates June 2027)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "This role requires an anticipated graduation date in 2028 and a 10-12 week internship in summer 2027 - a June 2027 graduate has already finished by then. The Winter 2027 Google role is the correct one to pursue.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "77d836dce175",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Research Sciences Intern (FoSSE, CoreAI)",
+      "url": "https://www.linkedin.com/jobs/view/4456711333/",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "linkedin_manual",
+      "description": "Research internship with the Future of Scalable Software Engineering (FoSSE) team in CoreAI, based in Bangalore alongside Microsoft Research India. Applied research at the intersection of programming languages, software engineering and AI to solve practical software-engineering challenges in large codebases: code migration, translation, static analysis, and formal methods. Responsibilities: collaborate with FoSSE researchers and Microsoft colleagues on applied research; create and test tools that operate on real-world, large-scale codebases. Required: pursuing or completed a Bachelor's, Master's or PhD in Computer Science or related field. Internships span three to six months; rolling applications; recommendation letters optional. Employment type: Full-time. Seniority: Not Applicable. No specific batch requirement stated.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 76,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "AI-for-software-engineering tooling (Tata 1mg)",
+        "Python",
+        "co-authored conference paper",
+        "independent math research"
+      ],
+      "missing_skills": [
+        "programming-languages / formal-methods background",
+        "static-analysis experience"
+      ],
+      "relevant_projects": [
+        "Series Approximation (math research)"
+      ],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Candidate chose to apply as a stretch on 2026-09-10. His Tata 1mg AI-coding-agent infrastructure work and research output (conference paper, first-principles math write-up) are adjacent to 'AI for scalable software engineering', though the programming-languages and formal-methods/static-analysis depth remains an open gap for interviews.",
+      "requires_human_review": true,
+      "resume_hint": "machine_learning.pdf",
+      "status": "QUEUED",
+      "id": "4e5962ea907a",
+      "discovered_at": "2026-09-10T18:04:57",
+      "analyzed_at": "2026-09-10T18:11:21"
     }
   ]
 }
