@@ -5641,13 +5641,14 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "QRT (a sheet target) AI Platform Engineer in Mumbai - strong name and a Python platform shape, but QRT hires at a high bar and this is not framed as early-career. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "QRT (a sheet target) AI Platform Engineer in Mumbai - strong name and a Python platform shape, but QRT hires at a high bar and this is not framed as early-career. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-10.]",
       "requires_human_review": true,
       "resume_hint": "",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "01eb298468cf",
       "discovered_at": "2026-09-09T19:36:11",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "Quberesearchandtechnologies",
@@ -5674,13 +5675,14 @@
       "relevant_experience": [
         "Neuriot (Data Science and Machine Learning Intern)"
       ],
-      "reason": "QRT Financial Data Analyst - Python, Mumbai - Python + data-wrangling shape fits his Neuriot forecasting work and is a lighter lift than QRT engineering roles. Level unclear from the snippet. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "QRT Financial Data Analyst - Python, Mumbai - Python + data-wrangling shape fits his Neuriot forecasting work and is a lighter lift than QRT engineering roles. Level unclear from the snippet. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-10.]",
       "requires_human_review": true,
       "resume_hint": "",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "77002f20203f",
       "discovered_at": "2026-09-09T19:36:11",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "Devrev",
@@ -5880,13 +5882,14 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "project44 (sheet target) Software Engineer - Backend, Bangalore. Their other India req is explicitly Software Engineer 2, so confirm this one is open to a fresher. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "project44 (sheet target) Software Engineer - Backend, Bangalore. Their other India req is explicitly Software Engineer 2, so confirm this one is open to a fresher. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-10.]",
       "requires_human_review": true,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "b7286493cc09",
       "discovered_at": "2026-09-09T19:36:12",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "Tenstorrent",
@@ -6011,13 +6014,14 @@
       "relevant_experience": [
         "Neuriot (Data Science and Machine Learning Intern)"
       ],
-      "reason": "Deeter Analytics ML Engineer, remote-global, hires on fundamentals + shipped projects. Blocker is timing (full-time now vs June-2027 grad). Also in cold_outreach.json for a 2027 pipeline ask. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "Deeter Analytics ML Engineer, remote-global, hires on fundamentals + shipped projects. Blocker is timing (full-time now vs June-2027 grad). Also in cold_outreach.json for a 2027 pipeline ask. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-10.]",
       "requires_human_review": true,
       "resume_hint": "",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "bb9ee338879a",
       "discovered_at": "2026-09-09T19:36:13",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "Capital One Careers",

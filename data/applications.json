@@ -479,6 +479,66 @@
       "date_applied": null,
       "created_at": "2026-09-09T20:22:07",
       "updated_at": "2026-09-09T20:22:07"
+    },
+    {
+      "job_id": "01eb298468cf",
+      "company": "Quberesearchandtechnologies",
+      "role": "AI Platform Engineer",
+      "status": "APPLIED",
+      "match_score": 75,
+      "resume": "software_engineering.pdf",
+      "application_url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8682230002",
+      "notes": "Applied manually on 2026-09-10 (queue job; reviewed then submitted outside the agent). Resume software_engineering.pdf is the deterministic router pick, recorded by convention; verify against the actual upload.",
+      "questions": [],
+      "id": "app_01eb298468cf",
+      "date_applied": "2026-09-10",
+      "created_at": "2026-09-10T12:28:35",
+      "updated_at": "2026-09-10T12:28:35"
+    },
+    {
+      "job_id": "77002f20203f",
+      "company": "Quberesearchandtechnologies",
+      "role": "Financial Data Analyst - Python",
+      "status": "APPLIED",
+      "match_score": 75,
+      "resume": "software_engineering.pdf",
+      "application_url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8675448002",
+      "notes": "Applied manually on 2026-09-10 (queue job; reviewed then submitted outside the agent). Resume software_engineering.pdf is the deterministic router pick, recorded by convention; verify against the actual upload.",
+      "questions": [],
+      "id": "app_77002f20203f",
+      "date_applied": "2026-09-10",
+      "created_at": "2026-09-10T12:28:35",
+      "updated_at": "2026-09-10T12:28:35"
+    },
+    {
+      "job_id": "b7286493cc09",
+      "company": "Project44",
+      "role": "Software Engineer - Backend",
+      "status": "APPLIED",
+      "match_score": 75,
+      "resume": "software_engineering.pdf",
+      "application_url": "https://job-boards.greenhouse.io/project44/jobs/7179793",
+      "notes": "Applied manually on 2026-09-10 (queue job; reviewed then submitted outside the agent). Resume software_engineering.pdf is the deterministic router pick, recorded by convention; verify against the actual upload.",
+      "questions": [],
+      "id": "app_b7286493cc09",
+      "date_applied": "2026-09-10",
+      "created_at": "2026-09-10T12:28:35",
+      "updated_at": "2026-09-10T12:28:35"
+    },
+    {
+      "job_id": "bb9ee338879a",
+      "company": "Deeter Analytics",
+      "role": "Machine Learning Engineer",
+      "status": "APPLIED",
+      "match_score": 75,
+      "resume": "machine_learning.pdf",
+      "application_url": "https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0",
+      "notes": "Applied manually on 2026-09-10 (queue job; reviewed then submitted outside the agent). Resume machine_learning.pdf is the deterministic router pick, recorded by convention; verify against the actual upload.",
+      "questions": [],
+      "id": "app_bb9ee338879a",
+      "date_applied": "2026-09-10",
+      "created_at": "2026-09-10T12:28:35",
+      "updated_at": "2026-09-10T12:28:35"
     }
   ]
 }
