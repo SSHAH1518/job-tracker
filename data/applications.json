@@ -469,16 +469,16 @@
       "job_id": "3561f5b02380",
       "company": "Moneyview",
       "role": "Software Engineer",
-      "status": "REVIEW",
+      "status": "APPLIED",
       "match_score": 75,
       "resume": "software_engineering.pdf",
       "application_url": "https://click.appcast.io/t/NG3FyvriJo3FGhR7fY8NLIRdnAaTND8LJXs8LTrQQpsSKyKJP41R9i3ArEr8wBbpdly5s686f70mCWFS7mBe9w==?ppt=eyJhbGciOiJIUzI1NiJ9.eyJzcmNfaWQiOjUxNDE3MCwiZXBvY2giOjE3ODg5NjU1MjAsImNsaWNrX2lkIjoib3NCVkExNnM4UkdCWXZUSFJZRTRyZyIsInNvdXJjZV9yZWYiOiIxNTgyMF80NDU2NzYxNTA3IiwicHBfbmFtZSI6ImFwcGNhc3QifQ.azeO32yQwJ3LJ2qEu5ZIgNEBLEJ4idDyZi-jxC0uKVA",
-      "notes": "Error: No form fields detected on the page.",
+      "notes": "Applied manually on 2026-09-10 (prepare found no form fields on the appcast redirect page; submitted outside the agent). Resume software_engineering.pdf recorded by convention; verify against the actual upload.",
       "questions": [],
       "id": "app_3561f5b02380",
-      "date_applied": null,
+      "date_applied": "2026-09-10",
       "created_at": "2026-09-09T20:22:07",
-      "updated_at": "2026-09-09T20:22:07"
+      "updated_at": "2026-09-10T12:33:27"
     },
     {
       "job_id": "01eb298468cf",

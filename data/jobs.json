@@ -4914,13 +4914,14 @@
       "relevant_experience": [
         "Tata 1mg (Backend Engineering Intern)"
       ],
-      "reason": "Unusually direct skills match - SDE I AI Engineer on Python, RAG, MCP, Evals, LangChain maps straight onto his Tata 1mg MCP-server and AI-agent work, and 1-2 years is near-fresher. The blocker is timing: it reads as an immediate full-time hire and he graduates June 2027. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.]",
+      "reason": "Unusually direct skills match - SDE I AI Engineer on Python, RAG, MCP, Evals, LangChain maps straight onto his Tata 1mg MCP-server and AI-agent work, and 1-2 years is near-fresher. The blocker is timing: it reads as an immediate full-time hire and he graduates June 2027. [Queued at Somin’s explicit direction 2026-09-09 despite the MAYBE flag; review before submit.] [Applied manually 2026-09-10.]",
       "requires_human_review": true,
       "resume_hint": "software_engineering.pdf",
       "status": "APPLIED",
       "id": "3561f5b02380",
       "discovered_at": "2026-09-09T19:36:05",
-      "analyzed_at": "2026-09-09"
+      "analyzed_at": "2026-09-09",
+      "applied_at": "2026-09-10"
     },
     {
       "company": "FTPROTECH",
