@@ -7885,7 +7885,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "scikit-learn/TensorFlow/PyTorch"
@@ -7896,10 +7896,10 @@
         "City-Level Demand Forecasting"
       ],
       "relevant_experience": [],
-      "reason": "Machine Learning Intern at a small company with a clear entry-level title; good fit for the candidate's PyTorch/TensorFlow project background.",
+      "reason": "Machine Learning Intern at a small company with a clear entry-level title; good fit for the candidate's PyTorch/TensorFlow project background. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "24d2bf596532",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -7947,7 +7947,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "scikit-learn/TensorFlow/PyTorch"
@@ -7958,10 +7958,10 @@
         "City-Level Demand Forecasting"
       ],
       "relevant_experience": [],
-      "reason": "Machine Learning Intern with a clear entry-level title; good project fit.",
+      "reason": "Machine Learning Intern with a clear entry-level title; good project fit. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "248f3b67706f",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -8073,7 +8073,7 @@
       "reason": "AI-applications product engineering internship; strong match for Python/Flask/AI-tooling background from the Tata 1mg internship.",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "bee773b56f72",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -8144,7 +8144,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "scikit-learn/TensorFlow/PyTorch"
@@ -8155,10 +8155,10 @@
         "City-Level Demand Forecasting"
       ],
       "relevant_experience": [],
-      "reason": "'ML Engineer I' is an explicit entry-level title at a known IT-services company.",
+      "reason": "'ML Engineer I' is an explicit entry-level title at a known IT-services company. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "82547678c0d4",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -8285,7 +8285,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "Flask/REST",
@@ -8296,10 +8296,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "AI Engineer Intern with a clear entry-level title.",
+      "reason": "AI Engineer Intern with a clear entry-level title. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "133fe7db06a7",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"

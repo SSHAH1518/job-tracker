@@ -689,6 +689,21 @@
       "date_applied": "2026-09-15",
       "created_at": "2026-09-15T15:42:31",
       "updated_at": "2026-09-15T15:42:31"
+    },
+    {
+      "job_id": "bee773b56f72",
+      "company": "Agentropic",
+      "role": "Product Engineering Intern - AI Applications",
+      "status": "APPLIED",
+      "match_score": 78,
+      "resume": "machine_learning.pdf",
+      "application_url": "https://www.linkedin.com/jobs/view/4464751458/",
+      "notes": "Applied manually by Somin on 2026-09-15 via the browser window opened by prepare.",
+      "questions": [],
+      "id": "app_bee773b56f72",
+      "date_applied": "2026-09-15",
+      "created_at": "2026-09-15T16:39:16",
+      "updated_at": "2026-09-15T16:43:31"
     }
   ]
 }
