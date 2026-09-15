@@ -12631,6 +12631,258 @@
       "id": "bd1cde1283ec",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
+    },
+    {
+      "company": "R3",
+      "title": "Software Developer in Test (SDET)",
+      "url": "https://jooble.org/desc/8618106635194963368?ckey=software+engineer+software+developer+software+development+engineer+backend+back+end+back-end&rgn=55126&pos=7&groupId=-846278524&elckey=-9009372954239401085&p=1&aq=-503333127211162692&cid=18811&jobAge=606&brelb=100&bscr=27.384918&scr=27.384918",
+      "location": "India",
+      "source": "jooble",
+      "description": "...testing solutions across APIs, UI, and backend components. You will also mentor...  ...for quality throughout the development lifecycle. \r\n Key Responsibilities...  ...distributed systems. \r\n Collaborate with developers, product managers, and DevOps engineers in Agile ceremonies to ensure...",
+      "remote": false,
+      "employment_type": "Full-time",
+      "match_score": 20,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "test automation focus"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "SDET role -- not one of the candidate's target tracks.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "fa548923d60b",
+      "discovered_at": "2026-09-15T17:39:08",
+      "analyzed_at": "2026-09-15T17:41:44"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Software Engineer - 1",
+      "url": "https://jooble.org/desc/1432193335569585688?ckey=software+engineer+software+developer+software+development+engineer+backend+back+end+back-end&rgn=55126&pos=10&groupId=-846278524&elckey=-9009372954239401085&p=1&aq=-503333127211162692&cid=18811&jobAge=198&brelb=100&bscr=19.66318&scr=19.66318",
+      "location": "India",
+      "source": "jooble",
+      "description": "...greatest potential.  Title and Summary Software Engineer - 1\r\n Job Description Summary...  ...We are looking for a Senior Software Developer to join our DMP team in Pune office...  ...the scrum ceremonies. \r\n• Apply best development practices to write well designed, maintainable...",
+      "remote": false,
+      "employment_type": "Full-time",
+      "match_score": 25,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "senior-level experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Job description explicitly asks for a Senior Software Developer despite the \"Software Engineer - 1\" title.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "0ff5c36e84d5",
+      "discovered_at": "2026-09-15T17:39:08",
+      "analyzed_at": "2026-09-15T17:41:44"
+    },
+    {
+      "company": "Hireoptica",
+      "title": "Software Developer",
+      "url": "https://jooble.org/desc/3784583652299417936?ckey=software+engineer+software+developer+software+development+engineer+backend+back+end+back-end&rgn=55126&pos=11&groupId=-846278524&elckey=-9009372954239401085&p=1&aq=-503333127211162692&cid=18811&jobAge=294&brelb=100&bscr=19.637386&scr=19.637386",
+      "location": "India",
+      "source": "jooble",
+      "description": "Customer Success Manager  We are looking for a proactive and customer-focused Customer Success Manager to build strong relationships with customers and help them get maximum value from our products and services. \r\n In this role, you will work closely with customers throughout...",
+      "remote": false,
+      "employment_type": "Full-time",
+      "match_score": 10,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Listing is mislabeled/garbled -- the description is for a Customer Success Manager role, not Software Developer; likely a scraping/data-quality issue.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "474e5f6aee3d",
+      "discovered_at": "2026-09-15T17:39:08",
+      "analyzed_at": "2026-09-15T17:41:44"
+    },
+    {
+      "company": "Singlestore",
+      "title": "Forward Deployment Engineer",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/7793655",
+      "location": "United States",
+      "source": "greenhouse",
+      "description": "<p><strong>Position Overview</strong></p>\n<p>SingleStore is seeking a Forward Deployed Engineer (FDE) to operate at the intersection of solution architecture, technical delivery, and customer partnership. This role combines elements of a solutions architect, technical account manager, and solution engineer, with a strong emphasis on execution.</p>\n<p>As an FDE, you will serve as a trusted technical advisor and sounding board for customers, helping them design, implement, and scale real-time data solutions using SingleStore. You will work closely with customers to understand their business objectives, translate them into technical strategies, and drive those solutions into production. This role requires a delivery mindset, strong technical depth, and the ability to lead both strategic conversations and hands-on execution.</p>\n<p><strong>Role and Responsibilities</strong></p>\n<ul>\n<li>Partner directly with customers to understand their architecture, use cases, and business goals, and translate them into scalable technical solutions.</li>\n<li>Design and implement end-to-end solutions integrating SingleStore into existing application and data ecosystems.</li>\n<li>Lead whiteboard sessions to shape ideas, define architecture, and convert concepts into technical specifications and execution plans.</li>\n<li>Act as a proactive thought partner, bringing ideas and guiding conversations rather than reacting to requirements.</li>\n<li>Own delivery of high-impact initiatives from concept through production, ensuring successful outcomes.</li>\n<li>Provide hands-on support, including troubleshooting, optimization, and applying pragmatic solutions or fixes when needed.</li>\n<li>Collaborate closely with Sales, Solutions Engineering, Product, and Engineering teams to align customer needs with product capabilities and roadmap.</li>\n<li>Help customers prioritize and operationalize their data initiatives, balancing ambition with practical delivery.</li>\n<li>Feed insights from customer engagements back into Product and Engineering to influence roadmap and improvements.</li>\n</ul>\n<h2><strong>Your Experience</strong></h2>\n<ul>\n<li>10+ years of experience in solution architecture, solution engineering, or technical consulting (pre-sales and/or post-sales).</li>\n<li>Strong foundation in databases, distributed systems, or software engineering.</li>\n<li>Proven experience delivering production-grade solutions in customer-facing environments.</li>\n<li>Experience integrating complex systems across data pipelines, applications, and infrastructure.</li>\n<li>Ability to translate ambiguous requirements into clear technical plans and drive execution.</li>\n<li>Experience working with enterprise customers, particularly in financial services or high-tech environments, is highly preferred.</li>\n<li>Strong communication and organizational skills, with the ability to guide both technical and non-technical stakeholders.</li>\n<li>Demonstrated ability to balance technical innovation with pragmatic delivery and realistic scoping.</li>\n<li>Alignment with product capabilities and roadmap, ensuring solutions are both impactful and feasible.</li>\n</ul>\n<p>SingleStore delivers the cloud-native database with the speed and scale to power the world’s data-intensive applications. With a distributed SQL database that introduces simplicity to your data architecture by unifying transactions and analytics, SingleStore empowers digital leaders to deliver exceptional, real-time data experiences to their customers. SingleStore is venture-backed and headquartered in San Francisco with offices in Sunnyvale, Raleigh, Seattle, Boston, London, Lisbon, Bangalore, Dublin and Kyiv.&nbsp;</p>\n<p>Consistent with our commitment to diversity &amp; inclusion, we value individuals with the ability to work on diverse teams and with a diverse range of people.</p>\n<p><em>To all recruitment agencies: SingleStore does not accept agency resumes. Please do not forward resumes to SingleStore employees. SingleStore is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.</em></p>\n<p>SingleStore values individuals for their unique skills and experiences, and we’re proud to offer roles in a variety of locations across the United States. Salary is based on permissible, non-discriminatory factors such as skills, experience, and geographic location, and is just one part of our total compensation and benefits package. Certain roles are also eligible for additional rewards, including merit increases and annual bonuses.&nbsp;</p>\n<p>SingleStore’s base salary range for this role, if based in States: $120,000-&nbsp; $200,000 USD per year</p>\n<p><em>For candidates residing in California, please see our</em><a href=\"https://www.singlestore.com/singlestore-california-recruitment-privacy-notice/\"><em> California Recruitment Privacy Notice</em></a><em>. For candidates residing in the EEA, UK, and Switzerland, please see our</em><a href=\"https://www.singlestore.com/recruitment-privacy/\"><em> EEA, UK, and Swiss Recruitment Privacy Notice.</em></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Req ID: SLS00304<br><br></p>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 20,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "backend fundamentals"
+      ],
+      "missing_skills": [
+        "US work authorization"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "SingleStore Forward Deployment Engineer based in the United States, onsite; candidate is India-based and was already rejected from a different SingleStore role.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "45a37e97f6b3",
+      "discovered_at": "2026-09-15T17:39:09",
+      "analyzed_at": "2026-09-15T17:41:44"
+    },
+    {
+      "company": "Singlestore",
+      "title": "Forward Deployment Engineer, New York, Tri State Area",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/7793656",
+      "location": "New York United States",
+      "source": "greenhouse",
+      "description": "<p><strong>Position Overview</strong></p>\n<p>SingleStore is seeking a Forward Deployed Engineer (FDE) to operate at the intersection of solution architecture, technical delivery, and customer partnership. This role combines elements of a solutions architect, technical account manager, and solution engineer, with a strong emphasis on execution.</p>\n<p>As an FDE, you will serve as a trusted technical advisor and sounding board for customers, helping them design, implement, and scale real-time data solutions using SingleStore. You will work closely with customers to understand their business objectives, translate them into technical strategies, and drive those solutions into production. This role requires a delivery mindset, strong technical depth, and the ability to lead both strategic conversations and hands-on execution.</p>\n<p><strong>Role and Responsibilities</strong></p>\n<ul>\n<li>Partner directly with customers to understand their architecture, use cases, and business goals, and translate them into scalable technical solutions.</li>\n<li>Design and implement end-to-end solutions integrating SingleStore into existing application and data ecosystems.</li>\n<li>Lead whiteboard sessions to shape ideas, define architecture, and convert concepts into technical specifications and execution plans.</li>\n<li>Act as a proactive thought partner, bringing ideas and guiding conversations rather than reacting to requirements.</li>\n<li>Own delivery of high-impact initiatives from concept through production, ensuring successful outcomes.</li>\n<li>Provide hands-on support, including troubleshooting, optimization, and applying pragmatic solutions or fixes when needed.</li>\n<li>Collaborate closely with Sales, Solutions Engineering, Product, and Engineering teams to align customer needs with product capabilities and roadmap.</li>\n<li>Help customers prioritize and operationalize their data initiatives, balancing ambition with practical delivery.</li>\n<li>Feed insights from customer engagements back into Product and Engineering to influence roadmap and improvements.</li>\n</ul>\n<h2><strong>Your Experience</strong></h2>\n<ul>\n<li>10+ years of experience in solution architecture, solution engineering, or technical consulting (pre-sales and/or post-sales).</li>\n<li>Strong foundation in databases, distributed systems, or software engineering.</li>\n<li>Proven experience delivering production-grade solutions in customer-facing environments.</li>\n<li>Experience integrating complex systems across data pipelines, applications, and infrastructure.</li>\n<li>Ability to translate ambiguous requirements into clear technical plans and drive execution.</li>\n<li>Experience working with enterprise customers, particularly in financial services or high-tech environments, is highly preferred.</li>\n<li>Strong communication and organizational skills, with the ability to guide both technical and non-technical stakeholders.</li>\n<li>Demonstrated ability to balance technical innovation with pragmatic delivery and realistic scoping.</li>\n<li>Alignment with product capabilities and roadmap, ensuring solutions are both impactful and feasible.</li>\n<li>This is a customer-facing role, and we prefer candidates based in the NYC area or within a commutable distance.</li>\n</ul>\n<p>SingleStore delivers the cloud-native database with the speed and scale to power the world’s data-intensive applications. With a distributed SQL database that introduces simplicity to your data architecture by unifying transactions and analytics, SingleStore empowers digital leaders to deliver exceptional, real-time data experiences to their customers. SingleStore is venture-backed and headquartered in San Francisco with offices in Sunnyvale, Raleigh, Seattle, Boston, London, Lisbon, Bangalore, Dublin and Kyiv.&nbsp;</p>\n<p>Consistent with our commitment to diversity &amp; inclusion, we value individuals with the ability to work on diverse teams and with a diverse range of people.</p>\n<p><em>To all recruitment agencies: SingleStore does not accept agency resumes. Please do not forward resumes to SingleStore employees. SingleStore is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.</em></p>\n<p>SingleStore values individuals for their unique skills and experiences, and we’re proud to offer roles in a variety of locations across the United States. Salary is based on permissible, non-discriminatory factors such as skills, experience, and geographic location, and is just one part of our total compensation and benefits package. Certain roles are also eligible for additional rewards, including merit increases and annual bonuses.&nbsp;</p>\n<p>SingleStore’s base salary range for this role, if based in States: $120,000 - $200,000 USD per year</p>\n<p><em>For candidates residing in California, please see our</em><a href=\"https://www.singlestore.com/singlestore-california-recruitment-privacy-notice/\"><em> California Recruitment Privacy Notice</em></a><em>. For candidates residing in the EEA, UK, and Switzerland, please see our</em><a href=\"https://www.singlestore.com/recruitment-privacy/\"><em> EEA, UK, and Swiss Recruitment Privacy Notice.</em></a></p>\n<p><br><br></p>\n<p>Req ID: SLS00303</p>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 20,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "backend fundamentals"
+      ],
+      "missing_skills": [
+        "US work authorization"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "SingleStore Forward Deployment Engineer, New York -- onsite US role, not remote-from-India.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "955f12ff08e2",
+      "discovered_at": "2026-09-15T17:39:09",
+      "analyzed_at": "2026-09-15T17:41:44"
+    },
+    {
+      "company": "Quberesearchandtechnologies",
+      "title": "Quantitative Researcher",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/5953097002",
+      "location": "Mumbai",
+      "source": "greenhouse",
+      "description": "<p><strong>Your future role within QRT</strong></p>\n<ul>\n<li>Your core objective is to create high quality predictive signals.</li>\n<li>By leveraging access to large and diversified datasets you will identify statistical patterns and opportunities.</li>\n<li>Share and discuss research results, methodology, data sets and processes with other researchers.</li>\n<li>Implement the signals and the relevant datasets within the global execution platform.</li>\n<li>Monitor signal behaviour and model performance over time.</li>\n<li>You would lead the full strategy research cycle from signal generation to implementation.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Your present skillset</strong></p>\n<ul>\n<li>Advanced degree in a quantitative field such as data science, statistics, mathematics, physics or engineering.</li>\n<li>Strong knowledge in statistics, machine learning, NLP or AI techniques is a plus.</li>\n<li>Capacity to multi-task in a fast paced environment while keeping strong attention to detail.</li>\n<li>Coding skills required in at least one leading programing language (Python, R, Matlab and /or C++, C#).</li>\n<li>Experience in exploring large datasets across multiple time frames is a plus.</li>\n<li>Intellectual curiosity to explore new data sets, solve complex problems, drive innovative processes and connect the dots between multiple fields.</li>\n<li>Capacity to work with autonomy within a collegial and collaborative environment.</li>\n<li>Strong capacity to communicate with technologists, data scientists and traders across the globe.</li>\n<li>Proven track record in delivering successful systematic strategies.</li>\n</ul>\n<p>QRT is an equal opportunity employer. We welcome diversity as essential to our success. QRT empowers employees to work openly and respectfully to achieve collective success. In addition to professional achievement, we are offering initiatives and programs to enable employees to achieve a healthy work-life balance.</p>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 40,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "statistics",
+        "ML"
+      ],
+      "missing_skills": [
+        "advanced degree (Masters/PhD) in a quantitative field"
+      ],
+      "relevant_projects": [
+        "City-Level Demand Forecasting"
+      ],
+      "relevant_experience": [],
+      "reason": "QRT Quantitative Researcher explicitly requires an advanced (graduate) degree in a quantitative field; candidate is a B.Tech undergrad.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "29616fe816b9",
+      "discovered_at": "2026-09-15T17:39:09",
+      "analyzed_at": "2026-09-15T17:41:44"
+    },
+    {
+      "company": "Devrev",
+      "title": "Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6180278004",
+      "location": "Chennai, India",
+      "source": "greenhouse",
+      "description": "<div class=\"content-intro\"><p><span style=\"font-size: 12pt;\"><strong>About DevRev</strong></span></p>\n<p>At DevRev, we're building the future of work with <em>Computer</em> – your AI teammate. Unlike traditional tools, <em>Computer</em> unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work alongside your teams and customers – updating workflows, coordinating across teams, and eliminating repetitive work. We call this Team Intelligence: human-AI collaboration that breaks down silos, brings people back together, and frees you to solve bigger problems. Backed by Khosla Ventures and Mayfield with $150M+ raised, DevRev is trusted by global companies across industries.</p></div><p><strong>About the Role:</strong></p>\n<p>As a Forward Deployed Engineer at DevRev, you will work closely with our pre- and post-sales Customer Experience team by developing solutions over the core platform via applications written in TypeScript, JavaScript, Python, etc. One of the key functions of this role is, building the Knowledge Graph that includes integration of DevRev with other SaaS and non-SaaS systems through webhooks and APIs and/ or real-time communication architectures. You will be expected to employ your creativity and expertise to ideate and shape how AI, analytics and workflows are used in customers' processes.<br><br></p>\n<p><strong>What You'll Do:</strong></p>\n<ul>\n<li><strong>Customer-facing:</strong>&nbsp;30% working directly with customers.</li>\n<li><strong>Coding &amp; Integration: 70-80% hands-on technical implementation</strong></li>\n<li><strong>Build &amp; Deploy Solutions:</strong>&nbsp;Design, develop, and launch AI agents, integrations, and automations that connect DevRev with customers' existing tech stacks and workflows.</li>\n<li><strong>Integrate Systems:</strong>&nbsp;Connect DevRev with SaaS and non-SaaS platforms through APIs, webhooks, and real-time communication architectures for seamless data flow.</li>\n<li><strong>Optimize AI Performance:</strong>&nbsp;Apply prompt engineering, fine-tune semantic search engines, and leverage generative AI techniques to enhance agent accuracy and user experience.</li>\n<li><strong>Own Data Insights:</strong>&nbsp;Write SQL queries, perform data analysis, and build dashboards to surface insights that drive customer decision-making.</li>\n<li><strong>Prototype &amp; Iterate:</strong>&nbsp;Develop rapid proofs-of-concept, conduct live technical demos, and refine solutions based on customer and stakeholder feedback.</li>\n<li><strong>Lead Cross-functional Collaboration:</strong>&nbsp;Maintain constant communication loops with customers, engineering, product, customer success, support, and revenue teams to ensure alignment.</li>\n<li><strong>Guide Technical Adoption:</strong>&nbsp;Learn and master new tools, then guide customers through critical workflows like code repository integrations and advanced configurations.</li>\n<li><strong>Travel Ready:</strong> <strong>Willingness to travel up to 80% for on-site implementations, technical workshops, and customer engagements</strong>.</li>\n</ul>\n<p><strong>What You Bring:</strong></p>\n<ul>\n<li><strong>Experience:</strong> 5+ years in software development, systems integration, or platform engineering. Customer-facing experience is a plus.</li>\n<li><strong>Background:</strong>&nbsp;Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.</li>\n<li><strong>Coding Skills:</strong>&nbsp;Strong proficiency in TypeScript/JavaScript, Python, data structures and algorithms. (Nice to have: Go)</li>\n<li><strong>Applied AI Knowledge:</strong>&nbsp;Familiarity with large language models (LLMs), prompt engineering, frameworks like RAG and function calling, and building evals to validate agentic AI solutions.</li>\n<li><strong>Integration Expertise:</strong>&nbsp;Deep experience with large-scale data synchronization (one-way and two-way), API integration patterns (REST, GraphQL, webhooks), and event-driven/pub/sub architectures.</li>\n<li><strong>Cloud &amp; Deployment:</strong>&nbsp;Hands-on experience deploying on serverless and edge platforms (AWS Lambda, Google Cloud Functions) with modern DevOps practices (CI/CD, containers, observability).</li>\n<li><strong>Data Transformation:</strong>&nbsp;Skilled in data mapping, schema alignment, and working with heterogeneous systems. Understanding of data modeling and graph data structures.</li>\n<li><strong>Observability:</strong>&nbsp;Experience implementing clear logging, actionable error surfacing, and telemetry to support faster debugging and issue resolution.</li>\n<li><strong>Context-Aware Systems:</strong>&nbsp;Familiarity with Model Context Programming (MCP) for building adaptive, context-aware integrations.</li>\n<li><strong>Problem-Solving:</strong>&nbsp;Strong track record triaging and unblocking both technical and non-technical blockers to keep projects moving forward.</li>\n<li><strong>Documentation:</strong>&nbsp;Experience writing concise, well-structured documentation that supports long-term team understanding and seamless onboarding.</li>\n<li><strong>Communication:</strong>&nbsp;Strong written and verbal skills to articulate technical concepts to engineers, product teams, and business stakeholders.<br><br>As part of our hiring process, shortlisted candidates will undergo a Background Verification (BGV). By applying, you consent to sharing personal information required for this process. Any offer made will be subject to successful completion of the BGV.</li>\n</ul><div class=\"content-conclusion\"><p><em>DevRev is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.</em></p></div>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 70,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "REST/webhook integrations",
+        "MCP/AI-tooling experience"
+      ],
+      "missing_skills": [
+        "TypeScript/JavaScript production experience",
+        "proven customer-facing ownership"
+      ],
+      "relevant_projects": [
+        "City-Level Demand Forecasting"
+      ],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "DevRev Forward Deployed Engineer, Chennai -- a genuinely India-based, non-senior FDE opening; the MCP/integration/AI-tooling work at Tata 1mg maps well, though FDE roles typically expect more independent customer-facing ownership than an intern-level candidate has shown yet. Worth your own look.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "d1ed46f718ed",
+      "discovered_at": "2026-09-15T17:39:09",
+      "analyzed_at": "2026-09-15T17:41:44"
+    },
+    {
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer  - Edge Autonomous Systems",
+      "url": "https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b",
+      "location": "Washington, D.C.",
+      "source": "lever",
+      "description": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nWe are seeking a Forward Deployed Software Engineer to join a newly-formed team focused on developing advanced autonomous systems for use on the edge and in austere environments for military and commercial uses. This role involves building, integrating, and deploying state-of-the-art solutions that combine sensors, actuators, unmanned systems, and intelligent decision-making systems to provide remote and autonomous control of individual and swarms of systems.\n\nAs a part of this team, you will contribute directly to the development and deployment of autonomous systems that integrate sensors (IMU, autopilot, cameras, radars, RF, and other modalities) with continuous and real-time response actuation, path planning, and other kinetic and non-kinetic systems. You will work alongside other experts in sensing, artificial intelligence, and systems engineering to build and deliver solutions that redefine complex real world scenarios.\n",
+      "remote": false,
+      "employment_type": "Full-time",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "US citizenship/security clearance",
+        "robotics/autonomous systems background"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Palantir FDE role on a military/defense autonomous-systems team based in Washington, D.C. -- almost certainly requires US citizenship/security clearance and onsite presence.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "b754bec21371",
+      "discovered_at": "2026-09-15T17:39:15",
+      "analyzed_at": "2026-09-15T17:41:44"
+    },
+    {
+      "company": "Deeter Analytics",
+      "title": "Junior Quantitative Researcher",
+      "url": "https://jobs.ashbyhq.com/deeter-analytics/a93aae94-6025-4977-a5c0-657874c6a230",
+      "location": "US - Remote",
+      "source": "ashby",
+      "description": "JUNIOR QUANTITATIVE RESEARCHER\n\n\n\n\nABOUT THE ROLE\n\nDeeter Analytics is a privately held investment research and trading firm managing its own capital across public markets. After years of discretionary success, we think we have some unique ways of seeing the market, and we pair sharp human judgment with modern AI to act on them.\n\n\n\nA lot of what we trade starts as a hunch at the desk: a pattern that keeps showing up, a relationship that feels like it should hold, a setup someone wants to trust but doesn't yet. We're hiring a Junior Quantitative Researcher to turn those hunches into evidence, and evidence into signals the desk actually uses. You'll take questions from the traders, test them honestly against the data, and come back in plain language: what holds, what doesn't, how strong, since when, and where it breaks. This is not a systematic seat: your models won't trade on their own, and you won't be one factor in an anonymous alpha pool. Your work is done when a trader understands it, trusts it, and acts on it. It's an entry point into a serious seat: as your signals prove out, they get more weight in the book, and you get more scope. The role is full-time and fully remote, US-based, overlapping the desk on US market hours.\n\n\n\n\nWHAT YOU'LL OWN\n\n• The question queue. Desk hunches in, answers out. You scope the question, run the study, and come back sometimes same-day with what the data says, at the depth the question deserves.\n\n• The signal shelf. A growing library of signals and screens the desk trades around (earnings and event setups, positioning and flow extremes, regime and factor context) each with a documented edge, known failure modes, and live tracking against expectation. You retire what decays.\n\n• The evidence standard. Event studies, conditioning analyses, base rates, and walk-forward checks that hold up: point-in-time data, no leakage, no survivorship, costs counted, multiple-testing restraint. A backtest here is a way to kill an idea, not to sell it.\n\n• The quant read. The recurring numbers layer under the desk's picture of the market (regime, factor moves, breadth, positioning) feeding the morning picture rather than duplicating it.\n\n• The research data. Clean, point-in-time datasets (prices, fundamentals, earnings calendars, options and positioning) organized so every number you've ever reported traces back to code and data.\n\n• AI leverage. Use modern AI tools to test more ideas, read more literature, and write cleaner code than one person otherwise could, and verify what they give you.\n\n\n\n\nWHO YOU ARE\n\nWe hire for demonstrated judgment and how you think, not for pedigree. This is a junior seat, so we don't expect a markets résumé — the best evidence usually comes from wherever you've already done rigorous quantitative work. We look for signs that you are:\n\n• Rigorous where it counts. You think in base rates, sample sizes, and conditioning; you know what autocorrelation, overlapping windows, and fat tails do to naive statistics, and you'd rather report a small honest edge than a large fragile one.\n\n• Hypothesis-driven. You start from a mechanism (why would this work, who's on the other side, why hasn't it been arbitraged away) and let the data disappoint you, not the other way around.\n\n• A translator. Your finished product is a chart and a paragraph a non-quant acts on. If the desk can't understand it, it isn't done.\n\n• Comfortable finding nothing. \"There's nothing there\" is a result you deliver without flinching: a clean negative saves the desk real money, and you never dress noise up as signal to give someone the answer they wanted.\n\n• Genuinely curious about markets. You want to know why prices move. You don't need professional markets experience, you need to care about the answer.\n\n• Low ego and coachable. You take feedback well, update quickly when the facts change, and care more about the answer than the credit.\n\n\n\n\nHOW YOU WORK\n\n• At desk speed, without cutting corners. A rough answer today often beats a perfect answer next week; a deep study is worth a month when the stakes justify it. You know which question is which, and you label your answers accordingly.\n\n• Kill your own results first. Before anyone else sees a number, you've gone hunting for the leak, the regime dependence, and the artifact that would explain it away.\n\n• Reproducible by default. Versioned data and code; any signal or study can be re-run months later and give the same answer.\n\n• Signal over noise. You surface the few things that matter, track what you've shipped, and say so plainly when something stops working.\n\n• AI-native. Fluent with modern AI tools for research, coding, and literature triage, and disciplined about checking their output.\n\n• Self-directed. You thrive working remotely with low guardrails, managing your own time and flagging what needs attention without being asked.\n\n\n\n\nCORE SKILLS\n\n• Statistics and probability. Regression and its failure modes, hypothesis testing, bootstrap and resampling, thinking clearly about uncertainty in small and messy samples.\n\n• Python data stack. pandas, NumPy, SQL, and plotting that makes a point; notebooks that read top to bottom, graduating to scripts when a study becomes a signal.\n\n• Backtest and event-study hygiene. Point-in-time discipline, survivorship and look-ahead awareness, transaction-cost sanity, walk-forward validation, restraint about how many things you tested.\n\n• Market data. Comfort with prices, returns, fundamentals, and earnings calendars; options or positioning data a plus.\n\n• ML as a tool, not an identity. Regularized regression and gradient boosting when they beat something simpler, interpretability first. This is a statistics-first seat, not a deep-learning one.\n\n• Crisp communication. Compressing a study into exactly what a trader needs to know, now.\n\n\n\n\nWHAT WE OFFER\n\n• A seat inside a live trading operation, with a direct line to the traders who act on your evidence.\n\n• Fast feedback: when a signal proves out, you watch it get used — and you'll know precisely what your work changed.\n\n• A well-capitalized firm with a distinctive approach to markets.\n\n• A deliberate growth path: own the question queue first, then take on a bigger slice of the research agenda as you prove out.\n\n• A small, low-ego, fully remote team.\n\n• Compensation: $120k - $170k + bonus.",
+      "remote": true,
+      "employment_type": "FullTime",
+      "match_score": 25,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "statistics",
+        "time-series analysis"
+      ],
+      "missing_skills": [
+        "US-based presence"
+      ],
+      "relevant_projects": [
+        "City-Level Demand Forecasting"
+      ],
+      "relevant_experience": [],
+      "reason": "Explicitly \"fully remote, US-based\" overlapping US market hours -- not open to remote-from-India despite being remote.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "7a056cfa4119",
+      "discovered_at": "2026-09-15T17:39:15",
+      "analyzed_at": "2026-09-15T17:41:44"
     }
   ]
 }
