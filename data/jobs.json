@@ -8515,7 +8515,7 @@
       "reason": "Recognizable semiconductor company, plain Data Scientist title with no seniority red flags.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "3b9e64fc82f4",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -8731,7 +8731,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "pandas",
@@ -8744,10 +8744,10 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Data Science Intern with a clear entry-level title.",
+      "reason": "Data Science Intern with a clear entry-level title. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "de596a1cdac7",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -9097,7 +9097,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 85,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "pandas",
@@ -9110,10 +9110,10 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "'Data Scientist I' is an explicit entry-level title at a well-known consumer-tech unicorn -- strong fit.",
+      "reason": "'Data Scientist I' is an explicit entry-level title at a well-known consumer-tech unicorn -- strong fit. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "bc2c3e4efe81",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -9275,7 +9275,7 @@
       "reason": "'Software Development Engineer I' is an explicit entry-level title.",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "e15d70dce0c1",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -9770,7 +9770,7 @@
       "reason": "AI Engineer / Applied AI internship with a clear entry-level title.",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "4ad06617d9d8",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -9785,7 +9785,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "Flask/REST",
@@ -9796,10 +9796,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "AI Engineer internship with a clear entry-level title.",
+      "reason": "AI Engineer internship with a clear entry-level title. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "53fce6b4932e",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -9839,7 +9839,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 88,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "REST APIs",
@@ -9850,10 +9850,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Explicitly targets the 2027 cohort at a major bank's technology internship program -- excellent timing and track match.",
+      "reason": "Explicitly targets the 2027 cohort at a major bank's technology internship program -- excellent timing and track match. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "f5ab1d1f2404",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -10067,7 +10067,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "pandas",
@@ -10080,10 +10080,10 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Data Science Intern with a clear entry-level title.",
+      "reason": "Data Science Intern with a clear entry-level title. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "a41e4c55350b",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -10205,7 +10205,7 @@
       "reason": "Known logistics-tech startup, clear internship title.",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "60f54d1a8bbf",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -10220,7 +10220,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "Flask/REST",
@@ -10231,10 +10231,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Product Engineering Intern (Voice AI) with a clear entry-level title.",
+      "reason": "Product Engineering Intern (Voice AI) with a clear entry-level title. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "76fac5ea0094",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -10427,7 +10427,7 @@
       "reason": "'AI/ML Engineer I' is an explicit entry-level title.",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "0e655c49d9e8",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -10592,7 +10592,7 @@
       "remote": true,
       "employment_type": "",
       "match_score": 78,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "Flask/REST",
@@ -10603,10 +10603,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Explicitly 'Entry Level | Fresher', Python/GenAI focus, remote -- excellent match.",
+      "reason": "Explicitly 'Entry Level | Fresher', Python/GenAI focus, remote -- excellent match. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "09c396134c52",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -11172,7 +11172,7 @@
       "remote": true,
       "employment_type": "",
       "match_score": 80,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "pandas",
@@ -11186,10 +11186,10 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Explicit 'Entry Level | Fresher' with a Python/pandas/SQL/statistics stack that matches the candidate closely.",
+      "reason": "Explicit 'Entry Level | Fresher' with a Python/pandas/SQL/statistics stack that matches the candidate closely. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "2a9bcf93ad45",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -11872,7 +11872,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 78,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "REST APIs",
@@ -11883,10 +11883,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Known SaaS startup, explicit SDE internship.",
+      "reason": "Known SaaS startup, explicit SDE internship. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "c3ddcf2732a2",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -11932,7 +11932,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 85,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "scikit-learn/TensorFlow/PyTorch"
@@ -11943,10 +11943,10 @@
         "City-Level Demand Forecasting"
       ],
       "relevant_experience": [],
-      "reason": "Big-tech internship with an explicit AI/ML focus -- excellent fit.",
+      "reason": "Big-tech internship with an explicit AI/ML focus -- excellent fit. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "e6da9985d7c2",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -12023,7 +12023,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "scikit-learn/TensorFlow/PyTorch"
@@ -12034,10 +12034,10 @@
         "City-Level Demand Forecasting"
       ],
       "relevant_experience": [],
-      "reason": "Explicit '(Fresher)' title.",
+      "reason": "Explicit '(Fresher)' title. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "a2e16b243c77",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -12112,7 +12112,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "REST APIs",
@@ -12123,10 +12123,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Software Engineer Intern with a clear entry-level title.",
+      "reason": "Software Engineer Intern with a clear entry-level title. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "7ee0e37fd39c",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -12219,7 +12219,7 @@
       "reason": "Major recognizable game studio, explicit internship, full-stack (not frontend-first).",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "4257c6952dba",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -12302,7 +12302,7 @@
       "reason": "Explicit AI-engineering internship at a reputable analytics firm (Crisil/S&P).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "ce730ec2369c",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -12373,7 +12373,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 78,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "scikit-learn/TensorFlow/PyTorch"
@@ -12384,10 +12384,10 @@
         "City-Level Demand Forecasting"
       ],
       "relevant_experience": [],
-      "reason": "Explicit 'Fresher' title.",
+      "reason": "Explicit 'Fresher' title. Confirmed unpaid as of 2026-09-15; candidate declined (profile excludes unpaid roles).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "371fa9acecff",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -12435,7 +12435,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "Flask/REST",
@@ -12446,10 +12446,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Applied AI Intern with a clear entry-level title.",
+      "reason": "Applied AI Intern with a clear entry-level title. Confirmed unpaid as of 2026-09-15; candidate declined (profile excludes unpaid roles).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "3124176c749e",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -12464,7 +12464,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 82,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "pandas",
@@ -12477,10 +12477,10 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Major recognizable game studio, explicit data/AI engineering internship.",
+      "reason": "Major recognizable game studio, explicit data/AI engineering internship. Confirmed unpaid as of 2026-09-15; candidate declined (profile excludes unpaid roles).",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "3b2525e78872",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -12582,7 +12582,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "scikit-learn/TensorFlow/PyTorch"
@@ -12593,10 +12593,10 @@
         "City-Level Demand Forecasting"
       ],
       "relevant_experience": [],
-      "reason": "Recognizable global edtech company; 'Associate...Intern' reads as an entry-level internship grade.",
+      "reason": "Recognizable global edtech company; 'Associate...Intern' reads as an entry-level internship grade. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "c3951135360f",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
@@ -12611,7 +12611,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "pandas",
@@ -12624,10 +12624,10 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Recognizable global hearing-aid multinational, explicit internship.",
+      "reason": "Recognizable global hearing-aid multinational, explicit internship. Posting closed / not accepting applications as of 2026-09-15 (candidate checked directly).",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "bd1cde1283ec",
       "discovered_at": "2026-09-15T15:54:23",
       "analyzed_at": "2026-09-15T16:11:39"
