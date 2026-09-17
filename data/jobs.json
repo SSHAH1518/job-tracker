@@ -13217,7 +13217,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 78,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "SQL",
@@ -13228,10 +13228,10 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Data Analyst role at a well-established company (Red Hat) in Pune, one of the candidate's preferred cities.",
+      "reason": "Data Analyst role at a well-established company (Red Hat) in Pune, one of the candidate's preferred cities. | Candidate checked directly on 2026-09-17: posting closed.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "APPLIED",
+      "status": "SKIPPED",
       "id": "881d27dd5f02",
       "discovered_at": "2026-09-17T14:08:02",
       "analyzed_at": null
