@@ -14760,7 +14760,7 @@
       "reason": "Data Analyst at S&P Global (major financial analytics company) in Bengaluru; solid title/skill match. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "9b6c7e6accd0",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
@@ -14843,7 +14843,7 @@
       "reason": "Data Analytics Specialist at Microsoft, Bengaluru; strong track/company match. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "a0cc6c01e806",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
@@ -14911,7 +14911,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "ML fundamentals"
@@ -14923,10 +14923,10 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Analyst - Data Scientist at Alexion (AstraZeneca rare-disease unit), Bengaluru; solid title match at a major pharma company. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "reason": "Analyst - Data Scientist at Alexion (AstraZeneca rare-disease unit), Bengaluru; solid title match at a major pharma company. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis. | Candidate skipped 2026-09-20 after reviewing the queued match.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "5779eec728ff",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
@@ -15293,7 +15293,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "AI/LLM tooling (Tata 1mg)"
@@ -15303,10 +15303,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Python/GenAI role at Infosys matches the Applied AI/GenAI track well. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "reason": "Python/GenAI role at Infosys matches the Applied AI/GenAI track well. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis. | Candidate skipped 2026-09-20: posting requires 2-3 years of experience.",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "b7c2c54a18ab",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
