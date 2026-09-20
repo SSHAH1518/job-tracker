@@ -151,7 +151,8 @@
         "devrev",
         "project44",
         "asteralabs",
-        "tenstorrent"
+        "tenstorrent",
+        "greenlandinvestmentmanagement"
       ]
     },
     "lever": {
@@ -165,7 +166,9 @@
       "enabled": true,
       "_comment": "org slugs from jobs.ashbyhq.com/<slug>. Added 2026-09-09 from the sheet sweep.",
       "orgs": [
-        "deeter-analytics"
+        "deeter-analytics",
+        "better-mortgage",
+        "confluent"
       ]
     },
     "rss": {

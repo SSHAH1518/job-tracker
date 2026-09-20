@@ -203,12 +203,12 @@
       "match_score": null,
       "resume": "",
       "application_url": "https://stonex.talent.icims.com",
-      "notes": "Auto-added 2026-09-09 from a Gmail application-confirmation email; applied manually outside the agent. iCIMS auto-reply confirmation.",
+      "notes": "Auto-added 2026-09-09 from a Gmail application-confirmation email; applied manually outside the agent. iCIMS auto-reply confirmation. | Gmail audit 2026-09-20: full StoneX campus-drive timeline found via KJSCE TPO thread. Completed the video-interview stage (invited 2026-06-19, deadline extended to 07-05); 190 candidates shortlisted 2026-07-08 for the Aug 3 campus drive. The Aug 3 interview-day shortlist (checked name-by-name) does NOT include Somin on either the Software Engg/QA or Data Engineer list. The 2026-08-12 offer email names only one recipient (a different candidate, dev role). No individual rejection email was ever sent. Left as APPLIED per no-explicit-rejection convention, but this reads as a silent rejection around 2026-08-03 — candidate should confirm whether he was actually invited to the Aug 3 drive before treating this as live.",
       "questions": [],
       "id": "app_21327e85e249",
       "date_applied": "2026-05-27",
       "created_at": "2026-05-27T00:00:00",
-      "updated_at": "2026-09-09T20:22:07"
+      "updated_at": "2026-09-20T17:29:49"
     },
     {
       "job_id": "2ce59d714209",
@@ -713,12 +713,12 @@
       "match_score": 75,
       "resume": "data_science.pdf",
       "application_url": "https://www.linkedin.com/jobs/view/4455066059/",
-      "notes": "Applied manually by Somin on 2026-09-15 after reviewing the queued match.",
+      "notes": "Applied manually by Somin on 2026-09-15 after reviewing the queued match. | Gmail audit 2026-09-20: no application-related email found at all (checked inbox thoroughly). Cannot confirm via email that this went through — worth checking the LinkedIn/portal application status directly.",
       "questions": [],
       "id": "app_3b9e64fc82f4",
       "date_applied": "2026-09-15",
       "created_at": "2026-09-15T17:14:48",
-      "updated_at": "2026-09-15T17:14:48"
+      "updated_at": "2026-09-20T17:29:49"
     },
     {
       "job_id": "e15d70dce0c1",
@@ -758,12 +758,12 @@
       "match_score": 75,
       "resume": "software_engineering.pdf",
       "application_url": "https://www.linkedin.com/jobs/view/4465608884/",
-      "notes": "Applied manually by Somin on 2026-09-15 after reviewing the queued match.",
+      "notes": "Applied manually by Somin on 2026-09-15 after reviewing the queued match. | Gmail audit 2026-09-20: only email found is a Darwinbox \"please complete your profile\" signup confirmation, not an application-received confirmation — the application may not have been fully submitted. Worth checking the Freight Tiger portal directly.",
       "questions": [],
       "id": "app_60f54d1a8bbf",
       "date_applied": "2026-09-15",
       "created_at": "2026-09-15T17:14:48",
-      "updated_at": "2026-09-15T17:14:48"
+      "updated_at": "2026-09-20T17:29:49"
     },
     {
       "job_id": "0e655c49d9e8",
@@ -828,7 +828,7 @@
     {
       "job_id": "826d84182fdc",
       "company": "American Express",
-      "role": "Analyst - Data Science",
+      "role": "Analyst - Data Science (req 26013820)",
       "status": "APPLIED",
       "match_score": 87,
       "resume": "data_science.pdf",
@@ -838,12 +838,12 @@
       "id": "app_826d84182fdc",
       "date_applied": "2026-09-17",
       "created_at": "2026-09-17T14:13:22",
-      "updated_at": "2026-09-17T14:55:35"
+      "updated_at": "2026-09-20T17:29:49"
     },
     {
       "job_id": "cae857db9cf5",
       "company": "American Express",
-      "role": "Analyst-Data Analytics",
+      "role": "Analyst-Data Analytics (req 26013622)",
       "status": "APPLIED",
       "match_score": 85,
       "resume": "data_science.pdf",
@@ -853,7 +853,7 @@
       "id": "app_cae857db9cf5",
       "date_applied": "2026-09-17",
       "created_at": "2026-09-17T14:13:32",
-      "updated_at": "2026-09-17T14:55:35"
+      "updated_at": "2026-09-20T17:29:49"
     },
     {
       "job_id": "0b4c3f89c693",

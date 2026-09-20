@@ -14338,6 +14338,1972 @@
       "id": "ab6cb1814814",
       "discovered_at": "2026-09-17T14:08:02",
       "analyzed_at": null
+    },
+    {
+      "company": "KoboToolbox",
+      "title": "Frontend Web Application Developer",
+      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "location": "USA, Canada, Argentina, Mexico, Peru",
+      "source": "remotive",
+      "description": "Location: Remote Availability: 35-40 hours per week Working hours: US East business hours Reporting to: Lead developer KoboToolbox has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challenge and excitement of writing code used by over 32,000 organizations around the world. These organizations create data-driven change through the collection and analysis of more than 20 million surveys per month. Only candidates who already have experience working on large web applications will be considered. Beyond technical acumen, we are seeking a team member who demonstrates curiosity, initiative, and a cooperative approach to problem solving and decision-making. If you're passionate about leveraging technology to make a positive impact, we want to hear from you! Responsibilities Searching and reading an extensive, long-lived code base to understand existing behavior and conventions. Recognizing when existing conventions may no longer be the best approach and suggesting improvements aligned with contemporary best practices. Writing robust, concise, and reusable code with accompanying tests and documentation. Reviewing other developers' code and providing constructive feedback. Incorporating feedback from code reviews to improve your skills and align with team standards. Using AI-assisted development tools effectively while maintaining responsibility for code quality and correctness. Efficiently investigating bug reports from the support team, creating well-scoped fixes or actionable plans for resolution. Scoping, prioritizing, estimating, and organizing work into manageably sized tasks. Attending regular video-conference check-ins with other members of the technical team. Communicating with the public in conjunction with our support staff or directly through forums, issue trackers, etc. Contributing to discussions about design and architecture collaboratively with the larger team. Performing other related duties as directed by the lead developer. Requirements Required Qualifications Professional experience writing, deploying, and maintaining client-side code for real-world, API-driven single-page applications. Proficiency with TypeScript, React, and related technologies, including styling, state management, and efficient data exchange over HTTP. Unflinching ability to work with legacy technologies such as Backbone and CoffeeScript. Recent experience giving and receiving code reviews. Ability to independently set up and troubleshoot a local development environment, knowing when to ask for help on genuine roadblocks. Interest in data collection (surveying), particularly in humanitarian emergencies and other challenging contexts, and a desire to improve our platform for our users. Proficiency with spoken and written English. Fluency with Git. Overlap with working hours in the Eastern time zone. Average availability of at least 30 hours per week, preferably 35 hours or more. Preferred Qualifications Experience with the following is preferred but not required to apply: Using Docker and Docker Compose in a development environment. Programming in Python, ideally with Django (and particularly Django REST Framework). Building user-facing LLM integrations. Surveying with XLSForm, ODK XForm, and OpenRosa. Integrating with Stripe for payment processing. An added note on qualifications... We know that people from underrepresented groups including women, people of color, LGBTQ+ individuals, people with disabilities, and others are less likely to apply for a role if they don't meet every qualification listed. We're more interested in your potential and growth mindset than a perfect checklist match. If this role excites you and you meet many, but not all, of the qualifications, we'd still love to hear from you. Equal Opportunity Employer Kobo is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic. Benefits Genuine Impact: Contribute directly to projects that impact millions of people around the world globally, working alongside the largest international humanitarian organizations as well as thousands of national and small community based partners in 200 countries. Meaningful Work Environment: Join a team that believes work should be meaningful as well as fun, tackling global challenges through innovative data collection and management tools with a proven impact for lasting change. Diverse Team: Be part of an amazing, progressive, and globally diverse team that values diversity, equity, and inclusion across all spectrums. Flexible Work Culture: Enjoy mutual flexibility supported by a culture that prioritizes work-life balance. Professional Development: Benefit from generous professional development options. Full Time Employee Benefits (U.S. candidates only) : Health & Wellness : 5 medical insurance options, dental, and vision (up to 80% premium covered), plus life insurance and Long Term Disability. Financial Security : 401(k) retirement plan with 100% match up to 2%. Work-Life Balance : 20 days paid time off, 12 floating holidays, unlimited sick days, and paid parental leave. *Please note, if based in the US or Canada this is a full time employee position. In other locations full time employment or contractor positions are options depending on individual circumstances.",
+      "remote": true,
+      "employment_type": "full_time",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "large-scale production web-app experience",
+        "not eligible location (US/CA/AR/MX/PE only, no India/global-remote)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Remote role explicitly limited to USA/Canada/Argentina/Mexico/Peru — not open to India-based candidates — and requires prior large-web-app production experience.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "0c73046cc594",
+      "discovered_at": "2026-09-20T17:25:32",
+      "analyzed_at": null
+    },
+    {
+      "company": "Kyndryl",
+      "title": "Software Engineer",
+      "url": "https://www.adzuna.in/land/ad/5890717561?se=8IBtL-q08RGSI57gYuD12g&utm_medium=api&utm_source=e3dd5c96&v=8E3A0784E989D09D61113A917386790EC7C8EAB1",
+      "location": "India",
+      "source": "adzuna",
+      "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 60,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "role specifics (JD truncated)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Generic Software Engineer role at Kyndryl (established IT services firm) in India; JD truncated so specifics unconfirmed.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "05e3bd41eb86",
+      "discovered_at": "2026-09-20T17:25:40",
+      "analyzed_at": null
+    },
+    {
+      "company": "ABB",
+      "title": "Software Engineer – MES",
+      "url": "https://www.adzuna.in/land/ad/5888300208?se=8IBtL-q08RGSI57gYuD12g&utm_medium=api&utm_source=e3dd5c96&v=5C8657A3D99211FF6802B4D5E9FCFC1DF44D7A5A",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Digital Delivery Manager – MES In this role, you will have the opportu…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "MES/industrial-software domain"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Software Engineer role at ABB focused on Manufacturing Execution Systems — an industrial-software niche the candidate hasn't shown, though core programming skills transfer.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "0c458df4035f",
+      "discovered_at": "2026-09-20T17:25:40",
+      "analyzed_at": null
+    },
+    {
+      "company": "eBay",
+      "title": "Hadoop Software Engineer",
+      "url": "https://www.adzuna.in/land/ad/5890717574?se=8IBtL-q08RGSI57gYuD12g&utm_medium=api&utm_source=e3dd5c96&v=2F752EA25FA448CB9737C30E0385AF64DCA20ADB",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with eBay, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 45,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "Hadoop/big-data ecosystem"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Hadoop-specific backend role at eBay; big-data tooling is a known gap for the candidate.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "0cc290c5f252",
+      "discovered_at": "2026-09-20T17:25:40",
+      "analyzed_at": null
+    },
+    {
+      "company": "CoinSwitch",
+      "title": "Software Engineer in Test - 1",
+      "url": "https://www.adzuna.in/land/ad/5889679436?se=8IBtL-q08RGSI57gYuD12g&utm_medium=api&utm_source=e3dd5c96&v=2AA078AC6BAA7D9F4362FD9B031932C6038E0A9C",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "Know the Company : PeepalCo is a canopy for brands serving India with tailored wealth-tech products, Making Money Equal for All. Founded by Ashish Singhal, Govind Soni, and Vimal Sagar Tiwari, PeepalCo's products include CoinSwitch and Lemonn. The Group is backed by blue-chip investors including Andreessen Horowitz (a16z), Tiger Global, Peak XV Partners (formerly Sequoia Capital India), Ribbit Capital, Paradigm, and Coinbase Ventures. PeepalCo is the brand name for our Group entity and will hou…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 35,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "QA/test-automation track (off-target)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Software Engineer in Test is a QA/SDET track, not one of the candidate's target tracks (Backend/SWE, Data Science, ML, Applied AI).",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "a6af64ff0500",
+      "discovered_at": "2026-09-20T17:25:40",
+      "analyzed_at": null
+    },
+    {
+      "company": "eBay",
+      "title": "Software Engineer - Cloud SRE",
+      "url": "https://www.adzuna.in/land/ad/5890717815?se=8IBtL-q08RGSI57gYuD12g&utm_medium=api&utm_source=e3dd5c96&v=9DEB3B67D6F7D84677A7E7A89635080B3B7A9A6E",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with eBay, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 50,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "SRE/cloud-infra depth beyond basics"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Cloud SRE role at eBay leans on production infra/SRE experience beyond the candidate's current (in-progress) cloud basics.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "e4a17fda4c08",
+      "discovered_at": "2026-09-20T17:25:40",
+      "analyzed_at": null
+    },
+    {
+      "company": "eBay",
+      "title": "Software Engineer 3 – Platform Security",
+      "url": "https://www.adzuna.in/land/ad/5890717722?se=8IBtL-q08RGSI57gYuD12g&utm_medium=api&utm_source=e3dd5c96&v=1AE0A9EECA8EEAAAC5FD29CCC0C2E807D0CA320E",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with eBay, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 30,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "security engineering domain",
+        "likely requires 3+ yrs ('Engineer 3')"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'Software Engineer 3' numbering and platform-security specialization both point to an experienced hire, not entry-level.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "12956696ee9b",
+      "discovered_at": "2026-09-20T17:25:40",
+      "analyzed_at": null
+    },
+    {
+      "company": "ACL Digital",
+      "title": "Embedded Test & Systems Software Engineer",
+      "url": "https://www.adzuna.in/land/ad/5889223211?se=JMboMOq08RGSI57gYuD12g&utm_medium=api&utm_source=e3dd5c96&v=4671AB125C4109DD02572DFF886FC50CA5A481E9",
+      "location": "India",
+      "source": "adzuna",
+      "description": "We are seeking an Embedded Test & Systems Software Engineer to join our hardware-software integration team. In this role, you will bridge the gap between firmware development and system-level validation. You will build robust Python-based test automation frameworks, interface directly with hardware peripherals and communication protocols, and contribute directly to embedded C software development when required. Core Responsibilities Test Automation & Frameworks: Design, develop, and maintain au…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 18,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python (test automation, general)"
+      ],
+      "missing_skills": [
+        "embedded C",
+        "firmware/hardware protocols"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Embedded/firmware systems role — a domain outside the candidate's software/data-science background.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "6f2077f6f0d0",
+      "discovered_at": "2026-09-20T17:25:43",
+      "analyzed_at": null
+    },
+    {
+      "company": "Invesco",
+      "title": "Adv Software Engineer II, Enterprise Practices",
+      "url": "https://www.adzuna.in/land/ad/5888968659?se=JMboMOq08RGSI57gYuD12g&utm_medium=api&utm_source=e3dd5c96&v=271C68BC8B76F762CCF1ADB35AE293B0D64CF193",
+      "location": "Hyderabad, Telangana",
+      "source": "adzuna",
+      "description": "This job is with Invesco, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. As one of the world's leading independent global investment firms, Invesco is dedicated to rethinking possibilities for our clients. By delivering the combined power of our distinctive investment management capabilities, we provide a wide range of investment strategies and vehicles to our clients around the world. I…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 38,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "2-4 years experience implied by 'Engineer II'"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Generic 'Software Engineer II' req wanting 2-4 years, at a company not on the candidate's strong-match list — per his standing preference these are skipped unless the company is a strong-match name.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "751b3aa7bf54",
+      "discovered_at": "2026-09-20T17:25:43",
+      "analyzed_at": null
+    },
+    {
+      "company": "Singlestore",
+      "title": "Cloud Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212152",
+      "location": "India",
+      "source": "greenhouse",
+      "description": "<h3 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"vhu9kd\" data-start=\"0\" data-end=\"17\">About Us</h3>\n<p data-start=\"19\" data-end=\"249\">SingleStore engineers build the real-time data platform that enables some of the world’s most demanding applications. Our cloud-native database architecture enables high-performance transactional and analytical workloads at scale.</p>\n<p data-start=\"251\" data-end=\"272\"><strong data-start=\"251\" data-end=\"272\">Position Overview</strong></p>\n<p data-start=\"274\" data-end=\"823\">We are seeking a highly skilled DevOps/Cloud Platforms Engineer to join our engineering organization and help drive the next generation of our infrastructure and platform capabilities. In this role, you will be responsible for designing, operating, and optimizing cloud environments, maintaining cloud infrastructure, and creating internal developer platforms that support fast, reliable and secure software delivery. You will work closely with engineering, QA, data, and product teams to ensure our systems are scalable, resilient, and easy to use.</p>\n<p data-start=\"825\" data-end=\"1170\">The ideal candidate brings a strong blend of cloud infrastructure expertise, DevOps mindset, and hands-on development skills. You will automate wherever possible, use Infrastructure as Code to maintain consistency, and leverage modern DevOps tooling, including AI-assisted automation to enhance operational efficiency and developer productivity.</p>\n<p data-start=\"1172\" data-end=\"1343\">This is an operations role for someone who thrives in solving complex technical problems, improving processes, and building platforms that accelerate engineering velocity.</p>\n<p data-start=\"1345\" data-end=\"1383\"><strong data-start=\"1345\" data-end=\"1383\">Primary Roles and Responsibilities</strong></p>\n<ul data-start=\"1385\" data-end=\"2748\">\n<li data-section-id=\"1d3ro02\" data-start=\"1385\" data-end=\"1523\">Automate infrastructure provisioning, configuration management, monitoring, and operational workflows using IaC and scripting languages.</li>\n<li data-section-id=\"15o3b7x\" data-start=\"1524\" data-end=\"1843\">Own the deployment, maintenance, and lifecycle management of systems supporting engineering (Kubernetes clusters, container registries, artifact systems, and internal developer platforms) leveraging deep expertise in Kubernetes, container runtimes, and the broader cloud-native ecosystem (Helm, Kustomize, operators).</li>\n<li data-section-id=\"1ec12af\" data-start=\"1844\" data-end=\"1980\">Troubleshoot complex infrastructure and application issues, driving root-cause analysis and developing long-term remediation solutions</li>\n<li data-section-id=\"1emiuf2\" data-start=\"1981\" data-end=\"2225\">Design, build, and maintain cloud infrastructure across major cloud providers (AWS, GCP, Azure), and develop/support deployments of applications, services, and monitoring with a strong focus on scalability, reliability, and cost optimization.</li>\n<li data-section-id=\"aps1md\" data-start=\"2226\" data-end=\"2345\">Develop, enhance, and maintain CI/CD pipelines using modern DevOps tooling (GitHub Actions, ArgoCD, Terraform, etc.).</li>\n<li data-section-id=\"jr5r5l\" data-start=\"2346\" data-end=\"2505\">Develop internal tooling and automation using Terraform, Python, Go, or similar languages to streamline operational tasks and improve developer productivity.</li>\n<li data-section-id=\"199ofvw\" data-start=\"2506\" data-end=\"2665\">Implement and manage security best practices across cloud environments, including identity management, secrets handling, audit logging, and network controls.</li>\n<li data-section-id=\"de5vxl\" data-start=\"2666\" data-end=\"2748\">Leverage AI/ML tools to automate repetitive DevOps tasks, operational workflows.</li>\n</ul>\n<p data-start=\"2750\" data-end=\"2784\"><strong data-start=\"2750\" data-end=\"2784\">Required Skills and Experience</strong></p>\n<ul data-start=\"2786\" data-end=\"3631\">\n<li data-section-id=\"1vhbd8b\" data-start=\"2786\" data-end=\"2907\">4-8+ years of experience in DevOps, Cloud Engineering, Systems Administration, or similar infrastructure-focused roles.</li>\n<li data-section-id=\"1082uaj\" data-start=\"2908\" data-end=\"3042\">Familiar with GIT and comfortable with at least one systems programming language (Golang) and one scripting language (Python, Bash).</li>\n<li data-section-id=\"1riobtn\" data-start=\"3043\" data-end=\"3183\">Proficiency with Infrastructure as Code (Terraform, Pulumi, or CloudFormation) and configuration management (Ansible, Chef, or SaltStack).</li>\n<li data-section-id=\"177ca40\" data-start=\"3184\" data-end=\"3329\">Working knowledge of at least one of observability stacks (Prometheus, Grafana, ELK/OpenSearch, Datadog, etc.) and operational troubleshooting.</li>\n<li data-section-id=\"ah55c8\" data-start=\"3330\" data-end=\"3412\">Strong hands-on experience with Kubernetes management in production environments</li>\n<li data-section-id=\"16a5o3z\" data-start=\"3413\" data-end=\"3492\">Experience designing, developing, and/or troubleshooting distributed systems.</li>\n<li data-section-id=\"7yx0dr\" data-start=\"3493\" data-end=\"3539\">Comfort with shells on *nix family systems.</li>\n<li data-section-id=\"u54yk\" data-start=\"3540\" data-end=\"3631\">B.S. degree or equivalent experience in Engineering, Computer Science or a related field.</li>\n</ul>\n<p data-start=\"3635\" data-end=\"3664\"><strong data-start=\"3635\" data-end=\"3664\">Preferred Qualifications:</strong></p>\n<ul>\n<li data-section-id=\"2oyiry\" data-start=\"3666\" data-end=\"3752\">Certifications from cloud service providers (e.g., AWS DevOps, GCP DevOps Engineer).</li>\n<li data-section-id=\"1o65dp0\" data-start=\"3753\" data-end=\"3888\">Strong software development skills, with experience building production-grade services, automation, APIs, and infrastructure tooling.</li>\n<li data-section-id=\"la78ca\" data-start=\"3889\" data-end=\"3956\">Proficiency in Go, Python, or other modern programming languages.</li>\n<li data-section-id=\"16bairn\" data-start=\"3957\" data-end=\"4113\">Strong cloud networking fundamentals, including VPC/VNet, subnets, NAT Gateways, Transit Gateways, routing, DNS, load balancing, and private connectivity.</li>\n<li data-section-id=\"ee7pwd\" data-start=\"4114\" data-end=\"4242\">Hands-on experience with VPN and secure networking technologies such as Tailscale, Headscale, WireGuard, or similar solutions.</li>\n<li data-section-id=\"1blf0gv\" data-start=\"4243\" data-end=\"4382\">Strong Kubernetes experience, including cluster architecture, networking, service discovery, ingress, observability, and troubleshooting.</li>\n<li data-section-id=\"1ukthzz\" data-start=\"4383\" data-end=\"4514\">Understanding of distributed systems concepts and experience working with highly available, scalable, and fault-tolerant systems.</li>\n<li data-section-id=\"17p304d\" data-start=\"4515\" data-end=\"4593\">Natural curiosity and a strong drive to learn new and adjacent technologies.</li>\n<li data-section-id=\"1fnmuh9\" data-start=\"4594\" data-end=\"4784\">Experience applying AI/ML tools (e.g., GitHub Copilot, cloud AI services, LLM-based automation, anomaly detection tools) to streamline DevOps and infrastructure workflows is a strong plus.</li>\n<li data-section-id=\"16p1tsi\" data-start=\"4785\" data-end=\"4916\">Experience with LangChain, AI agents, and MCP (Model Context Protocol), including building and integrating agent-based solutions.</li>\n<li>Hands-on experience implementing AI-enhanced threat detection and security systems.</li>\n</ul>\n<hr>\n<p>SingleStore delivers our cloud-native database with the speed and scale to power the world’s data-intensive applications. With a distributed SQL database that introduces simplicity to your data architecture by unifying transactions and analytics, SingleStore empowers digital leaders to deliver exceptional, real-time data experiences to their customers. SingleStore is venture-backed and headquartered in San Francisco with offices in Sunnyvale, Raleigh, Seattle, Boston, London, Lisbon, Bangalore, Dublin and Kyiv.&nbsp;</p>\n<p>Consistent with our commitment to diversity &amp; inclusion, we value individuals with the ability to work on diverse teams and with a diverse range of people.</p>\n<p><em>To all recruitment agencies: SingleStore does not accept agency resumes. Please do not forward resumes to SingleStore employees. SingleStore is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.</em></p>\n<p>SingleStore values individuals for their unique skills and experiences, and we’re proud to offer roles in a variety of locations across the United States. Salary is based on permissible, non-discriminatory factors such as skills, experience, and geographic location, and is just one part of our total compensation and benefits package. Certain roles are also eligible for additional rewards, including merit increases and annual bonuses.&nbsp;</p>\n<p><em>For candidates residing in California, please see our</em><a href=\"https://www.singlestore.com/singlestore-california-recruitment-privacy-notice/\"><em> California Recruitment Privacy Notice</em></a><em>. For candidates residing in the EEA, UK, and Switzerland, please see our</em><a href=\"https://www.singlestore.com/recruitment-privacy/\"><em> EEA, UK, and Swiss Recruitment Privacy Notice.</em></a></p>\n<p>ENG000518</p>\n<p><em>#li-remote #remote-li</em></p>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 35,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Docker/cloud basics (candidate confirmed ramp-ready)"
+      ],
+      "missing_skills": [
+        "production DevOps/cloud-platform depth"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'Highly skilled DevOps/Cloud Platforms Engineer' with no junior/intern framing — beyond the candidate's current ramp-ready basics.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "1408fe7fe54f",
+      "discovered_at": "2026-09-20T17:25:48",
+      "analyzed_at": null
+    },
+    {
+      "company": "Singlestore",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212128",
+      "location": "India",
+      "source": "greenhouse",
+      "description": "<div class=\"flex max-w-full flex-col gap-4 grow\">\n<div class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\" data-message-author-role=\"assistant\" data-message-id=\"8ed57020-75ba-4176-a7c7-8f9750c38583\" data-message-model-slug=\"gpt-5-6\" data-turn-start-message=\"true\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden\">\n<div class=\"fbskMG_root LR5Y_W_content markdown prose dark:prose-invert wrap-break-word w-full dark markdown-new-styling\">\n<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"0\" data-end=\"12\"><strong data-start=\"0\" data-end=\"12\">About Us</strong></p>\n<p data-start=\"14\" data-end=\"537\">SingleStore Software Engineers are at the forefront of real-time technology that’s revolutionising how companies run their businesses every day. With release cycles throughout the year, our engineers are accustomed to moving quickly in a rapid production environment. To do this successfully, we work collaboratively and creatively across teams to maximize our opportunity for impact. We also believe it’s important to celebrate our wins together whether it be at a local spot or getting out of the city for some exploring.</p>\n<p data-start=\"539\" data-end=\"1022\">As a Software Engineer you will be empowered to own your projects end-to-end and be an active contributor throughout the product life cycle. To expedite your growth path, you will partner with engineers who deeply care about your success and will lend their expertise to your professional development. Our engineers are not just technical partners, but are also business partners who are exposed to all areas of the business, working with teams such as product, marketing, and sales.</p>\n<p data-start=\"1024\" data-end=\"1053\"><strong data-start=\"1024\" data-end=\"1053\">Role and Responsibilities</strong></p>\n<p data-start=\"1055\" data-end=\"1709\">Our Software Engineers work on small, collaborative teams to help drive our company forward. Whether you’re exploring cutting-edge technologies like LLM and vector index, improving the fault tolerance a SingleStore cluster, accelerating the performance of SQL queries with techniques like SIMD and LLVM codeGen, or writing search and costing modules for the query optimiser, our University Graduates are responsible for brand new and existing projects that are deployed into production with each release. Your work will include everything from writing to testing software, and you’ll gain a significant understanding of both the product and the business.</p>\n<p data-start=\"1711\" data-end=\"1745\"><strong data-start=\"1711\" data-end=\"1745\">Required Skills and Experience</strong></p>\n<ul data-start=\"1747\" data-end=\"2121\" data-is-last-node=\"\" data-is-only-node=\"\">\n<li data-section-id=\"1q7b63o\" data-start=\"1747\" data-end=\"1849\">B.S. Degree in Computer Science, Electrical Engineering, Computer Engineering, or related discipline</li>\n<li data-section-id=\"1mgqxlw\" data-start=\"1850\" data-end=\"1979\">Deep understanding of C.S. fundamentals, in particular operating systems, concurrency, multithreading, and server architectures</li>\n<li data-section-id=\"dypi2n\" data-start=\"1980\" data-end=\"2021\">Strong programming skills with C++ or C</li>\n<li data-section-id=\"bi57fa\" data-start=\"2022\" data-end=\"2074\">Passionate about building highly reliable software</li>\n<li data-section-id=\"r71o7b\" data-start=\"2075\" data-end=\"2121\" data-is-last-node=\"\">Firm grasp of algorithms and data structures</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<hr>\n<p><em>SingleStore delivers the cloud-native database with the speed and scale to power the world’s data-intensive applications. With a distributed SQL database that introduces simplicity to your data architecture by unifying transactions and analytics, SingleStore empowers digital leaders to deliver exceptional, real-time data experiences to their customers. SingleStore is venture-backed and headquartered in San Francisco with offices in Sunnyvale, Raleigh, Seattle, Boston, London, Lisbon, Bangalore, Dublin and Kyiv.</em></p>\n<p><em>Consistent with our commitment to diversity &amp; inclusion, we value individuals with the ability to work on diverse teams and with a diverse range of people.</em></p>\n<p><em>To all recruitment agencies: SingleStore does not accept agency resumes. Please do not forward resumes to SingleStore employees. SingleStore is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.</em></p>\n<p><em>SingleStore values individuals for their unique skills and experiences, and we’re proud to offer roles in a variety of locations across the United States. Salary is based on permissible, non-discriminatory factors such as skills, experience, and geographic location, and is just one part of our total compensation and benefits package. Certain roles are also eligible for additional rewards, including merit increases and annual bonuses.</em></p>\n<p><span data-sheets-root=\"1\">Req ID- ENG00413</span></p>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "level unclear (no New Grad/Intern qualifier)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Generic Software Engineer role at SingleStore India with no explicit level stated.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "63c90121caf3",
+      "discovered_at": "2026-09-20T17:25:48",
+      "analyzed_at": null
+    },
+    {
+      "company": "Devrev",
+      "title": "Forward Deployed AI Strategist {Chennai}",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6196805004",
+      "location": "Chennai, India",
+      "source": "greenhouse",
+      "description": "<div class=\"content-intro\"><p><span style=\"font-size: 12pt;\"><strong>About DevRev</strong></span></p>\n<p>At DevRev, we're building the future of work with <em>Computer</em> – your AI teammate. Unlike traditional tools, <em>Computer</em> unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work alongside your teams and customers – updating workflows, coordinating across teams, and eliminating repetitive work. We call this Team Intelligence: human-AI collaboration that breaks down silos, brings people back together, and frees you to solve bigger problems. Backed by Khosla Ventures and Mayfield with $150M+ raised, DevRev is trusted by global companies across industries.</p></div><p><strong>About the role</strong></p>\n<div>\n<p>As a <strong>Forward Deployed AI Strategist</strong>, you will serve as the lead technical strategist embedded with our customers. You'll own the end-to-end design of AI-driven business transformation projects from understanding domain-specific needs to architecting scalable agent-based solutions using DevRev’s platform. This role requires a unique blend of enterprise architecture, AI solutioning, customer empathy, and cross-functional collaboration. You’ll act as the connective tissue between pre-sales, customer success, engineering, and product teams bringing our AI capabilities to life for real-world impact.</p>\n</div>\n<div><strong>&nbsp;</strong></div>\n<div><strong>What you'll do</strong>\n<div>\n<ul>\n<li><strong>Own Customer Context</strong>: Deeply understand customer business domains, systems, and OKRs/KPIs to guide solution design.</li>\n<li><strong>Architect AI Transformation</strong>: Design and document AI-driven workflows, agents, skills, and system integrations that align with customer goals and industry best practices.</li>\n<li><strong>Be a Trusted Advisor</strong>: Build strong partnerships with customer stakeholders as their technical counterpart, delivering confidence in our platform’s capabilities.</li>\n<li><strong>Translate &amp; Coordinate</strong>: Bridge the gap between pre-sales/CS and engineering, ensuring requirements are actionable and outcomes measurable.</li>\n<li><strong>Design Reusability</strong>: Architect modular, scalable solutions that can be extended across customers and verticals.</li>\n<li><strong>Drive Delivery</strong>: Collaborate with Applied AI engineers to oversee solution implementation, ensuring architectural alignment and execution excellence.</li>\n<li><strong>Support Pre-Sales</strong>: Partner with sales engineers and customer teams to scope new opportunities, define technical requirements, and provide input on feasibility and effort.</li>\n<li><strong>Lead Innovation</strong>: Stay ahead of emerging trends in AI, software integration, and business transformation—and bring that insight to our solution designs.</li>\n<li><strong>Maintain Quality &amp; Compliance</strong>: Ensure all solutions meet performance, security, and compliance standards.</li>\n</ul>\n</div>\n<div>&nbsp;</div>\n<div><strong>What you'll bring</strong>\n<div>\n<ul>\n<li><strong>Experience</strong>: 7+ years in solution architecture or consulting roles, focused on enterprise-scale, customer-facing software implementations.</li>\n<li><strong>AI &amp; Cloud</strong>: Hands-on experience with generative AI tools, cloud platforms (AWS, GCP, or Azure), and modern integration patterns (APIs, webhooks, pipelines).</li>\n<li><strong>Business Acumen</strong>: Strong understanding of customer priorities, with the ability to translate business needs into technical execution plans.</li>\n<li><strong>Design Thinking</strong>: A problem-solver with a growth mindset, skilled in crafting scalable and future-proof architectures.</li>\n<li><strong>Communication</strong>: Exceptional ability to convey complex technical and business concepts to diverse stakeholders, both technical and non-technical.</li>\n<li><strong>Project Leadership</strong>: Proficiency with project planning tools and methodologies; capable of managing multiple solution tracks and timelines.</li>\n<li><strong>Metrics Focus</strong>: Proven ability to define and track success through OKRs, KPIs, and tangible business outcomes.</li>\n<li><strong>SaaS &amp; Platform Fluency</strong>: Background in SaaS or enterprise platforms, with understanding of extensibility and multi-tenant design principles.</li>\n<li><strong>Education</strong>: Bachelor's degree in Computer Science, Engineering, or related discipline. Advanced degrees or certifications in AI/architecture frameworks (e.g., TOGAF, SAFe) are a plus.</li>\n</ul>\n<p><strong>Travel Ready:</strong> <strong>Willingness to travel up to 80% for on-site implementations, technical workshops, and customer engagements.</strong><strong>&nbsp;</strong></p>\n<div>&nbsp;</div>\n<p>As part of our hiring process, shortlisted candidates will undergo a Background Verification (BGV). By applying, you consent to sharing personal information required for this process. Any offer made will be subject to successful completion of the BGV.</p>\n</div>\n</div>\n</div><div class=\"content-conclusion\"><p><em>DevRev is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.</em></p></div>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 40,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling"
+      ],
+      "missing_skills": [
+        "lead/strategist-level customer ownership experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "'Lead technical strategist' who owns end-to-end AI transformation projects reads as a senior/lead-level role despite the entry-friendly 'Forward Deployed' keyword.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "5a71b6b2f7f4",
+      "discovered_at": "2026-09-20T17:25:49",
+      "analyzed_at": null
+    },
+    {
+      "company": "Devrev",
+      "title": "Forward Deployed Engineer {Chennai}",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6196802004",
+      "location": "Chennai, India",
+      "source": "greenhouse",
+      "description": "<div class=\"content-intro\"><p><span style=\"font-size: 12pt;\"><strong>About DevRev</strong></span></p>\n<p>At DevRev, we're building the future of work with <em>Computer</em> – your AI teammate. Unlike traditional tools, <em>Computer</em> unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work alongside your teams and customers – updating workflows, coordinating across teams, and eliminating repetitive work. We call this Team Intelligence: human-AI collaboration that breaks down silos, brings people back together, and frees you to solve bigger problems. Backed by Khosla Ventures and Mayfield with $150M+ raised, DevRev is trusted by global companies across industries.</p></div><p><strong>About the Role:</strong></p>\n<p>As a Forward Deployed Engineer at DevRev, you will work closely with our pre- and post-sales Customer Experience team by developing solutions over the core platform via applications written in TypeScript, JavaScript, Python, etc. One of the key functions of this role is, building the Knowledge Graph that includes integration of DevRev with other SaaS and non-SaaS systems through webhooks and APIs and/ or real-time communication architectures. You will be expected to employ your creativity and expertise to ideate and shape how AI, analytics and workflows are used in customers' processes.<br><br></p>\n<p><strong>What You'll Do:</strong></p>\n<ul>\n<li><strong>Customer-facing:</strong> 80% working directly with customers.</li>\n<li><strong>Coding &amp; Integration: 70-80% hands-on technical implementation</strong></li>\n<li><strong>Build &amp; Deploy Solutions:</strong>&nbsp;Design, develop, and launch AI agents, integrations, and automations that connect DevRev with customers' existing tech stacks and workflows.</li>\n<li><strong>Integrate Systems:</strong>&nbsp;Connect DevRev with SaaS and non-SaaS platforms through APIs, webhooks, and real-time communication architectures for seamless data flow.</li>\n<li><strong>Optimize AI Performance:</strong>&nbsp;Apply prompt engineering, fine-tune semantic search engines, and leverage generative AI techniques to enhance agent accuracy and user experience.</li>\n<li><strong>Own Data Insights:</strong>&nbsp;Write SQL queries, perform data analysis, and build dashboards to surface insights that drive customer decision-making.</li>\n<li><strong>Prototype &amp; Iterate:</strong>&nbsp;Develop rapid proofs-of-concept, conduct live technical demos, and refine solutions based on customer and stakeholder feedback.</li>\n<li><strong>Lead Cross-functional Collaboration:</strong>&nbsp;Maintain constant communication loops with customers, engineering, product, customer success, support, and revenue teams to ensure alignment.</li>\n<li><strong>Guide Technical Adoption:</strong>&nbsp;Learn and master new tools, then guide customers through critical workflows like code repository integrations and advanced configurations.</li>\n<li><strong>Travel Ready:</strong> <strong>Willingness to travel up to 80% for on-site implementations, technical workshops, and customer engagements.</strong></li>\n</ul>\n<p><strong>What You Bring:</strong></p>\n<ul>\n<li><strong>Experience:</strong> 5+ years in software development, systems integration, or platform engineering. Customer-facing experience is a plus.</li>\n<li><strong>Background:</strong>&nbsp;Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.</li>\n<li><strong>Coding Skills:</strong>&nbsp;Strong proficiency in TypeScript/JavaScript, Python, data structures and algorithms. (Nice to have: Go)</li>\n<li><strong>Applied AI Knowledge:</strong>&nbsp;Familiarity with large language models (LLMs), prompt engineering, frameworks like RAG and function calling, and building evals to validate agentic AI solutions.</li>\n<li><strong>Integration Expertise:</strong>&nbsp;Deep experience with large-scale data synchronization (one-way and two-way), API integration patterns (REST, GraphQL, webhooks), and event-driven/pub/sub architectures.</li>\n<li><strong>Cloud &amp; Deployment:</strong>&nbsp;Hands-on experience deploying on serverless and edge platforms (AWS Lambda, Google Cloud Functions) with modern DevOps practices (CI/CD, containers, observability).</li>\n<li><strong>Data Transformation:</strong>&nbsp;Skilled in data mapping, schema alignment, and working with heterogeneous systems. Understanding of data modeling and graph data structures.</li>\n<li><strong>Observability:</strong>&nbsp;Experience implementing clear logging, actionable error surfacing, and telemetry to support faster debugging and issue resolution.</li>\n<li><strong>Context-Aware Systems:</strong>&nbsp;Familiarity with Model Context Programming (MCP) for building adaptive, context-aware integrations.</li>\n<li><strong>Problem-Solving:</strong>&nbsp;Strong track record triaging and unblocking both technical and non-technical blockers to keep projects moving forward.</li>\n<li><strong>Documentation:</strong>&nbsp;Experience writing concise, well-structured documentation that supports long-term team understanding and seamless onboarding.</li>\n<li><strong>Communication:</strong>&nbsp;Strong written and verbal skills to articulate technical concepts to engineers, product teams, and business stakeholders.<br><br>As part of our hiring process, shortlisted candidates will undergo a Background Verification (BGV). By applying, you consent to sharing personal information required for this process. Any offer made will be subject to successful completion of the BGV.</li>\n</ul><div class=\"content-conclusion\"><p><em>DevRev is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.</em></p></div>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 62,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling (Tata 1mg)"
+      ],
+      "missing_skills": [
+        "TypeScript/JavaScript (candidate ruled out Node/TS backend work, though this is a mixed customer-facing stack)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Forward Deployed Engineer building customer solutions in TypeScript/JS/Python at a well-funded AI infra startup; hands-on and no seniority stated.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "43ecd24bb715",
+      "discovered_at": "2026-09-20T17:25:49",
+      "analyzed_at": null
+    },
+    {
+      "company": "Devrev",
+      "title": "Forward Deployed Engineer {Mumbai}",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6196801004",
+      "location": "Mumbai, India",
+      "source": "greenhouse",
+      "description": "<div class=\"content-intro\"><p><span style=\"font-size: 12pt;\"><strong>About DevRev</strong></span></p>\n<p>At DevRev, we're building the future of work with <em>Computer</em> – your AI teammate. Unlike traditional tools, <em>Computer</em> unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work alongside your teams and customers – updating workflows, coordinating across teams, and eliminating repetitive work. We call this Team Intelligence: human-AI collaboration that breaks down silos, brings people back together, and frees you to solve bigger problems. Backed by Khosla Ventures and Mayfield with $150M+ raised, DevRev is trusted by global companies across industries.</p></div><p><strong>About the Role:</strong></p>\n<p>As a Forward Deployed Engineer at DevRev, you will work closely with our pre- and post-sales Customer Experience team by developing solutions over the core platform via applications written in TypeScript, JavaScript, Python, etc. One of the key functions of this role is, building the Knowledge Graph that includes integration of DevRev with other SaaS and non-SaaS systems through webhooks and APIs and/ or real-time communication architectures. You will be expected to employ your creativity and expertise to ideate and shape how AI, analytics and workflows are used in customers' processes.<br><br></p>\n<p><strong>What You'll Do:</strong></p>\n<ul>\n<li><strong>Customer-facing:</strong> 80% working directly with customers.</li>\n<li><strong>Coding &amp; Integration: 70-80% hands-on technical implementation</strong></li>\n<li><strong>Build &amp; Deploy Solutions:</strong>&nbsp;Design, develop, and launch AI agents, integrations, and automations that connect DevRev with customers' existing tech stacks and workflows.</li>\n<li><strong>Integrate Systems:</strong>&nbsp;Connect DevRev with SaaS and non-SaaS platforms through APIs, webhooks, and real-time communication architectures for seamless data flow.</li>\n<li><strong>Optimize AI Performance:</strong>&nbsp;Apply prompt engineering, fine-tune semantic search engines, and leverage generative AI techniques to enhance agent accuracy and user experience.</li>\n<li><strong>Own Data Insights:</strong>&nbsp;Write SQL queries, perform data analysis, and build dashboards to surface insights that drive customer decision-making.</li>\n<li><strong>Prototype &amp; Iterate:</strong>&nbsp;Develop rapid proofs-of-concept, conduct live technical demos, and refine solutions based on customer and stakeholder feedback.</li>\n<li><strong>Lead Cross-functional Collaboration:</strong>&nbsp;Maintain constant communication loops with customers, engineering, product, customer success, support, and revenue teams to ensure alignment.</li>\n<li><strong>Guide Technical Adoption:</strong>&nbsp;Learn and master new tools, then guide customers through critical workflows like code repository integrations and advanced configurations.</li>\n<li><strong>Travel Ready:</strong> <strong>Willingness to travel up to 80% for on-site implementations, technical workshops, and customer engagements.</strong></li>\n</ul>\n<p><strong>What You Bring:</strong></p>\n<ul>\n<li><strong>Experience:</strong> 5+ years in software development, systems integration, or platform engineering. Customer-facing experience is a plus.</li>\n<li><strong>Background:</strong>&nbsp;Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.</li>\n<li><strong>Coding Skills:</strong>&nbsp;Strong proficiency in TypeScript/JavaScript, Python, data structures and algorithms. (Nice to have: Go)</li>\n<li><strong>Applied AI Knowledge:</strong>&nbsp;Familiarity with large language models (LLMs), prompt engineering, frameworks like RAG and function calling, and building evals to validate agentic AI solutions.</li>\n<li><strong>Integration Expertise:</strong>&nbsp;Deep experience with large-scale data synchronization (one-way and two-way), API integration patterns (REST, GraphQL, webhooks), and event-driven/pub/sub architectures.</li>\n<li><strong>Cloud &amp; Deployment:</strong>&nbsp;Hands-on experience deploying on serverless and edge platforms (AWS Lambda, Google Cloud Functions) with modern DevOps practices (CI/CD, containers, observability).</li>\n<li><strong>Data Transformation:</strong>&nbsp;Skilled in data mapping, schema alignment, and working with heterogeneous systems. Understanding of data modeling and graph data structures.</li>\n<li><strong>Observability:</strong>&nbsp;Experience implementing clear logging, actionable error surfacing, and telemetry to support faster debugging and issue resolution.</li>\n<li><strong>Context-Aware Systems:</strong>&nbsp;Familiarity with Model Context Programming (MCP) for building adaptive, context-aware integrations.</li>\n<li><strong>Problem-Solving:</strong>&nbsp;Strong track record triaging and unblocking both technical and non-technical blockers to keep projects moving forward.</li>\n<li><strong>Documentation:</strong>&nbsp;Experience writing concise, well-structured documentation that supports long-term team understanding and seamless onboarding.</li>\n<li><strong>Communication:</strong>&nbsp;Strong written and verbal skills to articulate technical concepts to engineers, product teams, and business stakeholders.<br><br>As part of our hiring process, shortlisted candidates will undergo a Background Verification (BGV). By applying, you consent to sharing personal information required for this process. Any offer made will be subject to successful completion of the BGV.</li>\n</ul><div class=\"content-conclusion\"><p><em>DevRev is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.</em></p></div>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 65,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling (Tata 1mg)"
+      ],
+      "missing_skills": [
+        "TypeScript/JavaScript"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Same Forward Deployed Engineer role as the Chennai posting but in Mumbai, one of the candidate's preferred cities.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "6042fdcbda08",
+      "discovered_at": "2026-09-20T17:25:49",
+      "analyzed_at": null
+    },
+    {
+      "company": "S&P Global",
+      "title": "Data Analyst",
+      "url": "https://www.linkedin.com/jobs/view/4467504296/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "pandas"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Data Analyst at S&P Global (major financial analytics company) in Bengaluru; solid title/skill match. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "QUEUED",
+      "id": "9b6c7e6accd0",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "GlobalLogic",
+      "title": "Associate Analyst – Freshers (Non Technical/Non Voice) IRC304530",
+      "url": "https://www.linkedin.com/jobs/view/4468393581/",
+      "location": "Hyderabad",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 10,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "technical role (this is explicitly non-technical)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Title explicitly states 'Non Technical/Non Voice' — not a software/data role.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "47d577582822",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Moody's Corporation",
+      "title": "Assc Analytics & Model Analyst",
+      "url": "https://www.linkedin.com/jobs/view/4468386961/",
+      "location": "Sadar",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 58,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "statistics"
+      ],
+      "missing_skills": [
+        "credit-rating/financial-model domain"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Analytics & Model Analyst at Moody's; quant/analytics fit but financial-model domain is unconfirmed.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "56e9f0fd740a",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Microsoft",
+      "title": "Data Analytics Specialist",
+      "url": "https://www.linkedin.com/jobs/view/4469531525/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "pandas",
+        "scikit-learn"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Data Analytics Specialist at Microsoft, Bengaluru; strong track/company match. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "QUEUED",
+      "id": "a0cc6c01e806",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Google",
+      "title": "Treasury Analyst",
+      "url": "https://www.linkedin.com/jobs/view/4449761359/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 20,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "treasury/finance-operations track (off-target)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Treasury Analyst is a finance-operations function, outside the candidate's target tracks.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "28570a462873",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "BlackRock",
+      "title": "Analyst, Data Management",
+      "url": "https://www.linkedin.com/jobs/view/4469517793/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 58,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "SQL"
+      ],
+      "missing_skills": [
+        "data governance/MDM domain"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Data Management Analyst at BlackRock likely leans toward data governance rather than analytics; reasonable but not a strong track match.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "dc191f8eb5a8",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Alexion Pharmaceuticals, Inc.",
+      "title": "Analyst - Data Scientist",
+      "url": "https://www.linkedin.com/jobs/view/4469263415/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "ML fundamentals"
+      ],
+      "missing_skills": [
+        "pharma/biotech domain"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Analyst - Data Scientist at Alexion (AstraZeneca rare-disease unit), Bengaluru; solid title match at a major pharma company. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "QUEUED",
+      "id": "5779eec728ff",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "TAXOSMART",
+      "title": "Artificial Intelligence (AI) Internship in Mumbai",
+      "url": "https://www.linkedin.com/jobs/view/4469278233/",
+      "location": "Mumbai Metropolitan Region",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 42,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "AI fundamentals"
+      ],
+      "missing_skills": [
+        "role specifics",
+        "company legitimacy"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Small, unverified company (TAXOSMART) with no JD text.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "06d9a9418d4d",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Jacobs",
+      "title": "Apprentice Engineer - Telecom",
+      "url": "https://www.linkedin.com/jobs/view/4469190659/",
+      "location": "Mumbai Metropolitan Region",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "telecom/civil engineering background"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Jacobs is an engineering/infrastructure consultancy; a telecom apprentice role there is not software/data work.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "df7a0a19d263",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Adobe",
+      "title": "Agentic Outcome Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4440775143/",
+      "location": "Noida",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 65,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling (Tata 1mg)"
+      ],
+      "missing_skills": [
+        "seniority unclear — novel/specialized title"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "'Agentic Outcome Engineer' at Adobe fits the Applied AI/GenAI track well, but the title is novel/specialized and no level is stated — verify before applying.",
+      "requires_human_review": true,
+      "resume_hint": "machine_learning.pdf",
+      "status": "SKIPPED",
+      "id": "59b0926a5aa6",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "External Intern",
+      "url": "https://www.linkedin.com/jobs/view/4469532214/",
+      "location": "Pune City",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python (general)"
+      ],
+      "missing_skills": [
+        "domain entirely unspecified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'External Intern' at HPE with no domain stated — reputable company but title too generic to assess.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "a4b74f6842e6",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bank of America",
+      "title": "Team Member",
+      "url": "https://www.linkedin.com/jobs/view/4458793516/",
+      "location": "Borivali",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "technical role (reads as branch/ops)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'Team Member' at a Bank of America branch location reads as a non-technical operations role.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "fc8059535182",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Zonious Technologies",
+      "title": "Data Analyst",
+      "url": "https://www.linkedin.com/jobs/view/4468087720/",
+      "location": "India",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 45,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "SQL"
+      ],
+      "missing_skills": [
+        "company legitimacy"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Small, unverified company (Zonious Technologies) with no JD text.",
+      "requires_human_review": true,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "3056a574f89f",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Accenture in India",
+      "title": "Measurement and Reporting New Associate",
+      "url": "https://www.linkedin.com/jobs/view/4469182127/",
+      "location": "Mumbai Metropolitan Region",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 25,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "business-operations track (off-target)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'Measurement and Reporting New Associate' at Accenture reads as a business-operations/reporting role, not core SWE/DS work.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "d06d6f2afe8f",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Intern",
+      "url": "https://www.linkedin.com/jobs/view/4468614190/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 50,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python (general)"
+      ],
+      "missing_skills": [
+        "domain entirely unspecified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Generic 'Intern' title at HPE Bengaluru with no domain stated.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "25a2cbbbae81",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Abstrabit Technologies",
+      "title": "Software Engineering Intern",
+      "url": "https://www.linkedin.com/jobs/view/4469134659/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 58,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Software Engineering Intern title is on-track and in Bengaluru, but Abstrabit Technologies is a small, unverified company with no JD.",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "077cbdacbdf0",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "IQVIA",
+      "title": "Intern",
+      "url": "https://www.linkedin.com/jobs/view/4467587001/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 40,
+      "recommendation": "MAYBE",
+      "matching_skills": [],
+      "missing_skills": [
+        "domain entirely unspecified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Generic 'Intern' title at IQVIA with no domain stated; candidate was previously rejected for a different IQVIA SWE Intern req, so verify this is a distinct, still-open posting before applying.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "06ceba2fc23a",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "PPStack",
+      "title": "Python Intern",
+      "url": "https://www.linkedin.com/jobs/view/4467861475/",
+      "location": "India",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Python Intern title matches well, but PPStack is a small, unverified company with no JD.",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "9af287492731",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Zerowatt",
+      "title": "Software Engineer Intern",
+      "url": "https://www.linkedin.com/jobs/view/4466649499/",
+      "location": "Chennai",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Software Engineer Intern in Chennai (preferred city), but Zerowatt is a small, unverified company with no JD.",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "1fff7df5ad34",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "LitLabs",
+      "title": "Engineering Intern",
+      "url": "https://www.linkedin.com/jobs/view/4467801635/",
+      "location": "India",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 45,
+      "recommendation": "MAYBE",
+      "matching_skills": [],
+      "missing_skills": [
+        "domain unspecified",
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Generic 'Engineering Intern' title at an unverified small company (LitLabs) with no JD.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "3a819e1cd327",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Infosys",
+      "title": "Python/Python GenAI",
+      "url": "https://www.linkedin.com/jobs/view/4458328279/",
+      "location": "Bengaluru East",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling (Tata 1mg)"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Python/GenAI role at Infosys matches the Applied AI/GenAI track well. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "machine_learning.pdf",
+      "status": "QUEUED",
+      "id": "b7c2c54a18ab",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Genpact",
+      "title": "Python Developer",
+      "url": "https://www.linkedin.com/jobs/view/4461410053/",
+      "location": "Mumbai Metropolitan Region",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "role specifics (JD not available)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Python Developer role at Genpact (analytics/BPM firm) with no JD text to confirm the actual work.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "a9bc51ab08bd",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "HDFC Bank",
+      "title": "Data Scientist",
+      "url": "https://www.linkedin.com/jobs/view/4466667610/",
+      "location": "Mumbai",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "ML fundamentals"
+      ],
+      "missing_skills": [
+        "banking/credit domain"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Data Scientist at HDFC Bank, a major Indian bank; solid DS-track match. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "QUEUED",
+      "id": "7a4e9b10f952",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Work360",
+      "title": "Data Scientist (Freshers)",
+      "url": "https://www.linkedin.com/jobs/view/4466670531/",
+      "location": "Faridabad",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 50,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python (general)"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'Data Scientist (Freshers)' explicit entry-level match, but Work360 is unverified and Faridabad isn't a stated preferred city.",
+      "requires_human_review": true,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "bfacee7ae9f0",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Citi",
+      "title": "Data Engineer - Python, AI",
+      "url": "https://www.linkedin.com/jobs/view/4467814001/",
+      "location": "Pune Division",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling",
+        "data engineering"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Data Engineer - Python, AI role at Citi matches the candidate's Python/AI-tooling skill set well. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "machine_learning.pdf",
+      "status": "QUEUED",
+      "id": "5f602fd4cdf0",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Tecnod8.AI",
+      "title": "Intern Full Stack (Agentic AI Applications) Development",
+      "url": "https://www.linkedin.com/jobs/view/4466662629/",
+      "location": "Gurugram",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 58,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling (Tata 1mg)"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Agentic AI full-stack intern in the candidate's home city (Gurugram), but Tecnod8.AI is a small, unverified startup.",
+      "requires_human_review": true,
+      "resume_hint": "machine_learning.pdf",
+      "status": "SKIPPED",
+      "id": "3029616f6a2c",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Meet Bros",
+      "title": "Data Management Intern (Mumbai)",
+      "url": "https://www.linkedin.com/jobs/view/4466691093/",
+      "location": "Mumbai",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 30,
+      "recommendation": "MAYBE",
+      "matching_skills": [],
+      "missing_skills": [
+        "unusual company/role pairing, verify legitimacy"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'Data Management Intern' at Meet Bros (better known as a music-production company) is an unusual pairing — verify what this role actually is before applying.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "6b403698cb50",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Upstox",
+      "title": "Product Intern",
+      "url": "https://www.linkedin.com/jobs/view/4466271209/",
+      "location": "Mumbai Metropolitan Region",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 25,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "product-management track (off-target)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Product Intern is a product-management track, outside the candidate's target tracks.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "44eaac7d9b86",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "BNP Paribas",
+      "title": "Quantitative Analyst - GMQR Quant Strategists",
+      "url": "https://www.linkedin.com/jobs/view/4449624563/",
+      "location": "Mumbai",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "math background"
+      ],
+      "missing_skills": [
+        "quant-finance domain"
+      ],
+      "relevant_projects": [
+        "Series Approximation (math research)"
+      ],
+      "relevant_experience": [],
+      "reason": "Quantitative Analyst on BNP Paribas's strategist team; analytical fit but finance-specific quant depth is unconfirmed.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "87e5c1c232f9",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Callisto Talent Solutions",
+      "title": "Fresher Quantitative Researcher - HFT",
+      "url": "https://www.linkedin.com/jobs/view/4466677657/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 45,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "math background"
+      ],
+      "missing_skills": [
+        "competitive-programming/DSA depth (HFT firms screen hard on this)",
+        "low-latency C++"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Explicit 'Fresher' HFT quant researcher role via a staffing agency; the known DSA/algorithmic gap is a real risk here given HFT's typically heavy bar.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "47f2d12eef9e",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Crossing Infotech",
+      "title": "Machine Learning Intern | Entry Level | Fresher | Python, Machine Learning, Scikit-learn | Remote",
+      "url": "https://www.linkedin.com/jobs/view/4467854343/",
+      "location": "India",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "scikit-learn",
+        "Entry Level/Fresher framing"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Title keywords match well, but Crossing Infotech's generic name and keyword-stuffed titles read like a lead-generation listing pattern seen before with this same company.",
+      "requires_human_review": true,
+      "resume_hint": "machine_learning.pdf",
+      "status": "SKIPPED",
+      "id": "b5847fdaa6a9",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Cisco",
+      "title": "Data Scientist",
+      "url": "https://www.linkedin.com/jobs/view/4459046373/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "ML fundamentals"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Data Scientist at Cisco, a major tech company in Bengaluru; solid DS-track match. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "QUEUED",
+      "id": "3769430b5202",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "IBM",
+      "title": "ML Engineer-Advanced Analytics",
+      "url": "https://www.linkedin.com/jobs/view/4457250897/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "ML fundamentals"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "ML Engineer role at IBM matches the ML-engineering track well. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "machine_learning.pdf",
+      "status": "QUEUED",
+      "id": "c7f4b13093cd",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "IBM",
+      "title": "Data Scientist-Artificial Intelligence",
+      "url": "https://www.linkedin.com/jobs/view/4446244682/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "ML/AI fundamentals"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot",
+        "Tata 1mg"
+      ],
+      "reason": "Data Scientist-AI role at IBM matches both the DS and Applied AI tracks. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "QUEUED",
+      "id": "2eca8d820f66",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Capgemini Engineering",
+      "title": "Data Science / ML",
+      "url": "https://www.linkedin.com/jobs/view/4468253122/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 60,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "ML/DS fundamentals"
+      ],
+      "missing_skills": [
+        "role specifics (generic title)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Generic 'Data Science / ML' title at Capgemini Engineering; established company but limited detail.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "c01e3a29f427",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Scoutit",
+      "title": "Python Developer",
+      "url": "https://www.linkedin.com/jobs/view/4467513093/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 48,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Python Developer at Scoutit, a small unverified company (the candidate already skipped a Business Analyst req there for the same reason).",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "a33dc7df29ff",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Crisil",
+      "title": "Data Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4467521981/",
+      "location": "Mumbai",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 75,
+      "recommendation": "APPLY",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "data pipelines"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Data Engineer at Crisil, an established analytics/research firm the candidate has already applied to for a different role. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "QUEUED",
+      "id": "4d8de33015d4",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "HARMAN India",
+      "title": "Software Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4466247626/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 50,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python (general)"
+      ],
+      "missing_skills": [
+        "domain unclear — HARMAN often does embedded/automotive software"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Generic 'Software Engineering' title at HARMAN (automotive/audio electronics); could be embedded rather than backend/data work — verify domain.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "79118929e9de",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Vahan.ai",
+      "title": "Software Engineer Intern",
+      "url": "https://www.linkedin.com/jobs/view/4468619421/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "scope unclear vs. the CV-pipeline work the candidate previously declined at this company"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "General Software Engineer Intern at Vahan.ai; the candidate previously declined a different Vahan.ai req over classical-CV/OpenCV work, so confirm this role's actual scope before applying.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "1be5d56baece",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Talentd",
+      "title": "Data Science Intern",
+      "url": "https://www.linkedin.com/jobs/view/4468242446/",
+      "location": "Greater Bengaluru Area",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 45,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "ML/DS fundamentals"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Data Science Intern at Talentd, a small company already flagged unverified for a different generic req.",
+      "requires_human_review": true,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "cf281243ed03",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Zexovo",
+      "title": "Agentic AI Engineer Intern",
+      "url": "https://www.linkedin.com/jobs/view/4468227998/",
+      "location": "Hyderabad",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling (Tata 1mg)"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Agentic AI Engineer Intern matches the Applied AI track well, but Zexovo is a small, unverified startup.",
+      "requires_human_review": true,
+      "resume_hint": "machine_learning.pdf",
+      "status": "SKIPPED",
+      "id": "74b1ab2170ab",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Data Center Technician, Data Center Operations (DCO)",
+      "url": "https://www.linkedin.com/jobs/view/4468266178/",
+      "location": "Mumbai Metropolitan Region",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 12,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "hands-on data-center hardware operations (off-target)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Data Center Technician is a physical hardware-operations role, not software/data engineering.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "7467c33de3ea",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "FedEx",
+      "title": "Customer Care Representative Associate",
+      "url": "https://www.linkedin.com/jobs/view/4431697173/",
+      "location": "Mumbai Metropolitan Region",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 8,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "customer support (excluded track)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Customer support role — explicitly excluded by the candidate's profile.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "2353fbaccb7b",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Progent AI",
+      "title": "Forward deployed engineer",
+      "url": "https://www.linkedin.com/jobs/view/4465973082/",
+      "location": "Mumbai",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "AI fundamentals"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Forward Deployed Engineer title is on-track and in Mumbai, but Progent AI is a small, unverified startup.",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "c66de0fcd4fe",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "GoodSpace AI",
+      "title": "Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4468380998/",
+      "location": "India",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 50,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Software Engineer at GoodSpace AI, a small startup already flagged unverified for a different req.",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "d517558e3271",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Standard Chartered India",
+      "title": "Apprentice Corporate & Investment Banking India 2026",
+      "url": "https://www.linkedin.com/jobs/view/4468610799/",
+      "location": "Mumbai Metropolitan Region",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 20,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "timing — '2026' program likely wants near-term/immediate joiners"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Apprentice program explicitly labeled 'India 2026' suggests a near-term joining cohort, inconsistent with the candidate's June 2027 graduation.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "e361b3abcd22",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Cuemath",
+      "title": "AI Builder",
+      "url": "https://www.linkedin.com/jobs/view/4467509181/",
+      "location": "Gurugram",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "AI fundamentals"
+      ],
+      "missing_skills": [
+        "scope unclear — novel title"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "'AI Builder' at Cuemath (home city Gurugram) is a novel, ambiguous title — verify actual scope before applying.",
+      "requires_human_review": true,
+      "resume_hint": "machine_learning.pdf",
+      "status": "SKIPPED",
+      "id": "3c3454887a4a",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Venture Ink",
+      "title": "Intern",
+      "url": "https://www.linkedin.com/jobs/view/4467542184/",
+      "location": "Gurugram",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 40,
+      "recommendation": "MAYBE",
+      "matching_skills": [],
+      "missing_skills": [
+        "domain entirely unspecified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Generic 'Intern' title at Venture Ink with no domain stated.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "e070b05c1baf",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Dun & Bradstreet",
+      "title": "Intern (R-19968)",
+      "url": "https://www.linkedin.com/jobs/view/4468201869/",
+      "location": "Mumbai Metropolitan Region",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python (general)"
+      ],
+      "missing_skills": [
+        "domain unclear"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Generic 'Intern' title at Dun & Bradstreet (established data/analytics company); domain unclear but company is reputable.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "101032b24e43",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Neo",
+      "title": "Intern",
+      "url": "https://www.linkedin.com/jobs/view/4467179575/",
+      "location": "Mumbai",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 30,
+      "recommendation": "MAYBE",
+      "matching_skills": [],
+      "missing_skills": [
+        "domain and company both unclear"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "'Intern' at a company named simply 'Neo' with no domain — too little information to assess.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "2a170c62bf2c",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "IQVIA",
+      "title": "Analyst",
+      "url": "https://www.linkedin.com/jobs/view/4467191910/",
+      "location": "Pune Division",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 38,
+      "recommendation": "MAYBE",
+      "matching_skills": [],
+      "missing_skills": [
+        "domain unspecified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Generic 'Analyst' title at IQVIA with no domain stated; candidate was previously rejected for a different IQVIA req.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "cb641136b886",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "DATA POEM",
+      "title": "AI-Scientist",
+      "url": "https://www.linkedin.com/jobs/view/4467190817/",
+      "location": "Bengaluru",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 38,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "ML fundamentals"
+      ],
+      "missing_skills": [
+        "'Scientist' title usually implies advanced/PhD-level experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "'AI-Scientist' title typically implies research-level seniority; company (DATA POEM) is also small and unverified.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "dbae4bc5d2a5",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "IDFC FIRST Bank",
+      "title": "Model Risk Analyst",
+      "url": "https://www.linkedin.com/jobs/view/4403372150/",
+      "location": "Mumbai",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "statistics"
+      ],
+      "missing_skills": [
+        "risk-modeling finance domain"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Model Risk Analyst at IDFC FIRST Bank is analytics-adjacent; finance risk-modeling domain is unconfirmed.",
+      "requires_human_review": false,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "7b75b3bc9401",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Crossing Infotech",
+      "title": "Data Science Intern | Entry Level | Fresher | Python, Pandas, SQL, Statistics | Remote",
+      "url": "https://www.linkedin.com/jobs/view/4467192613/",
+      "location": "India",
+      "source": "linkedin_alert",
+      "description": "",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "pandas",
+        "SQL",
+        "statistics",
+        "Entry Level/Fresher framing"
+      ],
+      "missing_skills": [
+        "company legitimacy unverified"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot"
+      ],
+      "reason": "Same Crossing Infotech lead-generation-style listing pattern seen with this company's other postings.",
+      "requires_human_review": true,
+      "resume_hint": "data_science.pdf",
+      "status": "SKIPPED",
+      "id": "81728b0ffa66",
+      "discovered_at": "2026-09-20T17:28:51",
+      "analyzed_at": null
+    },
+    {
+      "company": "Greenlandinvestmentmanagement",
+      "title": "Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/greenlandinvestmentmanagement/jobs/5364104008",
+      "location": "Mumbai, Maharashtra, India",
+      "source": "greenhouse",
+      "description": "<p><strong>Company Profile:</strong><br><br>Greenland Investment Management is a Mumbai headquartered global hedge fund manager managing assets in excess of USD 1 billion. We manage one of the 10 largest dedicated commodity hedge funds globally.<br>We specialize in cross-market arbitrage strategies across commodities and currencies, investing globally across 40+ markets. We employ a purely quantitative approach using our proprietary big-data research systems to systematically create consistent alpha generating strategies.<br>Our extensive network of globally interconnected and exchange co-located servers along with our low latency trading platforms allow us to algorithmically capture these market inefficiencies across asset classes.<br><br><strong>Job Profile:</strong><br><br>Python Engineers&nbsp;work on building the core operations infrastructure for the firm and automating hedge fund operations to ensure a smooth running of the firm.<br><br><strong>Job Description:</strong></p>\n<ul>\n<li>The team is responsible for the design, development and maintenance of critical, data-driven applications which are a key component of daily trading workflow.</li>\n<li>You will be designing and implementing various tools and processes used by Quants, Traders and Operations.</li>\n<li>Design and build data pipelines and workflow systems for various market data and trading systems used by various groups across the firm.</li>\n<li>Design and build analytical tools and reporting systems for operational and business insights.</li>\n<li>Collaborate closely with cross-functional teams to gather requirements and implement scalable solutions.</li>\n<li>Take complete ownership of projects which includes evaluating requirements, building good domain knowledge, design and code reviews for other team members, documentation, etc.</li>\n<li>Continuously improve and optimize existing Python codebase/processes for better performance and reliability.</li>\n<li>Our development environment is Python-based, with cross-platform work on Linux and Windows. We utilize tools such as Docker, Git, Messaging Queues, and cloud environments like AWS to build and deploy scalable systems.</li>\n</ul>\n<p><br><strong>Core Skills Needed:</strong></p>\n<ul>\n<li>Graduate from a tier 1/2 engineering institute or equivalent.</li>\n<li>Between 1-3 years of experience in a coding-oriented role</li>\n<li>Candidate should have excellent problem-solving skills, high quantitative aptitude, and ability to turnaround projects quickly.</li>\n<li>The candidate should have one to three years of programming experience with Python (or Java or equivalent) at a Technology or Financial firm.</li>\n<li>Previous Python experience is not required, although we are looking for an established track record of working on large-scale object-oriented projects.</li>\n<li>Solid understanding of SQL databases for managing and querying data.</li>\n<li>Ability to work independently and as a part of a dynamic team.</li>\n<li>The candidate should be willing to work in a language-agnostic environment.</li>\n<li>Strong communication skills in English to effectively collaborate with team members and stakeholders.</li>\n</ul>\n<p><strong>Added Advantage</strong>:</p>\n<ul>\n<li>Prior experience in full stack or front-end technologies (React-JS or similar).</li>\n<li>Prior experience or exposure in finance or financial technology like high-frequency trading (HFT) or quantitative finance environments.</li>\n<li>Experience with data processing, ETL workflows, and integration of external data sources.</li>\n</ul>\n<p>&nbsp;</p>",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 70,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "backend",
+        "quantitative/systems background"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [
+        "Series Approximation (math research)"
+      ],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Strong Python-engineer fit for Greenland's hedge-fund infra team (Mumbai), but the candidate already applied to this company via LinkedIn on 2026-04-24 — likely the same role rediscovered through the newly added Greenhouse board. Flagged to avoid a duplicate application; use this direct Greenhouse link only if the earlier LinkedIn application didn't go through.",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "6c82728ee84d",
+      "discovered_at": "2026-09-20T17:31:04",
+      "analyzed_at": null
+    },
+    {
+      "company": "Confluent",
+      "title": "Distributed Systems Software Engineer - WarpStream",
+      "url": "https://jobs.ashbyhq.com/confluent/47920ccd-db54-4ed4-a865-70857e865fff",
+      "location": "Remote, United States",
+      "source": "ashby",
+      "description": "We’re not just building better tech. We’re rewriting how data moves and what the world can do with it. With Confluent, data doesn’t sit still. Our platform puts information in motion, streaming in near real-time so companies can react faster, build smarter, and deliver experiences as dynamic as the world around them.\n\nIt takes a certain kind of person to join this team. Those who ask hard questions, give honest feedback, and show up for each other. No egos, no solo acts. Just smart, curious humans pushing toward something bigger, together.\n\nOne Confluent. One Team. One Data Streaming Platform.\n\n\nABOUT THE ROLE:\n\nWarpStream is an Apache Kafka compatible data streaming platform built directly on top of object storage with zero local disks. It’s delivered to customers as a BYOC-style offering. The WarpStream team is responsible for this product offering from top to bottom, and as a Senior Engineer you’ll do everything from working on the storage engine running in the Agents, improving the scalability of our multi-tenant control plane, implementing new features like transactions, active-active multi-regions clusters, and even write some HTML/Javascript for our developer console. We’re a small team of < 15 engineers, so you’ll be expected to work across the entire stack from bashing bits at the network level to making sure our UI provides a great developer experience.\n\nYou will have an opportunity to solve complex distributed systems problems at scale. You will build services that can operate across different cloud service providers like AWS, GCP, and Azure. You’ll be on-call for all of it.\n\nThe WarpStream team is fully remote and geographically distributed, currently we have engineers in: Spain, France, Canada, Ireland, and the USA.\n\n\n\n\nWHAT YOU WILL DO:\n\n - Independently drive execution of complex technical projects end to end.\n\n - Build mission-critical backend services that deliver value to our customers. You will play a crucial role in architecting, designing, developing and operationalizing high performance, scalable, reliable and resilient services.\n\n - Troubleshoot and debug technical issues inside a deep and complex technical stack that includes microservices, containers, and virtualization.\n\n - Ensure operational readiness of the services and meet the availability and performance SLA commitments to our customers.\n   \n   \n\n\nWHAT YOU WILL BRING:\n\n - 5+ years industry experience designing, building, scaling and supporting backend systems in production with a solid grasp on good software engineering practices such as code reviews, deep focus on quality, and documentation\n\n - Strong programming and algorithmic skills. Proficiency in a major programming language, e.g. Java, Go, C / C++, Python, etc\n\n - Deep curiosity and enthusiasm for distributed systems and storage systems\n\n - Strong focus on project delivery and communication skills\n\n - Experience in driving operational excellence for large production services\n\n - A strong sense of customer centricity, teamwork, technical leadership and mentorship and are excited about team and company success \n\n\n\n\nWHAT GIVES YOU AN EDGE: \n\n - Proven track record of delivering large-scale, highly available, high quality systems\n\n - Hands-on technical expertise in large scale systems engineering or distributed systems\n\n - On-call experience handling critical systems\n   \n   \n\n\nREADY TO BUILD WHAT'S NEXT? LET’S GET IN MOTION.\n\n\n\n\n\n\n\nCOME AS YOU ARE\n\nBelonging isn’t a perk here. It’s the baseline. We work across time zones and backgrounds, knowing the best ideas come from different perspectives. And we make space for everyone to lead, grow, and challenge what’s possible.\n\nWe’re proud to be an equal opportunity workplace. Employment decisions are based on job-related criteria, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by law.\n\n\n\n\nPRIVACY STATEMENT\n\nConfluent is an IBM subsidiary which has been acquired by IBM and will be integrated into the IBM organization. By proceeding with this application, you understand that Confluent will share your personal information with other IBM affiliates involved in your recruitment process, wherever these are located. More Information on how IBM protects your personal information, including the safeguards in case of cross-border data transfer, are available here http://ibm.com/careers/us-en/privacy-policy/.",
+      "remote": true,
+      "employment_type": "FullTime",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python (general)"
+      ],
+      "missing_skills": [
+        "distributed-systems/Go depth",
+        "senior-level experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Explicitly a Senior Engineer role, remote but US-only (not India/global-remote), on a distributed-systems product outside the candidate's experience.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "d6dba11f08c5",
+      "discovered_at": "2026-09-20T17:31:08",
+      "analyzed_at": null
     }
   ]
 }
