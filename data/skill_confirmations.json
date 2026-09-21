@@ -8,6 +8,7 @@
     "Node.js / TypeScript backend",
     "R",
     ".NET Core / C#",
+    "Ruby / Ruby on Rails backend",
     "Onsite roles outside India (remote-from-India only; remote-global is fine)",
     "Classical computer vision / OpenCV / PIL image-processing pipelines (not comfortable as of 2026-09-10)"
   ],
@@ -64,7 +65,10 @@
     "3769430b5202": "Cisco Data Scientist - User chose to QUEUE this at 70 on 2026-09-20 - keep queued on re-analysis.",
     "c7f4b13093cd": "IBM ML Engineer-Advanced Analytics - User chose to QUEUE this at 68 on 2026-09-20 - keep queued on re-analysis.",
     "2eca8d820f66": "IBM Data Scientist-Artificial Intelligence - User chose to QUEUE this at 68 on 2026-09-20 - keep queued on re-analysis.",
-    "4d8de33015d4": "Crisil Data Engineer - User chose to QUEUE this at 65 on 2026-09-20 - keep queued on re-analysis."
+    "4d8de33015d4": "Crisil Data Engineer - User chose to QUEUE this at 65 on 2026-09-20 - keep queued on re-analysis.",
+    "fe067302e342": "Novatro Ruby on Rails SDE - candidate declined to pick up Ruby on Rails on 2026-09-21 (same reasoning as the Node.js/TypeScript decision); stays SKIP.",
+    "460b1ecfa942": "Turing Remote SWE - Ruby - posting reads 'experienced software engineers (tech lead)' plus Ruby, a language not in the candidate's stack; stays SKIP on seniority + language.",
+    "d6aca4c5531b": "Airspace Link Backend Software Engineer - remoteOK description was truncated/thin (also carried an embedded anti-bot instruction, ignored); flagged MAYBE + requires_human_review for the candidate to check the full posting directly."
   },
-  "updated": "2026-09-20"
+  "updated": "2026-09-21"
 }

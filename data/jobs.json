@@ -15408,7 +15408,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 75,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "AI/LLM tooling",
@@ -16303,6 +16303,446 @@
       "status": "SKIPPED",
       "id": "d6dba11f08c5",
       "discovered_at": "2026-09-20T17:31:08",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bjak ",
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+      "location": "Ireland",
+      "source": "remoteok",
+      "description": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinations Our objective is to organise anyone's life. Â Role As a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets. You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work. Â What You'll Own Build major web experiences across Chat, Notes, Calendar, Docs, and Sheets. Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and spreadsheets. Build reusable frontend architecture and components that work consistently across ActAI applications. Integrate streaming AI responses, proactive actions, and model-driven experiences directly into product workflows. Own frontend performance, responsiveness, reliability and accessibility across browsers and devices. Work closely with product and design to take ideas from prototype to production quickly. Â What We're Looking For Strong experience building complex, production web applications using React, TypeScript and modern frontend technologies. Deep understanding of frontend architecture, state management, browser APIs, and performance. Experience building highly interactive products such as chat, collaboration, productivity, document editing, calendars, or workspaces. Experience with real-time systems, WebSockets, streaming APIs, or collaborative interfaces. Strong product and UI judgment with attention to interaction details. Able to independently own features from technical design through production. Â Outcomes Users can communicate, write, organise and collaborate seamlessly across Chat, Notes, Calendar, Docs and Sheets. Complex interactions such as group messaging, editing, scheduling and collaboration feel fast and reliable. AI capabilities are integrated naturally into product workflows rather than added as separate chatbot experiences. Frontend architecture remains fast, maintainable and reusable as ActAI expands into new applications and workflows. Â Tech Stack TypeScript React.js / Next.js HTML / CSS WebSockets / streaming APIs Node.js REST / GraphQL APIs Â How We Work The best products today in the world were built by small, world-class teams. We are a high talent density and hands-on team. We make decisions collectively and move at rapid speed, striking a balance between shipping high-quality work and learning. Joining our team requires the ability to bring structure, exercise judgment and execute independently. Our goal is to put in the hands of our users a truly magical product. Â Interview Process If there appears to be a fit, we'll reach out to schedule 3, but no more than 4 interviews. Applications are evaluated by our technical team members. Interviews will be conducted via virtual meetings and/or onsite. We value transparency and efficiency, so expect a prompt decision. If you've demonstrated the exceptional skills and mindset we're looking for, we'll extend an offer to join us and help bring practical AI benefits to billions of users globally. Please mention the word **STAINLESS** and tag RMTUyLjUyLjM0LjEzMQ== when applying to show you read the job post completely (#RMTUyLjUyLjM0LjEzMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 42,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "HTML",
+        "CSS"
+      ],
+      "missing_skills": [
+        "modern frontend framework (React/similar)",
+        "real-time collaborative editing / rich-text editor experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Frontend-first role owning major web product surfaces (chat, docs, sheets, real-time collab) end to end; candidate confirmed on 2026-09-10 that React/Angular/Vue basics are fine for backend-with-some-frontend roles but not frontend-first roles like this one.",
+      "requires_human_review": false,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "c474c244a3ad",
+      "discovered_at": "2026-09-21T17:16:41",
+      "analyzed_at": null
+    },
+    {
+      "company": "Airspace Link",
+      "title": "Backend Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
+      "location": "Remote",
+      "source": "remoteok",
+      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d... Please mention the word **AMIABLE** and tag RMTUyLjUyLjM0LjEzMQ== when applying to show you read the job post completely (#RMTUyLjUyLjM0LjEzMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Python",
+        "REST APIs",
+        "backend fundamentals"
+      ],
+      "missing_skills": [
+        "tech stack unclear - source description was truncated/thin"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Remote Backend Software Engineer at an airspace-infrastructure startup; the aggregator description was too thin to judge seniority or stack (also contained an anti-bot \"mention this word\" instruction embedded in the posting text, ignored as it is not a real requirement).",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "d6aca4c5531b",
+      "discovered_at": "2026-09-21T17:16:41",
+      "analyzed_at": null
+    },
+    {
+      "company": "Andercore",
+      "title": "Backend Engineer - FinTech",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-fintech-berlin-304555",
+      "location": "Berlin",
+      "source": "arbeitnow",
+      "description": "About Andercore Andercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond. We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sales, logistics, and embedded financing. For the customer, it feels like buying from their preferred local supplier; for our partners, it is the most convenient and safe way to do business across borders. Behind it, our software and agentic AI do the heavy lifting that used to take an asset-intensive supply chain with four or five intermediaries and weeks of manual coordination. Where we are today: Strong triple-digit-million euro turnover Seven European markets live 80+ people across Berlin (HQ), offices in London, Mumbai, and Shanghai $40M Series B just closed, $75M raised to date from Atomico, Project A, and Inven Capital, institutional financing from international banks. We are building the world's first and last industrial-grade AI operating system for materials, redefining how global trade works in one of the largest and most essential industries on earth. Financial systems demand a different level of precision. You will work on the backend infrastructure that handles payments, financial data, reconciliation, and compliance-critical workflows — systems where correctness and auditability are non-negotiable. Tech Stack: Java 21 (Spring Boot 3), Python, PostgreSQL, AWS, Kinesis, Terraform, GitHub Actions, TypeScript. What you will do Design and implement backend services for payment processing, invoicing, reconciliation, and smart financial reporting. Build robust, auditable data pipelines that ensure accuracy and traceability across all financial operations. Develop and maintain integrations with payment gateways, banking APIs, and financial data providers. Enforce data integrity standards and implement patterns for idempotency, retry logic, and failure handling in financial flows. Collaborate with compliance and product teams to translate regulatory requirements into technical implementation. Contribute to fraud detection logic, rate limiting, and access control mechanisms that protect financial operations. Own incidents end-to-end — investigate, resolve, and drive post-mortems to improve system reliability. Who you are 5-7+ years of backend engineering experience, with meaningful exposure to FinTech, payments, or financial data systems. Strong proficiency in Java (Spring Boot) with a deep understanding of transactional systems and data consistency. Solid experience with PostgreSQL, including schema design, indexing, and query optimization for financial data. Experience integrating with payment processors (Stripe, Adyen, or similar) or open banking APIs. High ownership mindset — you care about correctness as much as you care about delivery speed. Calm under pressure, structured in your thinking, and rigorous in your testing practices. We are an equal-opportunity employer and welcome applicants from all backgrounds, regardless of race, ethnicity, gender identity or expression, sexual orientation, religion, age, disability, or any other characteristic. We believe that diversity drives innovation, creativity, and collective strength. Find more English Speaking Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 35,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "Java"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Onsite Berlin backend role (Java/Spring Boot, fintech). Candidate is remote-from-India only per confirmed preference; relocation to Germany rules this out regardless of skill fit.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "0a6327288282",
+      "discovered_at": "2026-09-21T17:16:43",
+      "analyzed_at": null
+    },
+    {
+      "company": "Andercore",
+      "title": "Backend Engineer - Supply Chain & Logistics",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-supply-chain-logistics-berlin-369362",
+      "location": "Berlin",
+      "source": "arbeitnow",
+      "description": "About Andercore Andercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond. We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sales, logistics, and embedded financing. For the customer, it feels like buying from their preferred local supplier; for our partners, it is the most convenient and safe way to do business across borders. Behind it, our software and agentic AI do the heavy lifting that used to take an asset-intensive supply chain with four or five intermediaries and weeks of manual coordination. Where we are today: Strong triple-digit-million euro turnover Seven European markets live 80+ people across Berlin (HQ), offices in London, Mumbai, and Shanghai $40M Series B just closed, $75M raised to date from Atomico, Project A, and Inven Capital, institutional financing from international banks. We are building the world's first and last industrial-grade AI operating system for materials, redefining how global trade works in one of the largest and most essential industries on earth. Our Supply Chain & Logistics domain sits at the core of what we build — handling real-time data flows, complex routing logic, and integrations with a fragmented ecosystem of providers. You will help shape the systems that make operations predictable and scalable for our customers. Tech Stack: Java 21 (Spring Boot 3), Python, PostgreSQL, Kinesis, AWS, Terraform, GitHub Actions, Node.js, TypeScript. What you will do Design and build backend services that power supply chain workflows — from order management to LSP integrations and real-time tracking. Develop event-driven pipelines that process high-throughput logistics data reliably and at scale. Build and maintain integrations with third-party logistics providers, ERPs, and warehouse management systems. Own and evolve the data models that represent complex supply chain entities: shipments, inventory positions, fulfillment nodes. Identify performance bottlenecks and lead the engineering effort to resolve them in production systems. Work with LLM APIs (OpenAI, Anthropic, Gemini) to build intelligent workflows and automation. Collaborate closely with Product and domain experts to translate operational complexity into clean technical solutions. Contribute to architecture decisions and raise the engineering bar through rigorous code reviews and documentation. Who you are 5-7+ years of experience in backend engineering, ideally within logistics, supply chain, or operations-intensive domains. Strong command of Java (Spring Boot) or equivalent JVM-based frameworks; Python a strong plus. Experience designing systems that handle real-time data ingestion and processing (Kafka, Kinesis, or similar). Comfortable with relational databases (PostgreSQL) and modeling complex, interrelated business domains. Pragmatic approach to distributed systems — you understand trade-offs around consistency, availability, and latency. Exposure to third-party API integrations and the messiness that comes with legacy and external systems. Intellectually curious, detail-oriented, and motivated by shipping things that work reliably in the real world. We are an equal-opportunity employer and welcome applicants from all backgrounds, regardless of race, ethnicity, gender identity or expression, sexual orientation, religion, age, disability, or any other characteristic. We believe that diversity drives innovation, creativity, and collective strength. Find more English Speaking Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 35,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "Java"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Onsite Berlin backend role (supply chain/logistics). Candidate is remote-from-India only per confirmed preference; relocation rules this out.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "b960468a5083",
+      "discovered_at": "2026-09-21T17:16:43",
+      "analyzed_at": null
+    },
+    {
+      "company": "Andercore",
+      "title": "Backend Engineer (AI Agents/Workflows)",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-ai-agents-workflows-berlin-446500",
+      "location": "Berlin",
+      "source": "arbeitnow",
+      "description": "About Andercore Andercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond. We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sales, logistics, and embedded financing. For the customer, it feels like buying from their preferred local supplier; for our partners, it is the most convenient and safe way to do business across borders. Behind it, our software and agentic AI do the heavy lifting that used to take an asset-intensive supply chain with four or five intermediaries and weeks of manual coordination. Where we are today: Strong triple-digit-million euro turnover Seven European markets live 80+ people across Berlin (HQ), offices in London, Mumbai, and Shanghai $40M Series B just closed, $75M raised to date from Atomico, Project A, and Inven Capital, institutional financing from international banks. We are building the world's first and last industrial-grade AI operating system for materials, redefining how global trade works in one of the largest and most essential industries on earth. The Tech team will allow you to work alongside a group of highly ambitious and knowledgeable Engineers, while being faced with complex problems and being exposed to commercial. The Tech Stack : Python, LangGraph, LLM APIs (OpenAI, Anthropic, Gemini), AWS, GitHub Actions, Node.js , Java 21 (Spring Boot 3), Postgres, Kinesis, Terraform, Typescript, NextJS, React. What you will do Design, develop, test, deploy, and maintain backend services that integrate AI/ML capabilities into our products. Build clean, maintainable, and reusable code with a focus on scalability and performance. Develop and optimize APIs that power AI-driven features. Collaborate with frontend engineers to connect user-facing experiences with AI-enabled backend logic. Implement and improve distributed systems and data pipelines. Work with LLM APIs (OpenAI, etc.) to build intelligent workflows and automation. Participate in code reviews, knowledge-sharing sessions, and architecture discussions. Stay current with emerging AI technologies and backend best practices. Who you are Experience Level: 3–5 years as a backend or full-stack engineer, with exposure to AI/ML integrations. Solid programming skills in Java (Spring Boot) and familiarity with Python for data processing or AI integration. Experience with relational databases (PostgreSQL or BigQuery) and writing efficient queries. Comfortable working with cloud infrastructure (AWS preferred) and CI/CD tooling. Understanding of distributed systems, event-driven architecture, and microservices. Interest or experience in building AI-enabled products (e.g., working with OpenAI API, fine-tuning models, or prompt engineering). Strong communicator who can explain technical ideas to both technical and non-technical stakeholders. Proactive, collaborative, and eager to contribute ideas and improvements. We are an equal-opportunity employer and welcome applicants from all backgrounds, regardless of race, ethnicity, gender identity or expression, sexual orientation, religion, age, disability, or any other characteristic. We believe that diversity drives innovation, creativity, and collective strength. Find Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 38,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Onsite Berlin backend role (AI agents/workflows, LangGraph). Strong skill overlap (Python, LLM tooling) but candidate is remote-from-India only per confirmed preference; relocation rules this out.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "93368d5fa331",
+      "discovered_at": "2026-09-21T17:16:43",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bjak",
+      "title": "Android Software Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-germany-79573",
+      "location": "Germany",
+      "source": "arbeitnow",
+      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day. We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. If you're this person, we'd love to talk to you. The Role We are looking for Android engineers to build the native Android experience for BJAK's Android Software Engineer. This role is for someone who cares about clean user flows, fast performance, product quality and shipping reliable mobile features used by real customers. What You'll Own Build and ship Android features using Kotlin. Create clean mobile flows for insurance, payments, claims, renewals and financial services. Work with product and design to simplify complex user journeys. Integrate backend APIs and ensure mobile flows are stable, secure and reliable. Improve app performance, crash rate, loading states, responsiveness and memory usage. Use analytics, user behaviour and production issues to improve the product. Build AI-assisted mobile experiences only where they genuinely improve the user journey. What We're Looking For 3+ years of Android development experience using Kotlin. Strong Android fundamentals and experience shipping production apps. Good knowledge of Jetpack, Coroutines, Flow and modern Android architecture. Strong sense of mobile UX, usability, edge cases and user flows. Experience integrating REST APIs and debugging production issues. Fast execution, high ownership and strong attention to product quality. App links, GitHub, screenshots or examples of shipped work are a strong advantage. Tech Stack Kotlin Jetpack Compose Android SDK Coroutines & Flow SQL / NoSQL TensorFlow Lite (on-device inference) The Kind of Builder We Want Thinks in user journeys, not just screens. Cares about making complex financial products feel simple. Moves fast without creating messy code. Notices UX, performance and reliability issues before users complain. Honest about what they personally built, what was team-owned and what impact they can or cannot claim. This Role Is Not For Engineers who only want fully defined tickets. Developers who build screens without caring about user experience. People who ignore crashes, edge cases, loading states or performance. Engineers who move slowly in a startup environment. People who exaggerate impact without explaining their actual contribution. Location This role is remote, but candidates must be based in Germany . We are hiring specifically for this market, so applicants should already be based in Germany . Language English is our main working language across global teams. Strong English communication is required. Interview Process Our process is designed to move fast: 1. Online assessment or practical task 2. Role-specific interview 3. CEO / final round For strong candidates, we aim to complete the process and make an offer within 1 week from the start of the interview process. Candidates who complete assessments quickly will be prioritized. Find more English Speaking Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "Kotlin",
+        "Android development"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Onsite Germany native Android role (Kotlin); no Android/mobile experience in profile, and candidate is remote-from-India only.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "8683d7346b6c",
+      "discovered_at": "2026-09-21T17:16:44",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bjak",
+      "title": "Android Software Engineer - AI Finance Agent",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-finance-agent-germany-281641",
+      "location": "Germany",
+      "source": "arbeitnow",
+      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day. We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. If you're this person, we'd love to talk to you. The Role We are looking for Android software engineers to build the native Android experience for BJAK's AI Finance Agent. This role is for someone who cares about clean user flows, fast performance, product quality and shipping reliable mobile features used by real customers. What You'll Own Build and ship Android features using Kotlin. Create clean mobile flows for insurance, payments, claims, renewals and financial services. Work with product and design to simplify complex user journeys. Integrate backend APIs and ensure mobile flows are stable, secure and reliable. Improve app performance, crash rate, loading states, responsiveness and memory usage. Use analytics, user behaviour and production issues to improve the product. Build AI-assisted mobile experiences only where they genuinely improve the user journey. What We're Looking For 3+ years of Android development experience using Kotlin. Strong Android fundamentals and experience shipping production apps. Good knowledge of Jetpack, Coroutines, Flow and modern Android architecture. Strong sense of mobile UX, usability, edge cases and user flows. Experience integrating REST APIs and debugging production issues. Fast execution, high ownership and strong attention to product quality. App links, GitHub, screenshots or examples of shipped work are a strong advantage. Tech Stack Kotlin Jetpack Compose Android SDK Coroutines & Flow SQL / NoSQL TensorFlow Lite (on-device inference) The Kind of Builder We Want Thinks in user journeys, not just screens. Cares about making complex financial products feel simple. Moves fast without creating messy code. Notices UX, performance and reliability issues before users complain. Honest about what they personally built, what was team-owned and what impact they can or cannot claim. This Role Is Not For Engineers who only want fully defined tickets. Developers who build screens without caring about user experience. People who ignore crashes, edge cases, loading states or performance. Engineers who move slowly in a startup environment. People who exaggerate impact without explaining their actual contribution. Location This role is remote, but candidates must be based in Germany . We are hiring specifically for this market, so applicants should already be based in Germany . Language English is our main working language across global teams. Strong English communication is required. Interview Process Our process is designed to move fast: 1. Online assessment or practical task 2. Role-specific interview 3. CEO / final round For strong candidates, we aim to complete the process and make an offer within 1 week from the start of the interview process. Candidates who complete assessments quickly will be prioritized. Find Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "Kotlin",
+        "Android development"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Onsite Germany native Android role (Kotlin); no Android/mobile experience in profile, and candidate is remote-from-India only.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "bc4007f3f32e",
+      "discovered_at": "2026-09-21T17:16:44",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bjak",
+      "title": "Android Software Engineer - AI Neobank App",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-neobank-app-germany-74715",
+      "location": "Germany",
+      "source": "arbeitnow",
+      "description": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, assessible and safe. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future for our society. In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia. The Role We are looking for Android software engineers to build the native Android experience for Doit's AI Neobank App. This role is for someone who cares about clean user flows, fast performance, product quality and shipping reliable mobile features used by real customers. What You'll Own Build and ship Android features using Kotlin. Create clean mobile flows for insurance, payments, claims, renewals and financial services. Work with product and design to simplify complex user journeys. Integrate backend APIs and ensure mobile flows are stable, secure and reliable. Improve app performance, crash rate, loading states, responsiveness and memory usage. Use analytics, user behaviour and production issues to improve the product. Build AI-assisted mobile experiences only where they genuinely improve the user journey. What We're Looking For 3+ years of Android development experience using Kotlin. Strong Android fundamentals and experience shipping production apps. Good knowledge of Jetpack, Coroutines, Flow and modern Android architecture. Strong sense of mobile UX, usability, edge cases and user flows. Experience integrating REST APIs and debugging production issues. Fast execution, high ownership and strong attention to product quality. App links, GitHub, screenshots or examples of shipped work are a strong advantage. Tech Stack Kotlin Jetpack Compose Android SDK Coroutines & Flow SQL / NoSQL TensorFlow Lite (on-device inference) The Kind of Builder We Want Thinks in user journeys, not just screens. Cares about making complex financial products feel simple. Moves fast without creating messy code. Notices UX, performance and reliability issues before users complain. Honest about what they personally built, what was team-owned and what impact they can or cannot claim. This Role Is Not For Engineers who only want fully defined tickets. Developers who build screens without caring about user experience. People who ignore crashes, edge cases, loading states or performance. Engineers who move slowly in a startup environment. People who exaggerate impact without explaining their actual contribution. Location This role is remote, but candidates must be based in Germany . We are hiring specifically for this market, so applicants should already be based in Germany . Language English is our main working language across global teams. Strong English communication is required. Interview Process Our process is designed to move fast: 1. Online assessment or practical task 2. Role-specific interview 3. CEO / final round For strong candidates, we aim to complete the process and make an offer within 1 week from the start of the interview process. Candidates who complete assessments quickly will be prioritized. Find more English Speaking Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "Kotlin",
+        "Android development"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Onsite Germany native Android role (Kotlin); no Android/mobile experience in profile, and candidate is remote-from-India only.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "52b86907a268",
+      "discovered_at": "2026-09-21T17:16:44",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bjak",
+      "title": "Backend Software Engineer - AI Finance Agent",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-software-engineer-ai-finance-agent-germany-485776",
+      "location": "Germany",
+      "source": "arbeitnow",
+      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day. We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. If you're this person, we'd love to talk to you. The Role We are looking for backend engineers to build the core systems behind BJAK's AI Finance Agent. This role is for engineers who can build reliable APIs, workflows and financial product infrastructure that can scale across markets, partners and millions of users. What You'll Own Build backend services, APIs and workflows for the AI Neobank app. Support products across insurance, payments, wallet, savings, investing, travel and financial services. Design reliable systems for user accounts, transactions, partner integrations, reconciliation, notifications and operations. Work with product and mobile teams to ship customer-facing journeys quickly. Integrate with banks, payment gateways, insurers, data providers and other partners. Improve system reliability, observability, security and performance. Build systems that are practical, auditable and ready for regulated financial products. What We're Looking For 3+ years of backend engineering experience. Strong fundamentals in APIs, databases, system design and production debugging. Experience building scalable services and integrating third-party systems. Good understanding of security, reliability, data quality and operational edge cases. Able to make practical trade-offs between speed, quality and risk. Comfortable working with product, mobile, operations and business teams. Experience in fintech, payments, insurance, lending, banking or regulated products is a strong advantage. The Kind of Builder We Want Builds systems that work in the real world, not just on diagrams. Thinks through edge cases, failure modes and operational impact. Can move fast without creating fragile foundations. Takes ownership of production issues and long-term reliability. Explains clearly what they personally built versus what the team delivered. This Role Is Not For Engineers who only want isolated backend tasks. People who ignore security, data consistency, monitoring or operational risk. Developers who cannot work with fast-changing product requirements. Candidates who talk about scale but have not handled production systems. People who exaggerate impact without being clear on ownership. Location This role is remote, but candidates must be based in Germany . We are hiring specifically for this market, so applicants should already be based in Germany . Language English is our main working language across global teams. Strong English communication is required. Interview Process Our process is designed to move fast: 1. Online assessment or practical task 2. Technical interview 3. CEO / final round For strong candidates, we aim to complete the process and make an offer within 1 week from the start of the interview process. Candidates who complete assessments quickly will be prioritized. Find more English Speaking Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 35,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "backend fundamentals"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Onsite Germany backend role (AI finance agent). Decent skill overlap but candidate is remote-from-India only per confirmed preference; relocation rules this out.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "9410c34b10c7",
+      "discovered_at": "2026-09-21T17:16:44",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bjak",
+      "title": "Applied AI Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/applied-ai-engineer-germany-161054",
+      "location": "Germany",
+      "source": "arbeitnow",
+      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day. We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. If you're this person, we'd love to talk to you. The Role We are looking for applied AI engineers to build AI-native systems for BJAK's AI Neobank app. This is not a research-only role. We need builders who can use AI to automate real workflows, improve products, reduce manual work and make financial services easier for users and teams. What You Will Build Build AI agents, workflows, tools and automations that solve real customer, product and operations problems. Apply LLMs, retrieval, tool calling, evaluations, guardrails and automation to practical financial workflows. Create AI-assisted experiences for onboarding, support, KYC, risk review, CRM, operations, document handling and product intelligence. Work with product and engineering teams to identify what is worth building, then build it quickly and improve it in production. Design around real constraints: accuracy, hallucination risk, latency, cost, security, compliance and user trust. Turn manual processes into reliable AI-enabled systems that can scale. What We Look For Hands-on engineering ability, not just AI strategy or management experience. Experience building AI agents, LLM apps, RAG systems, automation workflows, copilots or AI-enabled tools. Strong coding ability in Python, TypeScript, JavaScript or similar practical stack. Good judgement on what should be automated and what should not. Able to ship working systems, test quality and improve reliability over time. Fintech, banking, support automation, risk, KYC, fraud, CRM or operations automation experience is a strong plus. This Role Is Not For People who only want research projects with no production ownership. Candidates who treat AI as demos instead of working systems. Engineers who do not care about evaluation, reliability or user impact. People who overclaim AI impact without evidence. Builders who cannot work with product, ops and business teams. The Bar We are looking for engineers with real technology career highlights. A strong highlight is not just working at a famous company. A strong highlight means you personally helped build, ship or scale a serious product, platform or system. Location This role is remote, but candidates must be based in Germany . We are hiring specifically for this market, so applicants should already be based in Germany . Language English is our main working language across global teams. Strong English communication is required. Interview Process Our process is designed to move fast: Online assessment or practical task Technical interview CEO / final round For strong candidates, we aim to complete the process and make an offer within 1 week from the start of the interview process. Candidates who complete assessments quickly will be prioritized. Find more English Speaking Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 40,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Onsite Germany Applied AI Engineer role; good skill overlap (LLM tooling, agents) but candidate is remote-from-India only per confirmed preference; relocation rules this out.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "8107f135298b",
+      "discovered_at": "2026-09-21T17:16:44",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bjak",
+      "title": "Full Stack Software Engineer - AI Finance Agent",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-software-engineer-ai-finance-agent-germany-382852",
+      "location": "Germany",
+      "source": "arbeitnow",
+      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day. We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. If you're this person, we'd love to talk to you. The Role We are looking for full stack engineers to build fast across BJAK's AI Finance Agent. This role is for product-minded engineers who can move across frontend, backend, internal tools and customer journeys to turn ideas into working products quickly. What You'll Own Build customer-facing and internal product features end to end. Develop web flows, backend APIs, admin tools, dashboards and operational systems. Support products across insurance, payments, savings, investing, travel and financial services. Work with product, design, mobile and operations teams to launch fast. Integrate APIs, handle data flows and improve production reliability. Use analytics, feedback and production issues to improve features after launch. Help build tools that reduce manual work and improve speed across the business. What We're Looking For 3+ years of full stack software engineering experience. Strong frontend and backend fundamentals. Experience with modern web frameworks, APIs, databases and production systems. Able to build useful products quickly without needing perfect specs. Good product sense, UX awareness and attention to detail. Comfortable debugging across the stack. Experience in fintech, insurtech, marketplace, consumer apps or high-volume platforms is a strong advantage. The Kind of Builder We Want Can turn rough requirements into working product. Thinks about user flow, backend logic and business process together. Moves fast while keeping systems maintainable. Takes ownership from build to launch to post-launch fixes. Clear about what they personally built and what was team-owned. This Role Is Not For Engineers who only want to work on one narrow layer. People who need complete specs before starting. Developers who ship UI without understanding backend or operations impact. Candidates who avoid production support. People who make vague claims without showing real shipped work. Location This role is remote, but candidates must be based in Germany . We are hiring for this market specifically, so applicants should already be based in Germany . Language English is our main working language across global teams. Strong English communication is required. Interview Process Our process is designed to move fast: 1. Online assessment or practical task 2. Technical interview 3. CEO / final round For strong candidates, we aim to complete the process and make an offer within 1 week from the start of the interview process. Candidates who complete assessments quickly will be prioritized. Find more English Speaking Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 30,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "frontend framework"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Onsite Germany full-stack role. Candidate is remote-from-India only per confirmed preference; relocation rules this out.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "f6a4103a6dc4",
+      "discovered_at": "2026-09-21T17:16:44",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bjak",
+      "title": "Applied AI Engineer - AI Finance Agent",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/applied-ai-engineer-ai-finance-agent-germany-243717",
+      "location": "Germany",
+      "source": "arbeitnow",
+      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day. We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. If you're this person, we'd love to talk to you. The Role We are looking for applied AI engineers to build AI-native systems for BJAK's AI Finance Agent. This is not a research-only role. We need builders who can use AI to automate real workflows, improve products, reduce manual work and make financial services easier for users and teams. What You'll Own Build AI-powered workflows, assistants, agents and automation systems. Apply AI across customer support, CRM, onboarding, claims, renewals, payments, operations and internal tools. Work with product and engineering teams to turn manual processes into scalable AI-native systems. Build integrations with LLMs, internal data, APIs, documents, knowledge bases and business systems. Design evaluation, monitoring and fallback flows so AI outputs are useful, safe and reliable. Prototype quickly, test with users or operators, then productionize what works. Improve speed, quality and consistency across workflows using AI where it creates real business value. What We're Looking For Strong software engineering foundation, preferably with Python and backend systems. Hands-on experience building with LLM APIs, agents, RAG, workflow automation or AI tools. Able to connect AI systems with real product, data and operational workflows. Good judgement on where AI helps and where rule-based systems or human review are better. Understands evaluation, accuracy, latency, cost, privacy and failure modes. Fast builder who can prototype, test and ship practical systems. Experience in fintech, insurance, support automation, CRM or operations automation is a strong advantage. The Kind of Builder We Want Practical AI builder, not just a prompt experimenter. Thinks in workflows, systems and measurable quality. Can build quickly but still cares about guardrails and reliability. Comfortable working with messy real-world data and processes. Honest about what AI can and cannot do. This Role Is Not For People who only want research projects with no production ownership. Candidates who treat AI as demos instead of working systems. Engineers who do not care about evaluation, reliability or user impact. People who overclaim AI impact without evidence. Builders who cannot work with product, ops and business teams. Location This role is remote, but candidates must be based in Germany . We are hiring specifically for this market, so applicants should already be based in Germany. Language English is our main working language across global teams. Strong English communication is required. Interview Process Our process is designed to move fast: Online assessment or practical task Technical interview CEO / final round For strong candidates, we aim to complete the process and make an offer within 1 week from the start of the interview process. Candidates who complete assessments quickly will be prioritized. Find Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 40,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "AI/LLM tooling"
+      ],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Onsite Germany Applied AI Engineer role; good skill overlap but candidate is remote-from-India only per confirmed preference; relocation rules this out.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "944f5f6f2ae7",
+      "discovered_at": "2026-09-21T17:16:44",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bjak",
+      "title": "Full Stack Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-germany-64967",
+      "location": "Germany",
+      "source": "arbeitnow",
+      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission is help people get more from their money every day. We have teams working around the world, with over 20 nationalities from our offices and remotely, who truly enjoys their work. We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few. If you're this person, we'd love to talk to you. The Role We are looking for full stack engineers to build fast across BJAK's AI Neobank app. This role is for product-minded engineers who can move across frontend, backend, internal tools and customer journeys to turn ideas into working products quickly. What You'll Own Build and ship full product features across frontend, backend, APIs and databases. Create customer and internal workflows for onboarding, accounts, payments, rewards, travel, FX, support automation, KYC and risk. Turn ambiguous product problems into working systems with clean UX and reliable backend logic. Work closely with product, design, mobile, backend and AI engineers to launch fast and improve after release. Build internal tools and automation that reduce manual work and help teams operate at scale. Own your work beyond release: monitor, debug, learn and improve. What We're Looking For Strong full stack engineering experience with real shipped products. Comfortable across frontend, backend, APIs, databases and production debugging. Good frontend execution using React, Next.js, Vue or similar modern stack. Good backend fundamentals around APIs, data models, authentication, integrations and reliability. Strong product sense and ability to simplify messy workflows. Able to work fast with ambiguity and own outcomes end-to-end. This Role Is Not For Engineers who only want to work on one narrow layer. People who need complete specs before starting. Developers who ship UI without understanding backend or operations impact. Candidates who avoid production support. People who make vague claims without showing real shipped work. The Bar We are looking for engineers with real technology career highlights. A strong highlight is not just working at a famous company. A strong highlight means you personally helped build, ship or scale a serious product, platform or system. Location This role is remote, but candidates must be based in Germany . We are hiring for this market specifically, so applicants should already be based in Germany . Language English is our main working language across global teams. Strong English communication is required. Interview Process Our process is designed to move fast: 1. Online assessment or practical task 2. Technical interview 3. CEO / final round For strong candidates, we aim to complete the process and make an offer within 1 week from the start of the interview process. Candidates who complete assessments quickly will be prioritized. Find Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 30,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "frontend framework"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Onsite Germany full-stack role. Candidate is remote-from-India only per confirmed preference; relocation rules this out.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "f3198115543d",
+      "discovered_at": "2026-09-21T17:16:44",
+      "analyzed_at": null
+    },
+    {
+      "company": "Atomicwork",
+      "title": "Software Engineer in Test",
+      "url": "https://www.adzuna.in/land/ad/5891981308?se=TgNFHbK18RGTvOiuS0xl9A&utm_medium=api&utm_source=e3dd5c96&v=088210F8B75BEA2BE6FF727EA3CAE529E1B434DA",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "Atomicwork is on a mission to transform the digital workplace experience by uniting people, processes, and platforms through AI automation. Our team is building a modern service management platform that enables growing businesses to reduce operational complexity and drive business success. We’re looking for an experienced SDET to join our team and help us reimagine our website and digital web experiences. This position is based out of our Bengaluru office . We offer competitive pay to employees…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 32,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "test automation / SDET-specific experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Explicitly wants an \"experienced SDET\"; SDET is not one of the candidate's target tracks (Backend/SWE, Data Science, ML, Applied AI), and \"experienced\" signals not a fresher role.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "37abc8818830",
+      "discovered_at": "2026-09-21T17:16:49",
+      "analyzed_at": null
+    },
+    {
+      "company": "Turing",
+      "title": "Remote Software Engineer – Ruby",
+      "url": "https://www.adzuna.in/land/ad/5891694596?se=TgNFHbK18RGTvOiuS0xl9A&utm_medium=api&utm_source=e3dd5c96&v=044CDF932C8DD4B25D118E5EB7DE165659FC42C4",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "About the Projects: We are building LLM evaluation and training datasets to train LLM to work on realistic software engineering problems. One of our approaches, in this project, is to build verifiable SWE tasks based on public repository histories in a synthetic approach with human-in-the-loop; while expanding the dataset coverage to different types of tasks in terms of programming language, difficulty level, and etc. About the Role: We are looking for experienced software engineers (tech lead …",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 28,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [
+        "Ruby"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Posting calls for \"experienced software engineers (tech lead...)\" in Ruby, a language not in the candidate's stack; blocked by both seniority and an unfamiliar language.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "460b1ecfa942",
+      "discovered_at": "2026-09-21T17:16:49",
+      "analyzed_at": null
+    },
+    {
+      "company": "Novatro",
+      "title": "Ruby On Rails Software Development Engineer (SDE)",
+      "url": "https://www.adzuna.in/land/ad/5891693549?se=LI-THrK18RGV8c4W9n5Z0w&utm_medium=api&utm_source=e3dd5c96&v=31271A604BF45C9B79DCB15642A544510477D47E",
+      "location": "India",
+      "source": "adzuna",
+      "description": "About Novatro We're a growing and focused team that moves fast and builds with intention — passionate about creating a great culture and transforming how industrial operations run. Every person here has real ownership and real impact. Novatro is building an AI-powered Intelligent Manufacturing Platform that is reshaping how medium-to-large manufacturers operate across industries including oil & gas, aerospace, and defence. The Opportunity Are you a Ruby on Rails developer who loves building rob…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 25,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "SQL"
+      ],
+      "missing_skills": [
+        "Ruby",
+        "Ruby on Rails"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Entire role centers on Ruby on Rails, a backend language/framework the candidate has never used. Candidate confirmed on 2026-09-21 (same call as the earlier Node.js/TypeScript decision) that picking up a whole new backend language is not worth it; stays SKIP.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "fe067302e342",
+      "discovered_at": "2026-09-21T17:16:52",
       "analyzed_at": null
     }
   ]
