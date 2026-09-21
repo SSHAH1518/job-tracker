@@ -1,0 +1,31 @@
+{
+  "_comment": "Tracks outcome of the cold-outreach email pass over data/cold_outreach.json (drafted by Claude Code, sent only after explicit user confirmation per email). status: 'NO_EMAIL_ROUTE' = no usable inbox in cold_outreach.json (ats_portal/linkedin_ta/form only), 'DRAFTED' = Gmail draft created, resume not yet attached, awaiting user confirmation to send, 'SENT' = user confirmed and email was sent, 'SKIPPED' = user declined to send.",
+  "updated": "2026-09-21",
+  "outreach": [
+    { "company": "Iris Software Inc.", "status": "NO_EMAIL_ROUTE", "note": "contact_type: linkedin_ta - no public email; named contact found 2026-09-21: Surabhi Tiwari (HR, Noida) - LinkedIn message target only" },
+    { "company": "D. E. Shaw India", "status": "SENT", "email": "recruiting.india@deshaw.com", "gmail_draft_id": "r5776059969988109958" },
+    { "company": "Qure.ai", "status": "SENT", "email": "careers@qure.ai", "gmail_draft_id": "r5693998273614123839" },
+    { "company": "Hevo Data", "status": "BOUNCED", "email": "careers@hevodata.com", "gmail_draft_id": "r-6308593831084026656", "note": "Gmail audit 2026-09-21: delivery failed - mailer-daemon reports 550 5.1.1 address not found. careers@hevodata.com does not exist; need an alternate route (hevodata.com/careers portal or a different contact) before retrying." },
+    { "company": "Happay", "status": "SENT", "email": "careers@happay.in", "gmail_draft_id": "r-44659648568655458" },
+    { "company": "Rusk Media", "status": "SENT", "email": "careers@ruskmedia.com", "gmail_draft_id": "r6597694665911665864" },
+    { "company": "Eightfold AI", "status": "SENT", "email": "india@eightfold.ai", "gmail_draft_id": "r7231238468555745869", "note": "general office inbox, not dedicated recruiting - lower confidence" },
+    { "company": "QiCAP.AI (QICAP Markets LLP)", "status": "SENT", "email": "careers@qi-cap.com", "gmail_draft_id": "r255716435600575417" },
+    { "company": "Enveritas", "status": "SENT", "email": "jobs@enveritas.org", "gmail_draft_id": "r-7437878514868870363", "note": "Gmail audit 2026-09-21: received a reply same-day from no-reply@enveritas.org (\"Thank You for Your Interest in Enveritas\") - declined, they are pursuing other candidates." },
+    { "company": "Deeter Analytics", "status": "NO_EMAIL_ROUTE", "note": "contact_type: ats_portal - checked 2026-09-21, no public recruiter email or named contact found; Ashby board remains the only route" },
+    { "company": "Darukaa.Earth", "status": "SENT", "email": "ankita.dasgupta@darukaa.com", "gmail_draft_id": "r7978484368866655923" },
+    { "company": "Even Healthcare", "status": "NO_EMAIL_ROUTE", "note": "contact_type: ats_portal - checked 2026-09-21, no public recruiter email or named contact found" },
+    { "company": "Jivox", "status": "NOT_SENT", "email": "careers@jivox.com", "note": "Upgraded to email 2026-09-21 (found on a real Jivox job posting via salary.com) - not independently confirmed on Jivox's own site; not yet drafted/sent" },
+    { "company": "Yugabyte", "status": "NO_EMAIL_ROUTE", "note": "contact_type: linkedin_ta - named contacts found 2026-09-21: Shruthi Nagaraj (TA Lead - India) and Maria Siddiqui (Principal TA Partner) - LinkedIn message targets only, no email" },
+    { "company": "Scapia", "status": "NOT_SENT", "email": "careers@scapia.cards", "note": "Upgraded to email 2026-09-21, MEDIUM CONFIDENCE ONLY (couldn't be confirmed on a primary page - see cold_outreach.json notes); verify before sending" },
+    { "company": "Ribbon Communications", "status": "NOT_SENT", "email": "globalhr@rbbn.com", "note": "Upgraded to email 2026-09-21 (found directly on Ribbon's own careers page) - global/US-oriented HR inbox, not India-specific; not yet drafted/sent" },
+    { "company": "Piramal (Group / Pharma / Finance)", "status": "NO_EMAIL_ROUTE", "note": "contact_type: ats_portal - checked 2026-09-21, only senior HR leadership named publicly, not useful for cold outreach" },
+    { "company": "LENS Corporation", "status": "NOT_SENT", "email": "solutions@lenscorp.ai", "note": "Identity resolved 2026-09-21: this is lenscorp.ai (explainable-AI firm, Gurugram), not Lenskart. solutions@lenscorp.ai is their general contact inbox, confirmed on their own site; not yet drafted/sent" },
+    { "company": "Porter (theporter.in)", "status": "SENT", "email": "info@porter.in", "gmail_draft_id": "r-258059099780047784", "note": "general inbox, not recruiting - lower confidence" },
+    { "company": "Harness.io", "status": "NO_EMAIL_ROUTE", "note": "contact_type: ats_portal - re-confirmed 2026-09-21, site states apply direct only, no email route" },
+    { "company": "Apple", "status": "NO_EMAIL_ROUTE", "note": "contact_type: ats_portal - checked 2026-09-21, only address found is for accommodation requests, not cold outreach" },
+    { "company": "Procter & Gamble (P&G)", "status": "NO_EMAIL_ROUTE", "note": "contact_type: ats_portal - checked 2026-09-21, campus program, portal-only" },
+    { "company": "PwC US Advisory (India / AC)", "status": "NOT_SENT", "email": "in_campus_connect@pwc.com", "note": "Upgraded to email 2026-09-21, MEDIUM CONFIDENCE ONLY (couldn't be confirmed on primary page - see cold_outreach.json notes); verify before sending" },
+    { "company": "A.T. Kearney (Kearney)", "status": "NO_EMAIL_ROUTE", "note": "contact_type: ats_portal - checked 2026-09-21, only a DACH-region contact found, not applicable to India" },
+    { "company": "TELUS Digital / TELUS International AI", "status": "NO_EMAIL_ROUTE", "note": "contact_type: linkedin_ta - named contact found 2026-09-21: Nagesh Panchal (Team Lead, Talent Acquisition) - email was masked/unusable, LinkedIn message target only" }
+  ]
+}
