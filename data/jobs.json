@@ -15366,7 +15366,7 @@
       "reason": "Data Scientist at HDFC Bank, a major Indian bank; solid DS-track match. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "7a4e9b10f952",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
@@ -15419,10 +15419,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Data Engineer - Python, AI role at Citi matches the candidate's Python/AI-tooling skill set well. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
+      "reason": "Data Engineer - Python, AI role at Citi matches the candidate's Python/AI-tooling skill set well. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis. | Candidate reviewed and chose to skip this application on 2026-09-21.",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "5f602fd4cdf0",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
@@ -15620,7 +15620,7 @@
       "reason": "Data Scientist at Cisco, a major tech company in Bengaluru; solid DS-track match. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "3769430b5202",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
@@ -15648,7 +15648,7 @@
       "reason": "ML Engineer role at IBM matches the ML-engineering track well. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "c7f4b13093cd",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
@@ -15677,7 +15677,7 @@
       "reason": "Data Scientist-AI role at IBM matches both the DS and Applied AI tracks. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "2eca8d820f66",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
@@ -15766,7 +15766,7 @@
       "reason": "Data Engineer at Crisil, an established analytics/research firm the candidate has already applied to for a different role. | Candidate chose to queue this despite being just under the auto-apply bar on 2026-09-20; bumped to 75 so it clears requeue and stays queued on re-analysis.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "4d8de33015d4",
       "discovered_at": "2026-09-20T17:28:51",
       "analyzed_at": null
