@@ -1019,6 +1019,21 @@
       "date_applied": "2026-09-09",
       "created_at": "2026-09-21T00:00:00",
       "updated_at": "2026-09-21T00:00:00"
+    },
+    {
+      "job_id": "bab3b3de9d03",
+      "company": "JPMorganChase",
+      "role": "Applied AI ML Analyst",
+      "status": "APPLIED",
+      "match_score": 82,
+      "resume": "machine_learning.pdf",
+      "application_url": "https://www.linkedin.com/jobs/view/4467978553",
+      "notes": "Submitted manually by candidate on 2026-09-22 after reviewing the queued match.",
+      "questions": [],
+      "id": "app_bab3b3de9d03",
+      "date_applied": "2026-09-22",
+      "created_at": "2026-09-22T00:00:00",
+      "updated_at": "2026-09-22T00:00:00"
     }
   ]
 }

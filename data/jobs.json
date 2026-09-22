@@ -16755,7 +16755,7 @@
       "remote": true,
       "employment_type": "",
       "match_score": 82,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "SQL",
@@ -16773,10 +16773,10 @@
         "Neuriot",
         "Tata 1mg"
       ],
-      "reason": "Explicit entry-level/fresher data science internship, remote in India, core stack (Python, SQL, statistics, ML) matches the profile directly.",
+      "reason": "Explicit entry-level/fresher data science internship, remote in India, core stack (Python, SQL, statistics, ML) matches the profile directly. | Candidate chose to SKIP on 2026-09-22 after reviewing the queued match.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "2d13ba2ea95d",
       "discovered_at": "2026-09-21T20:35:16",
       "analyzed_at": null
@@ -16791,7 +16791,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 76,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "SQL"
@@ -16805,10 +16805,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Citi 'Officer' grade is an entry-level/campus-hire title in India, not a senior role; Python & SQL core stack matches. No JD text was available (alert-derived listing), so domain fit is unverified.",
+      "reason": "Citi 'Officer' grade is an entry-level/campus-hire title in India, not a senior role; Python & SQL core stack matches. No JD text was available (alert-derived listing), so domain fit is unverified. | Candidate chose to SKIP on 2026-09-22 after reviewing the queued match.",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "1ccad0981b9f",
       "discovered_at": "2026-09-21T20:35:16",
       "analyzed_at": null
@@ -16910,7 +16910,7 @@
       "remote": true,
       "employment_type": "",
       "match_score": 85,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "Java",
@@ -16924,10 +16924,10 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Explicit entry-level/fresher software developer internship, remote in India, stack (Python, Java, SQL, Git) matches the profile directly.",
+      "reason": "Explicit entry-level/fresher software developer internship, remote in India, stack (Python, Java, SQL, Git) matches the profile directly. | Candidate reported the posting could not be found (closed/removed) when reviewing on 2026-09-22; SKIPPED.",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "37234f72f197",
       "discovered_at": "2026-09-21T20:35:16",
       "analyzed_at": null
@@ -17063,7 +17063,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 78,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "data analysis",
@@ -17079,10 +17079,10 @@
         "Neuriot",
         "Tata 1mg"
       ],
-      "reason": "Entry-level 'Analyst' title at an India Global Capability Center (United Airlines), Data Science track fit; GCCs commonly run fresher/2027-batch pipelines.",
+      "reason": "Entry-level 'Analyst' title at an India Global Capability Center (United Airlines), Data Science track fit; GCCs commonly run fresher/2027-batch pipelines. | Candidate chose to SKIP on 2026-09-22 after reviewing the queued match.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
-      "status": "QUEUED",
+      "status": "SKIPPED",
       "id": "b565733c6380",
       "discovered_at": "2026-09-21T20:35:16",
       "analyzed_at": null
@@ -17176,7 +17176,7 @@
       "reason": "Analyst-level Applied AI/ML role directly matches the Applied AI/GenAI track; JPMorgan India runs large fresher/analyst pipelines.",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
-      "status": "QUEUED",
+      "status": "APPLIED",
       "id": "bab3b3de9d03",
       "discovered_at": "2026-09-21T20:35:16",
       "analyzed_at": null
