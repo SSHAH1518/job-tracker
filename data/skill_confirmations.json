@@ -2,7 +2,9 @@
   "confirmed": [
     "React / Angular / Vue — basics, can ramp in 2-3 weeks (fine for backend-with-some-frontend roles, not frontend-first roles)",
     "AWS / GCP + Docker + CI/CD — learning now, basics OK (fine for intern/junior; not senior infra/platform roles)",
-    "Java + Spring Boot — core Java yes, would ramp the Spring ecosystem on the job"
+    "Java + Spring Boot — core Java yes, would ramp the Spring ecosystem on the job",
+    "Django — can ramp quickly given Flask/REST-API experience",
+    "dbt / Airflow / data-warehousing pipeline tooling — can ramp quickly given SQL/pandas background"
   ],
   "ruled_out": [
     "Node.js / TypeScript backend",
@@ -73,7 +75,9 @@
     "1ccad0981b9f": "Citi Product Developer Analyst - Python & SQL - Officer - candidate chose to SKIP on 2026-09-22 after reviewing the queued match.",
     "37234f72f197": "Crossing Infotech Software Developer Intern - candidate reported the posting could not be found (closed/removed) on 2026-09-22; SKIPPED.",
     "b565733c6380": "United Airlines India Knowledge Center Analyst - Data Scientist - candidate chose to SKIP on 2026-09-22 after reviewing the queued match.",
-    "bab3b3de9d03": "JPMorganChase Applied AI ML Analyst - APPLIED by candidate 2026-09-22."
+    "bab3b3de9d03": "JPMorganChase Applied AI ML Analyst - APPLIED by candidate 2026-09-22.",
+    "956b70aa92ec": "Instant Mechanic Python & Django Intern - candidate confirmed on 2026-09-23 he can ramp Django quickly given Flask experience; scored APPLY.",
+    "d3c99ae7afdf": "Neve Jewels Group Analytics Engineer - candidate confirmed on 2026-09-23 he can ramp dbt/Airflow-style data-warehousing tooling given SQL/pandas background; scored APPLY."
   },
-  "updated": "2026-09-22"
+  "updated": "2026-09-23"
 }
