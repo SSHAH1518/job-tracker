@@ -17694,7 +17694,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 86,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "pandas",
@@ -17709,7 +17709,7 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Data Science & AI Engineering internship at Philips directly matches ML/DS coursework and the Neuriot forecasting internship.",
+      "reason": "Candidate checked the posting directly on 2026-09-23: requires 4+ years experience despite the Intern title; stays SKIP.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
       "status": "APPLIED",
@@ -17787,7 +17787,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 80,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "REST APIs",
@@ -17799,7 +17799,7 @@
       "relevant_experience": [
         "Tata 1mg"
       ],
-      "reason": "Backend SDE Internship matches the candidate's Flask/REST-API backend experience from Tata 1mg directly.",
+      "reason": "Candidate checked the posting directly on 2026-09-23: no longer accepting applications; stays SKIP.",
       "requires_human_review": false,
       "resume_hint": "software_engineering.pdf",
       "status": "APPLIED",
@@ -17899,7 +17899,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 78,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "ML"
@@ -17911,7 +17911,7 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Explicitly junior-level ('Jr, ML Engineer') role at a major bank matching ML/Python skillset and target seniority.",
+      "reason": "Candidate checked the posting directly on 2026-09-23: no longer accepting applications; stays SKIP.",
       "requires_human_review": false,
       "resume_hint": "machine_learning.pdf",
       "status": "APPLIED",
@@ -18171,7 +18171,7 @@
       "remote": false,
       "employment_type": "",
       "match_score": 76,
-      "recommendation": "APPLY",
+      "recommendation": "SKIP",
       "matching_skills": [
         "Python",
         "pandas",
@@ -18184,7 +18184,7 @@
       "relevant_experience": [
         "Neuriot"
       ],
-      "reason": "Data Scientist - Performance Analytics matches statistical/forecasting background from Neuriot.",
+      "reason": "Candidate checked the posting directly on 2026-09-23: requires 4+ years experience; stays SKIP.",
       "requires_human_review": false,
       "resume_hint": "data_science.pdf",
       "status": "APPLIED",
