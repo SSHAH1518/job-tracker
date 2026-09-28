@@ -18515,6 +18515,272 @@
       "id": "be5c6e03bf4d",
       "discovered_at": "2026-09-23T18:04:07",
       "analyzed_at": null
+    },
+    {
+      "company": "Prenosis",
+      "title": "Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+      "location": "Remote",
+      "source": "remoteok",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi... Please mention the word **STELLARLY** and tag RMTUyLjUyLjM0LjEzMQ== when applying to show you read the job post completely (#RMTUyLjUyLjM0LjEzMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "remote": true,
+      "employment_type": "",
+      "match_score": 55,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Software engineering fundamentals",
+        "Backend development"
+      ],
+      "missing_skills": [
+        "Go (Golang)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Prenosis (AI precision-medicine) remote SWE, 'probably worldwide' per remoteOK, tagged Golang. Description is truncated so level and requirements are unknown; Go is not in the profile. Candidate should read the full posting before deciding (remoteOK description also carried an anti-spam keyword instruction aimed at applicants, not acted on).",
+      "requires_human_review": true,
+      "resume_hint": "software_engineering.pdf",
+      "status": "SKIPPED",
+      "id": "d157a1ef943d",
+      "discovered_at": "2026-09-28T16:32:45",
+      "analyzed_at": null
+    },
+    {
+      "company": "Speechmatics",
+      "title": "ML Data & Platform Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechmatics/ml-data-platform-engineer-cambridge-284072",
+      "location": "Cambridge",
+      "source": "arbeitnow",
+      "description": "<p>We're looking for an ML Data &amp; Platform Engineer to own the infrastructure that powers our speech AI models: the pipelines that source and prepare training data, and the platform that trains, evaluates, and serves them in production. Speech AI has a data problem most ML teams don't, and you'll be at the centre of solving it, working as part of our ML team to remove friction across the entire lifecycle and get better models into production faster.</p>\n<p>This is a broad, cross-functional role suited to someone who enjoys working across the full stack: data infrastructure, distributed systems, and production ML, and who takes ownership of problems end to end rather than waiting to be told what to fix.</p>\n<p><strong>What you'll do</strong></p>\n<ul>\n<li>Designing, building, and maintaining scalable data pipelines for ingesting, transforming, validating, and storing large datasets used to train our models</li>\n<li>Developing and maintaining web scraping and data acquisition solutions to keep training datasets fresh, high-quality, and available at scale</li>\n<li>Building and operating the infrastructure that lets the ML team deploy and evaluate new models quickly, and that serves models efficiently and reliably in production</li>\n<li>Optimising infrastructure for both iteration speed and production reliability, including GPU utilisation, job scheduling, and training efficiency</li>\n<li>Implementing observability (monitoring, logging, alerting) across data pipelines and ML systems to catch issues early and keep things running smoothly</li>\n<li>Troubleshooting complex issues across distributed systems, spanning data infrastructure, training, and inference</li>\n<li>Continuously improving our data and MLOps practices, and helping shape the roadmap for how our platform evolves as we scale</li>\n</ul>\n<p><strong>What you'll need</strong></p>\n<ul>\n<li>Strong proficiency in Python and SQL, with a solid backend or data engineering foundation</li>\n<li>Hands-on experience with containerisation and orchestration (Docker, Kubernetes), and working with a major cloud provider</li>\n<li>Experience building data pipelines and ETL/ELT processes at scale, including web scraping or automated data collection</li>\n<li>A solid understanding of the ML lifecycle, from data through to model training, evaluation, and serving</li>\n<li>Experience with data quality practices (validation, cleaning, normalisation) and/or production-grade observability</li>\n<li>Ability to design resilient, scalable architectures, and comfort operating and troubleshooting distributed systems</li>\n<li>MLOps experience, for example model serving, experiment tracking, GPU/distributed training optimisation, or reproducible ML workflows</li>\n<li>A self-starter mentality: comfortable identifying problems and driving fixes without needing detailed direction</li>\n</ul><div class=\"content-conclusion\"><p><em><span class=\"ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\">We encourage you to apply even if you do not feel you match all of the requirements exactly. The list of requirements is intended to show the kinds of experience and qualities we’re looking for, but it is not exhaustive. If you are interested in the role, the team, and our mission, we would love to consider your application. We are always open to conversations and look forward to hearing from you.</span></em></p>\n<p><strong>Who we are:</strong></p>\n<p class=\"p1\">Speechmatics is the leading expert in Speech Intelligence, and uses AI and Machine Learning to unlock business value in human speech worldwide. We work with an amazing mix of global companies, and our technology can integrate into our customers stack irrespective of their industry or use case – making it the go-to solution to harness useful information from speech.</p>\n<p class=\"p1\">Joining us means working with some of the smartest minds around the world, focused on cutting-edge projects and deploying the latest techniques to disrupt the market. We believe in putting people first; we’ll do all we can to help you develop your skills and give you the tools you need to thrive. Our Focus Fridays give you an undisturbed day of focus, offset with Together Tuesdays when we have our team meetings, so you've always got the right balance.</p>\n<p class=\"p1\">We have structured a hybrid approach that includes 2-3 designated office days each week. This arrangement ensures that while we embrace the advantages of remote work, we also maintain the vital connection and synergy that only in-person interactions can foster.</p>\n<p class=\"p1\">This is only the beginning; we’re looking for amazing people like you to continue our journey…</p>\n<p class=\"p1\"><strong>What we can offer you:<br></strong></p>\n<p class=\"p1\">No matter what stage of your career you’re at - from paid internships and first-job opportunities through to management and senior positions - we’ll support you with the training and development needed to reach your career aspirations with us. There really is no shortage of opportunities here for you to get involved and collaborate with those around you to deliver your best work.</p>\n<p class=\"p1\">We offer incredibly flexible working, regular company lunches, and birthday celebrations. But that’s not all. We’ve spoken to our teams to find out what they want. From Private Medical, and Dental for you and your family, through to global working opportunities, a generous holiday allowance and pension/401K matching, we want to make sure our employees and their families are looked after. Every employee will receive a working from home allowance for tech or home office equipment (on top of your choice of laptop and accessories of course). Our approach to parental leave is designed to support employees globally. While this varies by geo, we have support in place for parents (including adoption assistance and reproductive health services) to ensure they have the time and financial resources needed to care for their growing families.</p>\n<p><strong>At Speechmatics, our mission is simple: Understand Every Voice out there.</strong>&nbsp;</p>\n<p>That's not just about our tech – it's the heart and soul of who we are.&nbsp;We welcome different experiences, viewpoints, and identities. For us, it’s not just the right thing to do; it’s our catalyst for sparking innovation and creativity. Our teams thrive in an environment that celebrates and supports everyone – no matter their gender, identity or expression, race, disability, age, sexual orientation, religion, belief, marital status, national origin, veteran status, pregnancy, or maternity status.</p>\n<p>But we don’t just open the door to diversity – we actively welcome it. Why? Because we believe every unique voice adds something special to our team, leading us to smarter solutions and a better workplace.</p>\n<p><strong>So, come as you are and join our Speechling community.</strong> We’re building a place where every voice not only gets heard but is also respected and valued.</p>\n<p>For more information on us<sub>,&nbsp;</sub>please visit&nbsp;<a href=\"https://www.speechmatics.com/\">our website</a> and follow Speechmatics on our social channels via&nbsp;<a href=\"https://twitter.com/Speechmatics/\">Twitter</a>, <a href=\"https://www.facebook.com/speechmatics/\">Facebook</a>, <a href=\"https://www.linkedin.com/company/speechmatics/\">LinkedIn</a>, and <a href=\"https://www.youtube.com/channel/UCaZUN77-Wq0XQg5ICHLxKVw/\">YouTube.</a></p>\n<h5><strong><em>We rely on legitimate interest as a legal basis for processing personal information under the GDPR for purposes of recruitment and applications for employment.&nbsp;</em></strong></h5>\n<h5><span style=\"color: #ffffff;\"><strong>#LI-Hybrid</strong></span></h5></div> Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 30,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python",
+        "SQL",
+        "Data pipelines"
+      ],
+      "missing_skills": [
+        "Kubernetes",
+        "MLOps",
+        "GPU/distributed training",
+        "Production cloud experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Neuriot",
+        "Tata 1mg"
+      ],
+      "reason": "Onsite in Cambridge, UK (candidate is remote-from-India only) and wants an experienced ML platform/MLOps engineer - both known gaps.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "f271384f1f59",
+      "discovered_at": "2026-09-28T16:32:46",
+      "analyzed_at": null
+    },
+    {
+      "company": "Ddome",
+      "title": "Software Engineer (Integrations)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ddome/software-engineer-integrations-185679",
+      "location": "",
+      "source": "arbeitnow",
+      "description": "<h1><strong>DataDome delivers real-time bot and agent trust management, giving businesses complete visibility and control over all traffic—human, bot, or AI. Named a Leader in The Forrester Wave™ for Bot And Agent Trust Management Q2 2026, DataDome is trusted by enterprises like Etsy, PayPal, and Soundcloud. Acting as a traffic control plane, DataDome's multi-layered AI engine leverages thousands of models and 5 trillion signals daily to analyze intent and stop fraud in under 2 milliseconds—letting legitimate users through seamlessly across websites, apps, APIs, and MCPs. Backed by a 24/7 SOC and expert threat researchers, DataDome stops 20k+ attacks every second. With 30+ global PoPs, and 80+ ready-made integrations, DataDome is a recognized Leader on G2 across several categories—delivering protection that outperforms.</strong></h1>\n<h1><strong>⭐ </strong><strong>About the team</strong></h1>\n<p><strong>DataDome's Integrations team</strong> is responsible for delivering the software components integrated by our customers to send traffic to DataDome for analysis and run challenges on clients identified as threats. The team is currently made up of <strong>8 engineers (server-side and client-side)</strong> and is looking for a <strong>Senior Software Engineer</strong> who thrives on technical challenges and will help us develop new integrations and improve our current ones.</p>\n<p>You will contribute to our roadmap with your teammates and work in strong collaboration with product managers and engineers across different teams (Tech, Customer Experience, Solutions Engineering).</p>\n<h1>👤 <strong>As a Senior Software Engineer (Integrations)…</strong></h1>\n<p><strong>🔑 You will be in charge of:</strong></p>\n<ul>\n<li><strong>Developing and maintaining DataDome's JavaScript Tag</strong>, our client-side integration deployed across hundreds of customer websites, with a focus on performance, resilience, security, and privacy. You will care about Core Web Vitals and the impact of our tag on customer pages. This will be your primary area of focus.</li>\n<li><strong>Building and improving server-side integration modules</strong> for JavaScript-based edge platforms and runtimes such as <strong>AWS Lambda@Edge, Cloudflare Workers, Fastly Compute</strong>, Node.js, and others.</li>\n<li><strong>Taking ownership of backend integration modules</strong> in other languages (Python, Go, Java, Ruby), helping customers integrate DataDome into their server-side infrastructure.</li>\n<li><strong>Driving technical direction and best practices</strong> for integration components, and mentoring other engineers on the team.</li>\n<li><strong>Raising the bar on code quality and release standards</strong> by driving improvements in CI/CD pipelines, testing, performance, and security across all integration components.</li>\n<li><strong>Providing technical expertise</strong> to our Support and Solutions Engineering teams (Tier 2/3) to help onboard customers and resolve complex integration challenges.</li>\n<li><strong>Staying on the cutting edge</strong> by monitoring technological developments in web technologies, edge computing, and server-side runtimes, and proposing improvements to our integrations accordingly.</li>\n<li><strong>Managing incidents and post-incident reviews</strong> related to integration components.</li>\n</ul>\n<h1>🎯 <strong>You will be the perfect candidate if you:</strong></h1>\n<ul>\n<li>Have <strong>at least 5 years of professional software engineering experience</strong>.</li>\n<li>Have <strong>strong JavaScript/TypeScript skills</strong>, including familiarity with modern web standards and server-side JS runtimes.</li>\n<li>Have <strong>solid working proficiency in at least one other backend language</strong> (Python, Go, Java, Ruby).</li>\n<li>Have a good understanding of <strong>web protocols and standards</strong> (HTTP, TCP, cookies, DNS, TLS).</li>\n<li>Are able to <strong>assess trade-offs across different integration approaches</strong> and propose solutions that scale.</li>\n<li>Have experience <strong>mentoring other engineers or driving technical decisions</strong> within a team.</li>\n<li>Care about <strong>performance, code quality, and automation</strong>.</li>\n<li>Have worked with <strong>CI/CD tools</strong>.</li>\n<li>Are comfortable working across different <strong>codebases, languages, and platforms</strong> rather than specializing in a single stack.</li>\n<li>Are willing to <strong>learn and adopt new technologies</strong> regularly.</li>\n<li>Have good <strong>communication skills</strong> and are fluent in <strong>English</strong>.</li>\n<li>Are a <strong>team player</strong> who enjoys collaborating with others and contributing to a supportive team culture.</li>\n</ul>\n<h1>📈 <strong>Bonus points if you:</strong></h1>\n<ul>\n<li>Have experience with <strong>edge computing platforms</strong> (Cloudflare Workers, AWS Lambda@Edge, Fastly Compute, Deno Deploy, Vercel Edge Functions, etc.).</li>\n<li>Have worked with <strong>CDNs, load balancers, or web servers</strong>.</li>\n<li>Have experience with <strong>cloud providers</strong> such as AWS or GCP.</li>\n<li>Understand the inner workings of <strong>browsers and JavaScript engines</strong>.</li>\n<li>Are familiar with <strong>ECMAScript and Web standards</strong>.</li>\n<li>Have experience with <strong>security topics</strong> such as CSP, iframe sandboxing, bot detection, or web application security.</li>\n<li>Have worked on <strong>compilers and/or parsers</strong>.</li>\n<li>Have prior experience in <strong>cryptography</strong>.</li>\n<li>Have developed your own <strong>bots</strong>.</li>\n</ul>\n<h1>🚀 <strong>Career path</strong></h1>\n<p>This role is designed to grow into a <strong>Staff Engineer</strong> position within the Integrations team. You will progressively take on broader technical ownership across the team's scope, influence architectural decisions, and become a key technical reference for both internal teams and customers.</p>\n<h1>By joining DataDome, you will have access to:</h1>\n<ul>\n<li><strong>Flex Life:</strong> This position is <strong>open to fully remote candidates based anywhere in France</strong>. You can also work from our Parisian office located next to the Opera Garnier, or go hybrid. You will receive a 500€ stipend to help you set up your ideal workspace if you work hybrid or remotely.\n<ul>\n<li>If you are full remote, the SNCF discount card is paid for you to come to our office to visit us &amp; your team!</li>\n</ul>\n</li>\n<li><strong>Generous Health Benefits:</strong> We have partnered with Kenko for your healthcare needs.</li>\n<li>A 100€ annual allowance is provided for a leisure activity of your choice in Sports or Culture.</li>\n<li>Annual allowance of 200€ if you come to the office by bike to cover maintenance costs.</li>\n<li><strong>Professional Development</strong>: #WeAimHigh is part of our DNA, therefore we have invested in an internal Learning and Development platform and offer the opportunity to request additional training and support via your manager.</li>\n<li><strong>Events &amp; Team building:</strong> Feel the Team Spirit both virtually and onsite, with several events and workshops planned throughout the year, including an annual offsite event, quarterly online and offline events and parties, lunch &amp; learns, and much more.</li>\n<li><strong>Parent Care:</strong> Gift &amp; care packages for parents.</li>\n<li><strong>PTO:</strong> Based on the country you are based in (e.g. 25 days in France).</li>\n</ul>\n<h1><strong>What are the next steps?</strong></h1>\n<ol>\n<li>The Talent Acquisition Manager will contact you for a first chat</li>\n<li>You will then meet with Dara (Engineering Manager)</li>\n<li>You will complete a technical test</li>\n<li>The final step will be a one-on-one meeting with Gilles (CTO)</li>\n<li>Welcome to DataDome!</li>\n</ol>\n<hr>\n<p>&nbsp;</p>\n<p><em>DataDome is an equal opportunity employer, and proud to be committed to diversity and inclusion. We will consider all qualified applicants without regard to race, color, nationality, gender, gender identity or expression, sexual orientation, religion, disability or age.</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p> Find more English Speaking Jobs in France on Arbeitnow",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 15,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "JavaScript/TypeScript",
+        "Edge runtimes",
+        "Node.js",
+        "Senior-level ownership/mentoring"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Body explicitly hires a Senior Software Engineer for DataDome's JS Tag and edge integrations; seniority plus Node/TS (ruled out) make it a poor fit.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "ce1dd2826a6c",
+      "discovered_at": "2026-09-28T16:32:46",
+      "analyzed_at": null
+    },
+    {
+      "company": "Dashlane",
+      "title": "Software Engineer - Security Features",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dashlane/software-engineer-security-features-paris-169603",
+      "location": "Paris",
+      "source": "arbeitnow",
+      "description": "<div class=\"content-intro\"><p><strong>About Dashlane</strong></p>\n<p style=\"margin-left: 0.0in;\">Dashlane’s mission is to deliver the credential security every business and employee needs to thrive. Millions of consumers, and over 25,000 brands worldwide, such as Michelin, Air France, and Forrester, trust Dashlane for industry-leading innovations, patented zero-knowledge security, and an unmatched user experience. Founded in Paris, Dashlane has since established offices in New York and Lisbon, and has grown to more than 300 Dashlaners globally.</p>\n<p style=\"margin-left: 0.0in;\">We're looking for people who actively use AI tools to drive efficiency, creativity, and impact in their work. At Dashlane, we drive innovation and value learning, strive for excellence in everything we do, and thrive as one team. Learn more about&nbsp;<a href=\"https://lifeatdashlane.com/\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">life at Dashlane</u></a>, including <a href=\"https://lifeatdashlane.com/how-we-work\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">how we work</u></a>, <a href=\"https://lifeatdashlane.com/how-we-hire\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">how we hire</u></a>, and the <a href=\"https://lifeatdashlane.com/benefits-dashlane\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"link\"><u data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name=\"underline\">benefits of being a Dashlaner</u></a>.</p>\n<p style=\"margin-left: 0.0in;\">&nbsp;</p></div><h4 id=\"About-the-role\" data-local-id=\"af64b56f6739\" data-renderer-start-pos=\"2595\">About the role:</h4>\n<p data-renderer-start-pos=\"2611\" data-local-id=\"8bd73118e13e\">We are looking for a <strong data-renderer-mark=\"true\">Backend Software Engineer</strong> with a strong security background to join our <strong data-renderer-mark=\"true\">product development team based in Paris</strong>, which focuses on building innovative features to <strong data-renderer-mark=\"true\">enrich the security protection</strong> for both our B2B and B2C users.</p>\n<p data-renderer-start-pos=\"2859\" data-local-id=\"dbce58f7e920\">The goal of the team is to research and build product capabilities that improve user protection, strengthen identity and access controls, reduce security risks, and raise the overall security posture of the Dashlane experience. In this role, you will design, build, and operate backend services that power security-sensitive features, working in close partnership with product, design, infrastructure, and the Security organization.</p>\n<p data-renderer-start-pos=\"3293\" data-local-id=\"57ec8dcb5bb8\">This role is a strong fit for an engineer who has already built security-relevant product features in a SaaS environment, understands application security fundamentals, and can contribute pragmatically to secure, scalable backend systems.</p>\n<p data-renderer-start-pos=\"1968\" data-local-id=\"2dd823a4153c\"><strong>Location:</strong></p>\n<p data-renderer-start-pos=\"1968\" data-local-id=\"2dd823a4153c\">You will be based in Paris, with English as your working language. At Dashlane, we embrace a hybrid culture that combines the best of both worlds: the creativity and energy of in-person collaboration with the flexibility of remote work. Our model is designed to strengthen team connections while supporting individual productivity and work-life balance. To maximize collaboration, we come together in the office on Mondays, Tuesdays, and Thursdays, while Wednesdays and Fridays offer more flexibility for focused work.</p>\n<h4 id=\"What-you-will-do\" data-local-id=\"47c9fa8ec0d4\" data-renderer-start-pos=\"3577\">At Dashlane you will:&nbsp;</h4>\n<ul class=\"ak-ul\" data-local-id=\"a80b7d47d63e\" data-indent-level=\"1\">\n<li>\n<p data-renderer-start-pos=\"3597\" data-local-id=\"f8f0cc0799c1\">Research, design, implement, and maintain backend services that support user-protection features across B2B and B2C products.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"3726\" data-local-id=\"a622a42c305e\">Build features related to identity, authentication, access control, threat prevention, and other security-sensitive user journeys.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"3860\" data-local-id=\"88e686f66264\">Work closely with the Product team and the Security team to assess new opportunities, translate security requirements and risk assessments into effective product features.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"4035\" data-local-id=\"6221f99ccb5f\">Contribute to threat modeling activities and apply security best practices throughout the software development lifecycle.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"4160\" data-local-id=\"8bfe816a465e\">Help improve the resilience of systems against common attack patterns such as account abuse, privilege misuse, insecure integrations, and identity-related vulnerabilities.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"4335\" data-local-id=\"bd40c3246521\">Participate in architecture discussions and make pragmatic trade-off decisions that balance security, usability, maintainability, and delivery speed.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"4488\" data-local-id=\"3a9cfeda94ca\">Write high-quality, well-tested, maintainable code and support services in production with appropriate observability and operational ownership.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"4635\" data-local-id=\"468fbbbd6b3b\">Collaborate with cross-functional stakeholders to deliver security features that are technically sound and valuable to customers.</p>\n</li>\n</ul>\n<h4 id=\"Our-stack\" data-local-id=\"2eaee8eef9f0\" data-renderer-start-pos=\"4768\">Our stack:</h4>\n<ul class=\"ak-ul\" data-local-id=\"98be242c65cd\" data-indent-level=\"1\">\n<li>\n<p data-renderer-start-pos=\"4781\" data-local-id=\"640e725b3082\"><strong data-renderer-mark=\"true\">Backend:</strong> Node.js, TypeScript</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"4813\" data-local-id=\"9ee9ae117ea8\"><strong data-renderer-mark=\"true\">Infrastructure:</strong> AWS, <span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_1mT5xdRAKS\"><span class=\"_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH\" data-testid=\"definition-highlighter\">ECS</span></span></span>, <span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_1mT5xdRAKS\"><span class=\"_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH\" data-testid=\"definition-highlighter\">RDS</span></span></span>, Redis, S3</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"4857\" data-local-id=\"9ef737510f7a\"><strong data-renderer-mark=\"true\">Tooling:</strong> GitLab, Terraform, SonarQube</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"4898\" data-local-id=\"de7833bb927f\"><strong data-renderer-mark=\"true\">Observability:</strong> ELK, Datadog</p>\n</li>\n</ul>\n<h4 id=\"Requirements\" data-local-id=\"2989d6371e0c\" data-renderer-start-pos=\"4929\">Requirements:</h4>\n<ul class=\"ak-ul\" data-local-id=\"971d63e77695\" data-indent-level=\"1\">\n<li>\n<p data-renderer-start-pos=\"4945\" data-local-id=\"ab63c58efab7\">Professional experience as a backend software engineer, with hands-on delivery of production systems in a SaaS or similarly cloud-based environment.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"5097\" data-local-id=\"441b31060b85\">Strong curiosity about security-related topics</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"5147\" data-local-id=\"58abb30a59e0\">Strong experience building features that protect users and improve product security.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"5235\" data-local-id=\"0d4dba65c526\">Solid understanding of application security best practices, including secure design principles and threat modeling.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"5354\" data-local-id=\"e794063497c0\">Experience working closely with a <span data-highlighted=\"true\" data-vc=\"highlighted-text\">CISO</span>, Security team, or equivalent security stakeholders.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"5449\" data-local-id=\"affdc983cfe2\">Proficiency in backend development with modern languages and frameworks, ideally Node.js and TypeScript.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"5557\" data-local-id=\"a9da6266ebdc\">Experience designing APIs, integrating external systems, and operating services in production.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"5655\" data-local-id=\"7ff2e98bf80f\">Good communication skills and the ability to work effectively in a cross-functional environment, particularly with Web/Client engineers, Product Managers, and Product designers.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"5836\" data-local-id=\"3a10f2aad933\">Fluency in English.</p>\n</li>\n</ul>\n<h4 id=\"Nice-to-have\" data-local-id=\"8a480f4ed6a8\" data-renderer-start-pos=\"5859\">We're also looking for:</h4>\n<ul class=\"ak-ul\" data-local-id=\"3abfd2642487\" data-indent-level=\"1\">\n<li>\n<p data-renderer-start-pos=\"5875\" data-local-id=\"2c4bbc77926f\">Strong knowledge in cryptography</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"5911\" data-local-id=\"498c19ee1c4e\">Familiarity with Identity and Access Management frameworks and protocols, such as Passkeys, <span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_1mT5xdRAKS\"><span class=\"_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH\" data-testid=\"definition-highlighter\">SAML</span></span></span>, OAuth, <span data-highlighted=\"true\" data-vc=\"highlighted-text\"><span class=\"_1mT5xdRAKS\"><span class=\"_0nmozVaHVx _2V7sgO2M4S _3BoeIDwZ7G _30zrXRyxdf _0ReiIH7zJH\" data-testid=\"definition-highlighter\">SCIM</span></span></span>, or similar experience in working with other security-related features</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"6095\" data-local-id=\"46bb545a6191\">Experience building enterprise security features for administrators and managed business environments.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"6201\" data-local-id=\"b430fefbce6f\">Experience with authentication hardening, account recovery flows, access governance, or fraud and abuse prevention.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"6320\" data-local-id=\"9ec8d38a240b\">Familiarity with modern passwordless authentication patterns and user identity lifecycle management.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"6424\" data-local-id=\"a30a0bc1f450\">Experience contributing to security reviews, incident follow-ups, or remediation plans.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"6515\" data-local-id=\"ecf0fa1bddc1\">Exposure to consumer-scale and business-scale product constraints in the same environment.</p>\n</li>\n</ul>\n<h4 id=\"What-success-looks-like\" data-local-id=\"dd124770b95a\" data-renderer-start-pos=\"6609\">What success looks like:</h4>\n<ul class=\"ak-ul\" data-local-id=\"f7a611f50e1c\" data-indent-level=\"1\">\n<li>\n<p data-renderer-start-pos=\"6636\" data-local-id=\"663f4d03056e\">You deliver backend capabilities that measurably improve user protection and security outcomes.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"6735\" data-local-id=\"06282afee734\">You contribute to a strong engineering partnership with the Security organization from early design through production rollout.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"6866\" data-local-id=\"e66543bb5645\">You help the new team establish high standards for secure development, system ownership, and practical execution.</p>\n</li>\n<li>\n<p data-renderer-start-pos=\"6983\" data-local-id=\"f5a35625e63b\">You make complex security topics understandable to non-specialists and help turn them into product value.</p>\n</li>\n</ul><div class=\"content-conclusion\"><p><strong>Diversity, Equity, Inclusion and Belonging at Dashlane:</strong></p>\n<p>As a truly international company—founded in France and <span style=\"color: #172b4d;\">distributed across</span> France, US and Portugal—Dashlane thrives off diverse perspectives. We value all aspects of diversity: gender identity, sexual orientation, ability, ethnic origin, social background, age, lifestyle, and more. We are committed to hiring a diverse community and fostering a culture where everyone is heard and belongs. See more about this <a href=\"https://lifeatdashlane.com/diversity\">here</a>.&nbsp;</p>\n<p><strong><span style=\"color: #000000;\"><span class=\"inline-comment-marker\" data-ref=\"d1c12b7e-4df1-44c5-a10f-2644909c66db\">Your interview experience:</span>&nbsp;</span></strong></p>\n<p>To know what to expect once you’ve sent your application, <a href=\"https://lifeatdashlane.com/how-we-hire\" target=\"_blank\">read about how we interview and hire at Dashlane</a>. Feel free to browse our blog to find more information about our product and how we work.</p></div> Find more English Speaking Jobs in France on Arbeitnow",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 20,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Backend development",
+        "Python"
+      ],
+      "missing_skills": [
+        "Security engineering background",
+        "Production backend experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "Paris-based onsite backend role for an engineer who has already built security-relevant products; location is outside the remote-from-India constraint and the level is experienced.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "b1a52af83877",
+      "discovered_at": "2026-09-28T16:32:46",
+      "analyzed_at": null
+    },
+    {
+      "company": "Bettermile",
+      "title": "Backend Engineer - (Kotlin, Spring, AWS) - Better Places (d/f/m)",
+      "url": "https://www.arbeitnow.com/jobs/companies/bettermile/backend-engineer-kotlin-spring-aws-better-places-berlin-475926",
+      "location": "Better Place, Oranienstraße 183, Berlin",
+      "source": "arbeitnow",
+      "description": "What is working at Bettermile like? We mean it when we say “cutting edge” and have a high level of creative freedom in our everyday work You will be surrounded by like-minded, driven, skilled, and highly motivated people who are keen to contribute to successful solutions We mean diversity, and we put it in numbers: 130+ people, 40 languages, 40% female (vs. ø26% in the tech industry), ø33 years of age, and yes, we do have Schlager-Fans among us We have a very supportive and appreciative working environment with a lot of autonomy, a flat hierarchy, and professional growth possibilities We work in a hybrid mode, with weekly team days for better collaboration and nurturing interpersonal connections. When onsite, we work in a modern, kid- and pet-friendly Better Space in the heart of Berlin-Kreuzberg Remote work from anywhere for up to 12 weeks in total per year 30 vacation days in a 5-day/week working model Kindergarten grant and a Company Pension scheme Regular team breakfasts, fitness & wellness classes, company runs, and other events. Fruits, snacks, drinks, and coffee with a variety of milk are a given - but yes, we have them Outstanding flexibility we are proud of – and, of course, the best colleagues in the world! About the team: Location services are at the heart of any delivery experience, and the Features team of Better Places tribe is building a world-class solution that integrates multiple providers to get accurate geocoding, enables geocode corrections, and serves relevant information about addresses worldwide. We use open-source and proprietary data and algorithms to build a highly scalable system that serves billions of requests yearly. You will be taking care of Building and taking end-to-end ownership of new features across our Kotlin-based backend microservices Deploying features and scaling systems via Infrastructure as Code (IaC) Partnering with product owners, fellow engineers, and cross-functional teams to clarify requirements, clear blockers, and drive initiatives forward Jumping into a dynamic team environment to refine our engineering practices and actively shape a tribe and product transformation as we evolve our backend architecture for the future Looking beyond existing solutions to actively identify architectural bottlenecks and drive meaningful improvements Our Tech Stack: Backend Services: Kotlin, Spring Boot, Relational Databases (PostgreSQL), AWS (ECS, SQS, Eventbridge, EC2), Infrastructure as Code (Pulumi) You check these boxes A background in computer science and software engineering, including a minimum of 3 years of backend experience Proficiency in Kotlin or deep production experience in Java with a strong affinity for Kotlin, along with frameworks like Spring Boot and build tools like Gradle Skilled in architectural design, specifically building fault-tolerant, high-throughput distributed systems Hands-on cloud experience with AWS and Infrastructure as Code (IaC) tools such as Terraform or Pulumi A commitment to clean code and engineering best practices, including RESTful/API design, Git, and maintainable technical documentation A hands-on, data-driven mindset that actively builds new capabilities, challenges the status quo with clear evidence, and adds distinct, complementary perspectives to the team Proficiency in Business English Please Note: Reactive programming is an important part of the day-to-day work in this role. Professional experience is not required , but we expect some familiarity, curiosity, and willingness to learn and work with it. It will also be part of the technical interview process , so we recommend getting familiar with the basics beforehand. Our stack includes Spring WebFlux, Kotlin Coroutines, and Flow . It is awesome if you also have Hands-on experience with asynchronous programming using Kotlin Coroutines and reactive data streams (e.g., Flow, RxJava, Project Reactor) Practical know-how in taking ML models and productionizing them within backend services Knowledge or practical experience with geospatial data processing Take your chance Be a part of shaping a fast-growing industry and make an impact from day one. You’ll have the chance to take on responsibility early, with guidance and support from experienced mentors. We foster a learning culture, collaboration on equal footing, and quick decision-making that moves things forward. Currently, we’re proceeding only with candidates authorized to work in Germany or who already hold a Job Seeker Visa. About us At Bettermile, we believe delivery shouldn’t be business as usual. We’re transforming last-mile logistics to drive efficiency and create a better delivery experience for everyone. Our geo-based, AI-powered SaaS product handles complex address processing, dynamic routing, and navigation. It is built to manage many stops and multiple constraints. We’re setting a new standard for the last mile and pushing the industry forward, powered by a skilled, international team of tech enthusiasts, logistics experts, and a product suite designed to keep evolving. Find more English Speaking Jobs in Germany on Arbeitnow",
+      "remote": false,
+      "employment_type": "Full Time",
+      "match_score": 10,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Backend development"
+      ],
+      "missing_skills": [
+        "Kotlin",
+        "3+ years backend",
+        "AWS/IaC (Pulumi/Terraform)"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Berlin hybrid role requiring a minimum of 3 years backend experience in Kotlin/Spring - fails on seniority and location.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "f15604d97c4c",
+      "discovered_at": "2026-09-28T16:32:46",
+      "analyzed_at": null
+    },
+    {
+      "company": "eBay",
+      "title": "Storage Software Engineer",
+      "url": "https://www.adzuna.in/land/ad/5888967518?se=FDtXLiy78RG3jpCv9xpWmA&utm_medium=api&utm_source=e3dd5c96&v=0CC2861177A69BBD58414B183824109696DE5AFD",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with eBay, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At eBay, we're more than a global ecommerce leader - we're changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We're committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our cu…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 48,
+      "recommendation": "MAYBE",
+      "matching_skills": [
+        "Software engineering fundamentals"
+      ],
+      "missing_skills": [
+        "Storage/distributed-systems depth",
+        "Likely C/C++/Linux systems"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [
+        "Tata 1mg"
+      ],
+      "reason": "eBay Bangalore storage-platform SWE; description truncated so experience level is unknown, and full-time roles like this usually expect a near-term joiner while the candidate graduates June 2027. Storage internals are outside the profile.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "407b700f1730",
+      "discovered_at": "2026-09-28T16:32:57",
+      "analyzed_at": null
+    },
+    {
+      "company": "Kyndryl",
+      "title": "Software Engineer - AMS Support",
+      "url": "https://www.adzuna.in/land/ad/5896317321?se=UPIFMiy78RGQqo_68jUqzg&utm_medium=api&utm_source=e3dd5c96&v=83931A657BCAEEF7878D04AE20F7E114F79CD1B0",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "This job is with Kyndryl, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world's leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edg…",
+      "remote": false,
+      "employment_type": "full_time",
+      "match_score": 30,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "SQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "Application maintenance/support experience"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Kyndryl AMS (application maintenance) support role - an ops/support track rather than SWE/DS, with unclear seniority and a likely immediate start; not a target track.",
+      "requires_human_review": true,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "a41c6c1cadde",
+      "discovered_at": "2026-09-28T16:33:01",
+      "analyzed_at": null
+    },
+    {
+      "company": "CareerXperts Consulting",
+      "title": "Software Engineer – Javascript / TypeScript | React | 3–6 Years | Backend Exposure",
+      "url": "https://www.adzuna.in/land/ad/5898129675?se=POSxNCy78RGGQ9u1mQKVdw&utm_medium=api&utm_source=e3dd5c96&v=E127D2D46E96E4A1E4D99F862110FF4B5A7FDB24",
+      "location": "Bangalore, Karnataka",
+      "source": "adzuna",
+      "description": "We are looking for a strong Software Engineer with deep frontend expertise in React and JavaScript/TypeScript , along with practical experience working on backend systems and APIs. This is a frontend-heavy engineering role , where you will build production-grade web applications, contribute to frontend architecture and performance, and own features end-to-end. The ideal candidate should also be comfortable working across the backend when required — building or modifying APIs, working with Node.…",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 10,
+      "recommendation": "SKIP",
+      "matching_skills": [
+        "Backend APIs"
+      ],
+      "missing_skills": [
+        "React (frontend-first)",
+        "JavaScript/TypeScript",
+        "Node.js",
+        "3-6 years"
+      ],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Frontend-heavy React/TypeScript role asking for 3-6 years; seniority mismatch, and Node/TS backend is ruled out.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "9fcf9f25efdd",
+      "discovered_at": "2026-09-28T16:33:06",
+      "analyzed_at": null
+    },
+    {
+      "company": "usijobs.deloitte.com",
+      "title": "Deloitte | India Offices of the US",
+      "url": "https://usijobs.deloitte.com/en_US/careersUSI",
+      "location": "",
+      "source": "seed_url_browser",
+      "description": "Job Search | Deloitte | India Offices of the US Skip to content Deloitte | India Offices of the US Menu Home Jobs Entry level Experienced Events Login Welcome to Careers at Deloitte What impact will you make? It’s your career, your life, and your choice. Deloitte gives you the opportunity to work with the best and explore what works best for you. Your experience will be hands-on, in-the-field, and side-by-side. Refine your search Search for open positions Keywords State City Job Category Job Category Experience level Business area Country Commercial or GPS Business Group Search Disclaimer The job openings shown on this website may include openings on behalf of Deloitte Touche Tohmatsu Limited, its network of member firms, and their related entities. If you would like to view job openings for other Deloitte member firms, please visit our global careers site . Join Deloitte Meet Our People Our people and our culture make Deloitte a place where leaders thrive. Get an inside look at the rich diversity of background, education, and experiences of our people. Read more Careers Life at Deloitte Blog The Life at Deloitte blog shares information to help you learn about Deloitte. It includes articles about our people, our culture, job opportunities, events, and more. Read more 695 jobs 1 2 3 4 5 6 Next >> Deloitte USI - Growth - Analyst | Hyderabad Deloitte I Deloitte US – India Offices | Deloitte Support Services India Private Limited | Hyderabad, Telangana, India Assocaite II - Firm Risk, Compliance, and Governance Services- Hyderabad Deloitte I Deloitte US – India Offices | Deloitte Support Services India Private Limited | Hyderabad, Telangana, India Australia Tax Technology services – Consultant - Applied AI engineer Deloitte I Deloitte US – India Offices | Deloitte Tax Services India Private Limited | Hyderabad, Telangana, India End User Support - Associate Services Specialist I - Bangalore Deloitte I Deloitte US – India Offices | Deloitte Consulting India Private Limited | Bengaluru, Karnataka, India Senior Manager, Tax Services-Belgium-Stat Accounting- Hyderabad Deloitte I Deloitte US – India Offices | Deloitte Tax Services India Private Limited | Multiple Locations Client Cyber Engineer - Senior Manager Deloitte I Deloitte US – India Offices | Deloitte & Touche Assurance and Enterprise Risk Services India Private Limited | Multiple Locations Oracle PAAS Admin Consultant Deloitte I Deloitte US – India Offices | Deloitte Consulting India Private Limited | Multiple Locations Deloitte USI – Sales – Strategy and Operations – Specialist | Hyderabad Deloitte I Deloitte US – India Offices | Deloitte Support Services India Private Limited | Hyderabad, Telangana, India Tax Consultant II analyst - UK Individual Tax  Private Client Services (PCS) - Hyderabad / Bangalore/ Gurugram/ Kolkata Deloitte I Deloitte US – India Offices | Deloitte Tax Services India Private Limited | Multiple Locations Audit & Assurance | ESC | Associate Senior Assistant Deloitte I Deloitte US – India Offices | Deloitte & Touche Assurance and Enterprise Risk Services India Private Limited | Hyderabad, Telangana, India 1 2 3 4 5 6 Next >> Disclaimer The job openings shown on this website may include openings on behalf of Deloitte Touche Tohmatsu Limited, its network of member firms, and their related entities. If you would like to view job openings for other Deloitte member firms, please visit our global careers site . Join Deloitte Meet Our People Our people and our culture make Deloitte a place where leaders thrive. Get an inside look at the rich diversity of background, education, and experiences of our people. Read more Careers Life at Deloitte Blog The Life at Deloitte blog shares information to help you learn about Deloitte. It includes articles about our people, our culture, job opportunities, events, and more. Read more About Deloitte Cookies Privacy Safe harbor Terms of use © 2026. See Terms of Use for more information. Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (\"DTTL\"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as \"Deloitte Global\") does not provide services to clients. In the United States, Deloitte refers to one or more of the US member firms of DTTL, their related entities that operate using the \"Deloitte\" name in the United States and their respective affiliates. Certain services may not be available to attest clients under the rules and regulations of public accounting. Please see www.deloitte.com/about to learn more about our global network of member firms.",
+      "remote": false,
+      "employment_type": "",
+      "match_score": 0,
+      "recommendation": "SKIP",
+      "matching_skills": [],
+      "missing_skills": [],
+      "relevant_projects": [],
+      "relevant_experience": [],
+      "reason": "Not a job posting - this is the Deloitte USI careers search landing page picked up from a seed URL.",
+      "requires_human_review": false,
+      "resume_hint": "",
+      "status": "SKIPPED",
+      "id": "8e879149d860",
+      "discovered_at": "2026-09-28T16:35:13",
+      "analyzed_at": null
     }
   ]
 }
