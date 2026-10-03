@@ -12,7 +12,10 @@
     ".NET Core / C#",
     "Ruby / Ruby on Rails backend",
     "Onsite roles outside India (remote-from-India only; remote-global is fine)",
-    "Classical computer vision / OpenCV / PIL image-processing pipelines (not comfortable as of 2026-09-10)"
+    "Classical computer vision / OpenCV / PIL image-processing pipelines (not comfortable as of 2026-09-10)",
+    "Go / Golang backend",
+    "Oracle PL/SQL",
+    "All computer vision incl. deep-learning image segmentation (reaffirmed 2026-10-03)"
   ],
   "preferences": {
     "engineer_II_sde2_experience_roles": "surface only strong-match company names; skip generic 'Software Engineer II' / 'SDE-2' reqs that just want 2-4 years",
@@ -83,7 +86,23 @@
     "d7348171ff14": "Philips Intern - Data Science and AI Engineering - candidate checked directly 2026-09-23: requires 4+ years experience; SKIPPED, REVIEW row removed.",
     "fe89d274b99f": "Philips Data Scientist - Performance Analytics - candidate checked directly 2026-09-23: requires 4+ years experience; SKIPPED, REVIEW row removed.",
     "d50e84b27105": "Standard Chartered India Jr, ML Engineer - candidate checked directly 2026-09-23: no longer accepting applications; SKIPPED, REVIEW row removed.",
-    "6fed151ecfe8": "Smytten SDE Intern - Backend - candidate checked directly 2026-09-23: no longer accepting applications; SKIPPED, REVIEW row removed."
+    "6fed151ecfe8": "Smytten SDE Intern - Backend - candidate checked directly 2026-09-23: no longer accepting applications; SKIPPED, REVIEW row removed.",
+    "0dce1db90055": "Go/Golang ruled out by candidate 2026-10-03.",
+    "4e80285a5ff7": "PL/SQL ruled out by candidate 2026-10-03.",
+    "5ca7b45b5b34": "Candidate 2026-10-03: no to all computer vision, including deep-learning image segmentation.",
+    "4aa214af002d": "Candidate 2026-10-03: no to all computer vision.",
+    "c34c872a30bd": "Linde AI Intern - LinkedIn posting closed (2026-10-03). Posting lists an email route: resume + GitHub + 200-word AI use case to Nainy.philip@linde.com (eligibility: B.Tech Sem VII, no backlogs, 6-month uninterrupted) - cold-outreach candidate.",
+    "4ba57b4c591c": "Blacklitt SWE Intern - closed on LinkedIn (checked 2026-10-03).",
+    "9011070b49c0": "Toyota Automated Logistics AI/ML Intern - closed; also 12-month onsite, wants 6-12 months industry exposure, CV-flavoured (checked 2026-10-03).",
+    "62367757ff34": "Laneway AI Engineer Intern - closed on LinkedIn (checked 2026-10-03).",
+    "d28677137e9a": "Kloth AI & ML intern - closed; also computer-vision heavy (ruled out) (checked 2026-10-03).",
+    "9e2d7c4ab245": "ecolyt.ai SDE Intern - closed on LinkedIn (checked 2026-10-03).",
+    "df7d239a419d": "Daita Labs SWE Intern - closed; also asks 6-12 months prior internship (checked 2026-10-03).",
+    "18a204257a3d": "Kompass India SW Dev Intern - LinkedIn posting expired (checked 2026-10-03).",
+    "2767e7feb9ea": "Raise Financial Services (Dhan) BI intern - closed on LinkedIn (checked 2026-10-03); contact listed hr@dhan.co.",
+    "60d1445b88f0": "Apple Applied ML Intern - posting requires PhD students (2nd year+); not eligible (checked 2026-10-03).",
+    "bdd931c6c2ad": "Merkle Science backend intern - restricted to 2027 grads from IIT/NIT/IIIT only (CSE/IT); KJ Somaiya not eligible (checked 2026-10-03).",
+    "f8b531347809": "General Mills Demand Forecasting Analyst - asks 1-2 yrs experience, full-time now, 1:30-10:30pm shift (checked 2026-10-03)."
   },
-  "updated": "2026-09-23"
+  "updated": "2026-10-03"
 }
